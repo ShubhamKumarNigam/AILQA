@@ -1,0 +1,38 @@
+(1) What is the maximum period that a juvenile can be sentenced for a crime? Are there are any exceptions to this?
+(2) Can a child in India be charged as an adult? How is it different from the law in the United states of America?
+(3) What other applicable sections of the Indian Penal Code are added in charges pertaining to acts that break the rules enacted in the prevention of money laundering act in India?
+(4) On whom is the burden of proof to prove that his assets were obtained legitimately with respect to the prevention of money laundering act of India?
+(5) Give me a summary of the nirbhaya case and the ramifications of it on the Indian legal field.
+(6) What is the procedure that the police must follow when they have been informed of a cognizable offence? Please provide relevant sections to bolster the answer.
+(7) Under what circumstances can the court join the charges of an offender pertaining to Indian law?
+(8) What happens when there is a mistake during the framing of charges of a criminal defendant in Indian law? Please provide relevant sections of law.
+(9) Is DNA evidence admissible in Indian courts?
+(10) What was the landmark ratio that the judge held in the rajiv gandhi assassination case?
+
+
+Answers:
+1-In India, a juvenile can be sentenced to a maximum of three years of imprisonment for a crime. However, in exceptional cases, the Juvenile Justice Board can transfer the case to a Children's Court and the child can be tried as an adult.
+
+2-In India, a child who is under the age of 18 years cannot be charged as an adult. In contrast, in the United States of America, laws vary by state, but in some cases, children as young as 14 can be tried as adults for certain crimes.
+
+3-The Indian Penal Code sections that are applicable in charges pertaining to acts that break the rules enacted in the Prevention of Money Laundering Act include sections 120B (criminal conspiracy), 419 (cheating by impersonation), 420 (cheating and dishonestly inducing delivery of property), 468 (forgery for purpose of cheating), and 471 (using as genuine a forged document).
+
+4-In cases related to the Prevention of Money Laundering Act, the burden of proof to prove that his assets were obtained legitimately lies with the accused.
+
+5-The Nirbhaya case involved the gang-rape and murder of a 23-year-old woman in Delhi in 2012. It led to widespread protests and public outcry and resulted in changes to Indian law, including amendments to the Criminal Law (Amendment) Act, 2013. The case highlighted the need for greater protection for women and stricter laws to prevent sexual violence.
+
+6-When the police are informed of a cognizable offence, they must register an FIR (First Information Report) and follow the procedure outlined in Section 154 of the Code of Criminal Procedure, 1973. They must also inform the nearest magistrate and conduct a preliminary investigation, as outlined in Section 157 of the same code.
+
+7-The court can join the charges of an offender pertaining to Indian law if the charges arise out of the same transaction or if they are connected with or form part of the same transaction or series of transactions.
+
+8-If there is a mistake during the framing of charges of a criminal defendant in Indian law, the court can amend the charges at any time before the judgment is pronounced, as outlined in Section 216 of the Code of Criminal Procedure, 1973.
+
+9-Yes, DNA evidence is admissible in Indian courts. In fact, the use of DNA evidence has become increasingly common in criminal trials in India.
+
+10-In the Rajiv Gandhi assassination case, the Supreme Court of India held that the death penalty can be awarded in cases where the act of the offender is of such a nature that it shakes the conscience of society and that the crime falls under the category of "rarest of rare cases." This ratio was later affirmed in subsequent cases as well.
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+(1) What is the maximum period that a juvenile can be sentenced for a crime? Are there are any exceptions to this?
+Ans:In India, the maximum detention that can be imposed on a juvenile is for 3 years remand to a Special Home, regardless of the gravity of the offence committed. However, if the crime committed by the minor is a heinous one such as murder, rape etc., they may be tried in a criminal court and may be subject to a longer sentence.
+
+
+(2) Can a child in India be charged as an adult? How is it different from the law in the United states of America?
+Ans:In India, a child between the ages of 16 and 18 can be charged as an adult depending on the gravity of the offence committed. In the United States, the age to determine juvenility varies from state to state, with most states setting the age at 18, but some states setting the age at 17 or 16. In the United States, many states permit execution of juveniles of 16 years for murder as an adult and could be tried by criminal courts for prosecution and punishment as adults as per the gravity of the alleged offence. However, in 2005, the Supreme Court of the United States ruled that it is unconstitutional to impose capital punishment for crimes committed while under the age of 18.
+
+(3) What other applicable sections of the Indian Penal Code are added in charges pertaining to acts that break the rules enacted in the prevention of money laundering act in India?
+Ans:Section 213 of the Indian Penal Code is added in charges pertaining to acts that break the rules enacted in the Prevention of Money-Laundering Act in India.
+
+(4) On whom is the burden of proof to prove that his assets were obtained legitimately with respect to the prevention of money laundering act of India?
+Ans:The burden of proof to prove that assets were obtained legitimately with respect to the Prevention of Money Laundering Act of India lies on the person in ownership, control, or possession of the property.
+
+(5) Give me a summary of the nirbhaya case and the ramifications of it on the Indian legal field.
+Ans:The Nirbhaya case refers to the 2012 gang rape and murder of a 25-year-old law student in New Delhi. The case sparked widespread protests and led to the introduction of stricter laws against sexual assault in India. The Delhi High Court found Santosh Kumar Singh guilty on both counts of rape and murder. The case had a significant impact on the Indian legal field, leading to the introduction of the Criminal Law (Amendment) Act, 2013, which increased the punishment for rape and other sexual offences, and also made acid attacks and stalking punishable offences.
+
+
+(6) What is the procedure that the police must follow when they have been informed of a cognizable offence? Please provide relevant sections to bolster the answer.
+Ans:The police must register an FIR (First Information Report) under Section 154 of the Code of Criminal Procedure if the information received discloses a cognizable offence. No preliminary inquiry is permissible in such a situation and the registration of an FIR is mandatory.
+
+
+(7) Under what circumstances can the court join the charges of an offender pertaining to Indian law?
+Ans:According to Sections 219, 220, 221, and 223 of the Code of Criminal Procedure (CrPC) in India, the court can join the charges of an offender if the offences are of the same kind, committed within the same period of time, and are against the same person or property.
+
+
+
+(8) What happens when there is a mistake during the framing of charges of a criminal defendant in Indian law? Please provide relevant sections of law.
+Ans: According to Section 215 and 464 of the Criminal Procedure Code (CrPC), the court has the power to remedy any defects in the framing or non-framing of a charge, provided that the accused has not been charged with a new offence or prejudiced in any way. The court is also required to confine its attention to documents referred to under Section 173 of the CrPC.
+
+(9) Is DNA evidence admissible in Indian courts?
+Ans:Yes, DNA evidence is admissible in Indian courts. The Indian Evidence Act, 1872 includes section 112 which allows for the admissibility of DNA evidence in civil disputes, criminal cases, and maintenance proceedings in criminal courts. Additionally, the Criminal Code of Procedure, 1973 was amended in 2005 to allow for medical practitioners to examine a person arrested on the charge of committing an offence and to include DNA test results as evidence.
+
+(10) What was the landmark ratio that the judge held in the rajiv gandhi assassination case?
+Ans:Sorry, I don't know.
+
+

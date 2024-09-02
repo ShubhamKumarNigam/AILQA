@@ -1,0 +1,37 @@
+(1) What is the maximum period that a juvenile can be sentenced for a crime? Are there are any exceptions to this?
+Ans:In India, the maximum detention that can be imposed on a juvenile is for 3 years remand to Special Home, irrespective of the gravity of offence committed. However, there are exceptions to this rule. For example, minors between the ages of ten to thirteen years of age can only receive educational penalties such as placement in a specialized Centre or home. Minors between thirteen to sixteen years of age can only receive half of the adult sentence, and minors between sixteen to eighteen years of age can be remanded to Criminal Court and have their plea of juvenility set aside.
+
+
+(2) Can a child in India be charged as an adult? How is it different from the law in the United states of America?
+Ans:In India, a child between 10 and 18 years of age can become criminally responsible for their actions and be tried by the Youth Court. Depending on the gravity of the offence committed, they may be tried in an adult court. In the United States, the age to determine juvenility varies from state to state, with most states setting the age at 18 years, but some states setting it at 17 or 16 years. In some states, minors as young as 16 years old can be tried as adults for murder, and may be subject to criminal prosecution and punishment as adults depending on the gravity of the alleged offence.
+
+(3) What other applicable sections of the Indian Penal Code are added in charges pertaining to acts that break the rules enacted in the prevention of money laundering act in India?
+Ans:Offences under the Indian Penal Code, 1860 including offences relating to Cheating, Counterfeiting of Government stamps, Dishonest or Fraudulent removal or Concealment of Property to prevent distribution among creditors, dishonestly or fraudulently preventing debt being available for creditors, Dishonest or Fraudulent execution of deed of transfer containing false statement of consideration.
+
+(4) On whom is the burden of proof to prove that his assets were obtained legitimately with respect to the prevention of money laundering act of India?
+Ans:The burden of proof lies on the person who claims that the proceeds of crime alleged to be involved in Money-Laundering, are not involved in Money-Laundering. The presumption against the accused or any 3rd party is good enough to discharge the onus of the authorities under PMLA. The onus of establishing that the property acquired is not connected to the activity of Money-Laundering is on the person in ownership, control or possession of the property, though not accused of a Section 3 offence under PMLA.
+
+(5) Give me a summary of the nirbhaya case and the ramifications of it on the Indian legal field.
+Ans:The Nirbhaya case was a 2012 case in which a 23-year-old woman was brutally gang-raped and murdered in Delhi. The case sparked outrage across India and led to the passing of the Criminal Law (Amendment) Act, 2013, which amended the Indian Penal Code, the Indian Evidence Act, and the Code of Criminal Procedure, 1973. The Act widened the definition of rape and made punishments more stringent for sexual offences. It also introduced the death penalty for repeat offenders of rape and acid attacks.
+
+
+(6) What is the procedure that the police must follow when they have been informed of a cognizable offence? Please provide relevant sections to bolster the answer.
+Ans:The police must register an FIR (First Information Report) immediately when they receive information of a cognizable offence. This is mandated by Section 154 of the Code of Criminal Procedure (CrPC). If the information does not disclose a cognizable offence but indicates the necessity for an inquiry, a preliminary inquiry may be conducted only to ascertain whether cognizable offence is disclosed or not. This inquiry should be time bound and not take more than one week. If the inquiry discloses the commission of a cognizable offence, the FIR must be registered. In cases where preliminary inquiry ends in closing the complaint, a copy of the entry of such closure must be supplied to the first informant forthwith and not later than one week. It must disclose reasons in brief for closing the complaint and not proceeding further. The police officer cannot avoid his duty of registering offence if cognizable offence is disclosed. Action must be taken against erring officers who do not register the FIR if information received by him disclses a cognizable offence. Relevant sections include Section 154 of the CrPC, Lalita Kumari vs. Government of UttarPradesh & Ors (2013)13 SCALE559, Lalita Kumari vs. Government of UttarPradesh & Ors. (2012) 4 SCC 1,
+
+
+(7) Under what circumstances can the court join the charges of an offender pertaining to Indian law?
+Ans:According to Indian law, the court can join the charges of an offender if the charges are related and fall under Sections 219, 220, 221, and 223 of the Code of Criminal Procedure. The accused has no right to claim joinder of charges or of offenders.
+
+
+
+(8) What happens when there is a mistake during the framing of charges of a criminal defendant in Indian law? Please provide relevant sections of law.
+Ans: Under Section 215 & 464 of the Criminal Procedure Code (CrPC), the object is to prevent failure of justice where there has been only a technical breach of rules not going to the root of the case. The two sections read together lay down that whatever the irregularity in framing of a charge, it is not fatal unless there is prejudice caused to the accused. In order to decide whether the error or omission has resulted in a failure of justice, the court needs to be only convinced that there is a prima facie case, where there is no necessity to adduce reasons for framing charges. However, the magistrate is required to write an order showing reasons if he decides to discharge the accused.
+
+
+(9) Is DNA evidence admissible in Indian courts?
+Ans:Yes, DNA evidence is admissible in Indian courts. The Indian Evidence Act, 1872 includes a provision (Section 112) that states that the fact that a person was born during the continuance of a valid marriage between his mother and any man, or within two hundred and eighty days after its dissolution, the mother remaining unmarried, shall be taken as proof of legitimacy of that person. Additionally, the Criminal Code of Procedure, 1973 was amended in 2005 to allow for medical practitioners, after authorization from a police officer, to examine a person arrested on the charge of committing an offence and with reasonable grounds to take samples of DNA for the purpose of identification.
+
+(10) What was the landmark ratio that the judge held in the rajiv gandhi assassination case?
+Ans:I don't know.
+
+

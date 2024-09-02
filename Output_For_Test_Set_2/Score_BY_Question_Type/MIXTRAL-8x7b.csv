@@ -1,0 +1,6 @@
+type,1,2,3,4,5,
+Anticipatory_bail,1,1,1,10,7,
+Criminal,0,0,4,9,7,
+Cyber_crime,0,0,2,9,8,
+Juvenile,1,0,4,10,5,
+Sex_crime,0,0,5,10,5,

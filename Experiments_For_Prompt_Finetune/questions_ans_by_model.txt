@@ -1,0 +1,38 @@
+(1) What is the maximum period that a juvenile can be sentenced for a crime? Are there are any exceptions to this?
+Ans:In India, the maximum period that a juvenile can be sentenced for a crime is 3 years, as per Section 15 of the Juvenile Justice Act, 2000. However, exceptions may be made depending on the gravity of the offence committed.
+
+
+(2) Can a child in India be charged as an adult? How is it different from the law in the United states of America?
+Ans:In India, a child between the ages of 10 and 18 can be criminally responsible for their actions and can be tried by the Youth Court. However, if the crime committed is a heinous one such as murder or rape, the plea of juvenility can be set aside and the child can be tried in a criminal court. In the United States, the age at which a child can be charged as an adult varies from state to state, but is generally between 16 and 18.
+
+
+(3) What other applicable sections of the Indian Penal Code are added in charges pertaining to acts that break the rules enacted in the prevention of money laundering act in India?
+Ans:Offences under the Indian Penal Code, 1860 including offences relating to Cheating, Counterfeiting of Government stamps, Dishonest or Fraudulent removal or Concealment of Property to prevent distribution among creditors, dishonestly or fraudulently preventing debt being available for creditors, Dishonest or Fraudulent execution of deed of transfer containing false statement of consideration.
+
+(4) On whom is the burden of proof to prove that his assets were obtained legitimately with respect to the prevention of money laundering act of India?
+Ans:The burden of proof lies on the person who claims that the proceeds of crime alleged to be involved in Money-Laundering, are not involved in Money-Laundering.
+
+(5) Give me a summary of the nirbhaya case and the ramifications of it on the Indian legal field.
+Ans:The Nirbhaya case was a 2012 gang rape and murder of a 23-year-old woman in Delhi, India. The incident sparked widespread protests and led to the formation of the Justice Verma Committee, which recommended changes to the criminal law to improve the justice delivery system in cases of sexual assault against women. The committee suggested amendments to the laws related to rape, acid attack, sexual harassment, trafficking, child sexual abuse, medical examination of victims, police, and the juvenile justice system. The juvenile offender in the case was sentenced to three years in a reform facility, which sparked debate about the need for reform of the juvenile justice system in India.
+
+
+(6) What is the procedure that the police must follow when they have been informed of a cognizable offence? Please provide relevant sections to bolster the answer.
+Ans:The police must register an FIR (First Information Report) under Section 154 of the Code of Criminal Procedure, 1973 (in short 'the Code') if the information discloses commission of a cognizable offence and no preliminary inquiry is permissible in such a situation. If the information received does not disclose a cognizable offence but indicates the necessity for an inquiry, a preliminary inquiry can be conducted for the limited purpose of ascertaining as to whether a cognizable offence has been committed. Such a preliminary inquiry should be time bound and not take more than one week. Failure to comply with this direction would entail disciplinary action against the erring investigating officer.
+
+
+(7) Under what circumstances can the court join the charges of an offender pertaining to Indian law?
+Ans:According to Sections 219, 220, 221, and 223 of the Code of Criminal Procedure (CrPC), the court may join the charges of an offender if the offences are of the same kind, committed within the same period of time, and are triable by the same court. The court also has the discretion to order a separate trial even if the case is covered by one of the exceptions enabling a joint trial.
+
+
+(8) What happens when there is a mistake during the framing of charges of a criminal defendant in Indian law? Please provide relevant sections of law.
+Ans:According to Section 215 & 464 of the Criminal Procedure Code (CrPC), an error or omission in the framing of a charge is not fatal unless it causes prejudice to the accused. The court should consider the manner in which the accused conducted his defense and the nature of the objection when deciding whether the error or omission has resulted in a failure of justice. If the necessary information is conveyed to the accused and no prejudice is caused, the accused cannot succeed by showing that the charges were defective. Nor can a conviction recorded on a charge under wrong provisions be reversed if the accused was informed of the details of the offences committed and thus no prejudice was caused.
+
+
+(9) Is DNA evidence admissible in Indian courts?
+Ans:Yes, DNA evidence is admissible in Indian courts. The Indian Evidence Act, 1872 includes a provision in Section 112 which states that the fact that a person was born during the continuance of a valid marriage between his mother and any man, or within two hundred and eighty days after its dissolution, the mother remaining unmarried, shall be conclusive proof that he is the legitimate son of that man, unless it can be shown that the parties to the marriage had no access to each other at any time when he could have been begotten. DNA evidence has been used to solve many cases in India, such as the Priyadarshini Mattoo case and the Rajiv Gandhi assassination case, and courts have accepted the reliability of DNA testing and included DNA test results as evidence.
+
+
+(10) What was the landmark ratio that the judge held in the rajiv gandhi assassination case?
+Ans:I don't know.
+
+
