@@ -1,0 +1,59 @@
+Definition of terms used in the Scheme.
+
+(1)In this Scheme, unless the context otherwise requires, -
+(a)"bank" means a bank as defined in clause (c) of section 5 of the Banking Regulation Act, 1949 (10 of 1949) and includes any co-operative bank as defined in clause (b) of section 5 of the Banking Regulation Act, 1949 (10 of 1949) and any other banking institution as notified by the Reserve Bank under section 51 of the Banking Regulation Act, 1949 (10 of 1949);
+(b)"complaint" means a complaint made under this Scheme by a customer against a bank for deficiency in banking services;
+(c)"customer" means a person who has a banking account with a bank or is the holder of a credit card issued by a bank or has availed any other banking service offered by a bank;
+(d)"deficiency in banking services" means any act of omission or commission or negligence or conscious withholding of information which causes loss or inconvenience or harassment or hardship to the customer;
+(e)"Reserve Bank" means the Reserve Bank of India;
+(f)"Schedule" means a Schedule annexed to this Scheme.
+
+
+Establishment of Banking Ombudsman Scheme, 2006.
+
+(1)The Reserve Bank may, by notification, establish one or more Banking Ombudsman Schemes for redressal of complaints against deficiency in banking services by banks.(2)A Banking Ombudsman may be appointed under sub-section (1) by name or as holding office under the Reserve Bank in such manner as may be specified by the Reserve Bank.(3)The Reserve Bank may specify the jurisdiction, the tenure and the terms and conditions of service of a Banking Ombudsman.(4)The Reserve Bank may also specify the procedure for handling and disposal of complaints by a Banking Ombudsman.(5)The Reserve Bank may, by notification, withdraw any Banking Ombudsman Scheme established under sub-section (1) and may substitute it by a fresh scheme or may amend any Banking Ombudsman Scheme.
+
+
+Powers of Banking Ombudsman.
+
+(1)A Banking Ombudsman may, on receipt of a complaint, make an award against the bank directing it to pay such compensation to the customer not exceeding one lakh rupees, as he thinks fit, for any loss suffered by the customer as a result of deficiency in banking services by the bank.(2)A Banking Ombudsman may also direct the bank to do any other act or thing as he thinks fit in the circumstances of the case for redressal of the deficiency in banking services by the bank.(3)A Banking Ombudsman may not award any compensation or make any direction against a bank in respect of any matter which is the subject matter of any suit or other legal proceedings instituted or pending before any court, or which is in the nature of a criminal offence, or which is in respect of matters which have been resolved by the bank through its internal grievance redressal mechanism, or which are beyond the scope of the Banking Ombudsman Scheme, 2006.
+
+
+Procedure for making a complaint.
+
+(1)A customer may make a complaint to the Banking Ombudsman in writing in English or in the official language of the area in which the branch or office of the bank against which the complaint is made is situated.(2)The complaint shall be accompanied by copies of such documents as are necessary to establish the claim of the customer and to substantiate the grounds of the complaint.(3)The Banking Ombudsman may, if he thinks fit, call for any other documents or information from the bank or the customer as he may deem necessary for the disposal of the complaint.(4)No fees shall be charged from the customer for making a complaint to the Banking Ombudsman.
+
+
+Time limit for making a complaint.
+
+(1)A complaint shall be made to the Banking Ombudsman within one year from the date on which the cause of action has arisen, provided that the Banking Ombudsman may, if he is satisfied that the complainant had sufficient cause for not making the complaint within the time limit, entertain the complaint even after the expiry of the said period of one year.(2)The Banking Ombudsman may, if he thinks fit, extend the time limit for making a complaint by such further period as he thinks fit.
+
+
+Procedure for disposal of complaint.
+
+(1)On receipt of a complaint, the Banking Ombudsman shall within fourteen days of the receipt of the complaint, send a copy of the complaint to the bank against which the complaint is made, calling upon it to give its version of the case within thirty days from the date of receipt of the complaint.(2)The bank shall send its version of the case to the Banking Ombudsman within the time limit specified in sub-section (1).(3)The Banking Ombudsman may, before making an award, call upon the parties to the dispute to submit such further evidence or to make such further statement as he may consider necessary.(4)The Banking Ombudsman may, after considering the evidence and the facts of the case, make such award as he thinks fit and send a copy of the award to each of the parties to the dispute.
+
+
+Appeal against award of Banking Ombudsman.
+
+(1)A party to a dispute may prefer an appeal against the award of the Banking Ombudsman to the appellate authority within thirty days from the date of the receipt of the award by the appellant.(2)The appellate authority may entertain the appeal after the expiry of the said period of thirty days if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the time limit.(3)No fees shall be charged for preferring an appeal to the appellate authority.
+
+
+Powers of appellate authority.
+
+(1)The appellate authority may, after giving an opportunity to the parties to be heard, pass such order as it thinks fit, confirming, modifying or setting aside the award of the Banking Ombudsman.(2)The appellate authority shall pass its order within ninety days from the date of the receipt of the appeal.(3)The appellate authority may, if it thinks fit, remand the matter to the Banking Ombudsman for fresh disposal in accordance with such directions as the appellate authority may think fit to give.
+
+
+Costs.
+
+The costs of the proceedings before the Banking Ombudsman and the appellate authority shall be determined by such authority and may be awarded against either party or shared by both parties as such authority may think fit.
+
+
+Exclusion of jurisdiction of courts.
+
+No court shall have jurisdiction in respect of any matter which the Banking Ombudsman or the appellate authority is empowered by or under this Scheme to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Scheme.
+
+
+The Banking Ombudsman Scheme 2006 
+
+ The Reserve Bank of India (RBI) introduced the Banking Ombudsman Scheme 2006 to enable resolution of complaints relating to certain services rendered by banks and to facilitate the satisfaction or settlement of such complaints. The Scheme, which came into force on January 1, 2006, applies to the business in India of a bank as defined under the Scheme. The Scheme provides for the establishment of one or more Banking Ombudsman Schemes for redressal of complaints against deficiency in banking services by banks. A Banking Ombudsman may be appointed by name or as holding office under the RBI and may be specified jurisdiction, tenure, and terms and conditions of service. The Reserve Bank may also specify the procedure for handling and disposal of complaints by a Banking Ombudsman. The Scheme provides for the powers of a Banking Ombudsman to make an award against the bank directing it to pay compensation to the customer not exceeding one lakh rupees, or to direct the bank to do any other act or thing as he thinks fit in the circumstances of the case for redressal of the deficiency in banking services by the bank. The Scheme also specifies the procedure for making a complaint, the time limit for making a complaint, and the procedure for disposal of complaint. An appeal against the award of the Banking Ombudsman may be preferred to the appellate authority within thirty days from the date of the receipt of the award by the appellant. The appellate authority may confirm, modify, or set aside the award of the Banking Ombudsman and shall pass its order within ninety days from the date of the receipt of the appeal. The costs of the proceedings before the Banking Ombudsman and the appellate authority shall be determined by such authority and may be awarded against either party or shared by both parties as such authority may think fit. No court shall have jurisdiction in respect of any matter which the Banking Ombudsman or the appellate authority is empowered by or under this Scheme to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Scheme.

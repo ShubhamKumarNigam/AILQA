@@ -1,0 +1,942 @@
+
+11
+
+Pressure relief valve for each compressor
+
+1 year
+
+Pressure relief valve shall be installed inaccordance with ASME B31.8
+
+
+
+12
+
+Flare system for each compressor
+
+1 year
+
+Flare system shall be installed in accordancewith ASME B31.8
+
+
+
+13
+
+Fire protection system shall be provided foreach compressor
+
+1 year
+
+Fire protection system shall be installed inaccordance with ASME B31.8
+
+
+
+14
+
+Pipe rack for pipelines of size NPS of 8 inchesand above
+
+1 year
+
+Pipe rack shall be installed in accordance withASME B31.8
+
+
+
+15
+
+Pressure safety valve for each compressor
+
+1 year
+
+Pressure safety valve shall be installed inaccordance with ASME B31.8
+
+
+
+16
+
+Slam shut valve for each compressor
+
+1 year
+
+Slam shut valve shall be installed in accordancewith ASME B31.8
+
+
+
+17
+
+Check valve for each compressor
+
+1 year
+
+Check valve shall be installed in accordancewith ASME B31.8
+
+
+
+18
+
+Surge relief valve for each compressor
+
+1 year
+
+Surge relief valve shall be installed inaccordance with ASME B31.8
+
+
+
+19
+
+Pig launcher for each compressor
+
+1 year
+
+Pig launcher shall be installed in accordancewith ASME B31.8
+
+
+
+20
+
+Pig receiver for each compressor
+
+1 year
+
+Pig receiver shall be installed in accordancewith ASME B31.8
+
+
+
+21
+
+Gas compressor unit and auxiliaries
+
+1 year
+
+Gas compressor unit and auxiliaries shall beinstalled in accordance with ASME B31.8
+
+
+
+22
+
+Motor and driver shall be installed to avoidcoincident failure
+
+1 year
+
+Motor and driver shall be installed in accordancewith ASME B31.8
+
+
+
+23
+
+Control room for each compressor
+
+1 year
+
+Control room shall be installed in accordancewith ASME B31.8
+
+
+
+24
+
+Emergency shut down system
+
+1 year
+
+Emergency shut down system shall be installedin accordance with ASME B31.8
+
+
+
+25
+
+Emergency lighting for each compressor
+
+1 year
+
+Emergency lighting shall be installed inaccordance with ASME B31.8
+
+
+
+26
+
+Earthing system for each compressor
+
+1 year
+
+Earthing system shall be installed in accordancewith ASME B31.8
+
+
+
+27
+
+Emergency power supply for each compressor
+
+1 year
+
+Emergency power supply shall be installed inaccordance with ASME B31.8
+
+
+
+28
+
+Fire detection system for each compressor
+
+1 year
+
+Fire detection system shall be installed inaccordance with ASME B31.8
+
+
+
+29
+
+Fire alarm system for each compressor
+
+1 year
+
+Fire alarm system shall be installed inaccordance with ASME B31.8
+
+
+
+30
+
+Fire fighting system for each compressor
+
+1 year
+
+Fire fighting system shall be installed inaccordance with ASME B31.8
+
+
+
+31
+
+Fire water tank for each compressor
+
+1 year
+
+Fire water tank shall be installed in accordancewith ASME B31.8
+
+
+
+32
+
+Fire water pump for each compressor
+
+1 year
+
+Fire water pump shall be installed in accordancewith ASME B31.8
+
+
+
+33
+
+Fire water hydrant for each compressor
+
+1 year
+
+Fire water hydrant shall be installed inaccordance with ASME B31.8
+
+
+
+34
+
+Fire water distribution piping for eachcompressor
+
+1 year
+
+Fire water distribution piping shall be installedin accordance with ASME B31.8
+
+
+
+35
+
+Fire water monitors for each compressor
+
+1 year
+
+Fire water monitors shall be installed inaccordance with ASME B31.8
+
+
+
+36
+
+Fire water deluge system for each compressor
+
+1 year
+
+Fire water deluge system shall be installed inaccordance with ASME B31.8
+
+
+
+37
+
+Fire water spray system for each compressor
+
+1 year
+
+Fire water spray system shall be installed inaccordance with ASME B31.8
+
+
+
+38
+
+Fire water foam system for each compressor
+
+1 year
+
+Fire water foam system shall be installed inaccordance with ASME B31.8
+
+
+
+39
+
+Fire water nozzles for each compressor
+
+1 year
+
+Fire water nozzles shall be installed in accordancewith ASME B31.8
+
+
+
+40
+
+Fire water hose reels for each compressor
+
+1 year
+
+Fire water hose reels shall be installed inaccordance with ASME B31.8
+
+
+
+41
+
+Fire water standpipes for each compressor
+
+1 year
+
+Fire water standpipes shall be installed inaccordance with ASME B31.8
+
+
+
+42
+
+Fire water alarm system for each compressor
+
+1 year
+
+Fire water alarm system shall be installed inaccordance with ASME B31.8
+
+
+
+43
+
+Fire water control valves for each compressor
+
+1 year
+
+Fire water control valves shall be installed inaccordance with ASME B31.8
+
+
+
+44
+
+Fire water isolation valves for each compressor
+
+1 year
+
+Fire water isolation valves shall be installed inaccordance with ASME B31.8
+
+
+
+45
+
+Fire water pressure relief valves for eachcompressor
+
+1 year
+
+Fire water pressure relief valves shall be installedin accordance with ASME B31.8
+
+
+
+46
+
+Fire water drain valves for each compressor
+
+1 year
+
+Fire water drain valves shall be installed inaccordance with ASME B31.8
+
+
+
+47
+
+Fire water flow control valves for eachcompressor
+
+1 year
+
+Fire water flow control valves shall be installedin accordance with ASME B31.8
+
+
+
+48
+
+Fire water pressure reducing valves for eachcompressor
+
+1 year
+
+Fire water pressure reducing valves shall beinstalled in accordance with ASME B31.8
+
+
+
+49
+
+Fire water pressure sustaining valves for eachcompressor
+
+1 year
+
+Fire water pressure sustaining valves shall beinstalled in accordance with ASME B31.8
+
+
+
+50
+
+Fire water pump control panel for eachcompressor
+
+1 year
+
+Fire water pump control panel shall be installedin accordance with ASME B31.8
+
+
+
+51
+
+Fire water pump protection panel for eachcompressor
+
+1 year
+
+Fire water pump protection panel shall be installedin accordance with ASME B31.8
+
+
+
+52
+
+Fire water pump motor control for eachcompressor
+
+1 year
+
+Fire water pump motor control shall be installedin accordance with ASME B31.8
+
+
+
+53
+
+Fire water pump starter for each compressor
+
+1 year
+
+Fire water pump starter shall be installed inaccordance with ASME B31.8
+
+
+
+54
+
+Fire water pump controller for each compressor
+
+1 year
+
+Fire water pump controller shall be installed inaccordance with ASME B31.8
+
+
+
+55
+
+Fire water pump alarm for each compressor
+
+1 year
+
+Fire water pump alarm shall be installed inaccordance with ASME B31.8
+
+
+
+56
+
+Fire water pump trip for each compressor
+
+1 year
+
+Fire water pump trip shall be installed inaccordance with ASME B31.8
+
+
+
+57
+
+Fire water pump pressure switch for eachcompressor
+
+1 year
+
+Fire water pump pressure switch shall be installedin accordance with ASME B31.8
+
+
+
+58
+
+Fire water pump level switch for eachcompressor
+
+1 year
+
+Fire water pump level switch shall be installedin accordance with ASME B31.8
+
+
+
+59
+
+Fire water pump flow switch for each compressor
+
+1 year
+
+Fire water pump flow switch shall be installed inaccordance with ASME B31.8
+
+
+
+60
+
+Fire water pump temperature switch for eachcompressor
+
+1 year
+
+Fire water pump temperature switch shall beinstalled in accordance with ASME B31.8
+
+
+
+61
+
+Fire water pump voltage switch for each compressor
+
+1 year
+
+Fire water pump voltage switch shall be installedin accordance with ASME B31.8
+
+
+
+62
+
+Fire water pump current switch for eachcompressor
+
+1 year
+
+Fire water pump current switch shall be installedin accordance with ASME B31.8
+
+
+
+63
+
+Fire water pump protection relay for eachcompressor
+
+1 year
+
+Fire water pump protection relay shall beinstalled in accordance with ASME B31.8
+
+
+
+64
+
+Fire water pump overload relay for each compressor
+
+1 year
+
+Fire water pump overload relay shall be installedin accordance with ASME B31.8
+
+
+
+65
+
+Fire water pump under voltage relay for eachcompressor
+
+1 year
+
+Fire water pump under voltage relay shall beinstalled in accordance with ASME B31.8
+
+
+
+66
+
+Fire water pump phase loss relay for eachcompressor
+
+1 year
+
+Fire water pump phase loss relay shall be installedin accordance with ASME B31.8
+
+
+
+67
+
+Fire water pump directional overcurrentrelay for each compressor
+
+1 year
+
+Fire water pump directional overcurrentrelay shall be installed in accordance with ASME B31.8
+
+
+
+68
+
+Fire water pump ground fault relay for eachcompressor
+
+1 year
+
+Fire water pump ground fault relay shall beinstalled in accordance with ASME B31.8
+
+
+
+69
+
+Fire water pump phase unbalance relay for eachcompressor
+
+1 year
+
+Fire water pump phase unbalance relay shall beinstalled in accordance with ASME B31.8
+
+
+
+70
+
+Fire water pump negative sequence relay for eachcompressor
+
+1 year
+
+Fire water pump negative sequence relay shall beinstalled in accordance with ASME B31.8
+
+
+
+71
+
+Fire water pump instantaneous trip relayfor each compressor
+
+1 year
+
+Fire water pump instantaneous trip relayshall be installed in accordance with ASME B31.8
+
+
+
+72
+
+Fire water pump thermal relay for eachcompressor
+
+1 year
+
+Fire water pump thermal relay shall be installedin accordance with ASME B31.8
+
+
+
+73
+
+Fire water pump surge arrestor for eachcompressor
+
+1 year
+
+Fire water pump surge arrestor shall be installedin accordance with ASME B31.8
+
+
+
+74
+
+Fire water pump capacitor for each compressor
+
+1 year
+
+Fire water pump capacitor shall be installed inaccordance with ASME B31.8
+
+
+
+75
+
+Fire water pump over voltage trip for eachcompressor
+
+1 year
+
+Fire water pump over voltage trip shall be installedin accordance with ASME B31.8
+
+
+
+76
+
+Fire water pump under voltage trip for eachcompressor
+
+1 year
+
+Fire water pump under voltage trip shall be installedin accordance with ASME B31.8
+
+
+
+77
+
+Fire water pump start capacitor for eachcompressor
+
+1 year
+
+Fire water pump start capacitor shall be installedin accordance with ASME B31.8
+
+
+
+78
+
+Fire water pump run capacitor for eachcompressor
+
+1 year
+
+Fire water pump run capacitor shall be installedin accordance with ASME B31.8
+
+
+
+79
+
+Fire water pump surge capacitor for eachcompressor
+
+1 year
+
+Fire water pump surge capacitor shall be installedin accordance with ASME B31.8
+
+
+
+80
+
+Fire water pump start resistor for eachcompressor
+
+1 year
+
+Fire water pump start resistor shall be installedin accordance with ASME B31.8
+
+
+
+81
+
+Fire water pump run resistor for eachcompressor
+
+1 year
+
+Fire water pump run resistor shall be installedin accordance with ASME B31.8
+
+
+
+82
+
+Fire water pump surge resistor for eachcompressor
+
+1 year
+
+Fire water pump surge resistor shall be installedin accordance with ASME B31.8
+
+
+
+83
+
+Fire water pump start choke for eachcompressor
+
+1 year
+
+Fire water pump start choke shall be installedin accordance with ASME B31.8
+
+
+
+84
+
+Fire water pump run choke for eachcompressor
+
+1 year
+
+Fire water pump run choke shall be installed inaccordance with ASME B31.8
+
+
+
+85
+
+Fire water pump surge choke for eachcompressor
+
+1 year
+
+Fire water pump surge choke shall be installed inaccordance with ASME B31.8
+
+
+
+86
+
+Fire water pump start inductor for eachcompressor
+
+1 year
+
+Fire water pump start inductor shall be installedin accordance with ASME B31.8
+
+
+
+87
+
+Fire water pump run inductor for eachcompressor
+
+1 year
+
+Fire water pump run inductor shall be installed inaccordance with ASME B31.8
+
+
+
+88
+
+Fire water pump surge inductor for eachcompressor
+
+1 year
+
+Fire water pump surge inductor shall be installedin accordance with ASME B31.8
+
+
+
+89
+
+Fire water pump start capacitor bank for eachcompressor
+
+1 year
+
+Fire water pump start capacitor bank shall beinstalled in accordance with ASME B31.8
+
+
+
+90
+
+Fire water pump run capacitor bank for eachcompressor
+
+1 year
+
+Fire water pump run capacitor bank shall beinstalled in accordance with ASME B31.8
+
+
+
+91
+
+Fire water pump surge capacitor bank for eachcompressor
+
+1 year
+
+Fire water pump surge capacitor bank shall beinstalled in accordance with ASME B31.8
+
+
+
+92
+
+Fire water pump start transformer for eachcompressor
+
+1 year
+
+Fire water pump start transformer shall beinstalled in accordance with ASME B31.8
+
+
+
+93
+
+Fire water pump run transformer for eachcompressor
+
+1 year
+
+Fire water pump run transformer shall be installedin accordance with ASME B31.8
+
+
+
+94
+
+Fire water pump surge transformer for eachcompressor
+
+1 year
+
+Fire water pump surge transformer shall beinstalled in accordance with ASME B31.8
+
+
+
+95
+
+Fire water pump start booster for eachcompressor
+
+1 year
+
+Fire water pump start booster shall be installedin accordance with ASME B31.8
+
+
+
+96
+
+Fire water pump run booster for eachcompressor
+
+1 year
+
+Fire water pump run booster shall be installed inaccordance with ASME B31.8
+
+
+
+97
+
+Fire water pump surge booster for eachcompressor
+
+1 year
+
+Fire water pump surge booster shall be installed inaccordance with ASME B31.8
+
+
+
+98
+
+Fire water pump start reactor for eachcompressor
+
+1 year
+
+Fire water pump start reactor shall be installed inaccordance with ASME B31.8
+
+
+
+99
+
+Fire water pump run reactor for eachcompressor
+
+1 year
+
+Fire water pump run reactor shall be installed inaccordance with ASME B31.8
+
+
+
+100
+
+Fire water pump surge reactor for eachcompressor
+
+1 year
+
+Fire water pump surge reactor shall be installed inaccordance with ASME B31.8
+
+
+
+101
+
+Fire water pump start motor for eachcompressor
+
+1 year
+
+Fire water pump start motor shall be installedin accordance with ASME B31.8
+
+
+
+102
+
+Fire water pump run motor for eachcompressor
+
+1 year
+
+Fire water pump run motor shall be installed inaccordance with ASME B31.8
+
+
+
+103
+
+Fire water pump surge motor for eachcompressor
+
+1 year
+
+Fire water pump surge motor shall be installed inaccordance with ASME B31.8
+
+
+
+104
+
+Fire water pump start generator for eachcompressor
+
+1 year
+
+Fire water pump start generator shall be installedin accordance with ASME B31.8
+
+
+
+105

@@ -1,0 +1,15 @@
+Summary:
+
+The Taxation Laws (Continuation and Validation of Recovery Proceedings) Act, 1964, is an Act that provides for the continuation and validation of proceedings related to Government dues under various scheduled Acts. The Act defines certain key terms, including "assessee," "Government dues," "scheduled Act," "Taxing Authority," and "Tax Recovery Officer."
+
+Section 3 of the Act deals with the continuation and validation of certain proceedings. If a notice of demand in respect of any Government dues is served upon an assessee by a Taxing Authority under any scheduled Act, and any appeal or other proceeding is filed or taken in respect of such Government dues, then the proceedings may continue from the stage at which they stood immediately before the disposal of such appeal or proceeding, without the service of any fresh notice of demand. The amount of Government dues may be enhanced or reduced in such appeal or proceeding, but no proceedings shall be invalid by reason only that no fresh notice of demand was served upon the assessee after the disposal of such appeal or proceeding.
+
+Section 4 of the Act allows the Central Government to add the name of any Central Act providing for the imposition or levy of any tax or duty in the Schedule, and on the issue of any such notification, the Act so added shall be deemed to be an Act specified in the Schedule within the meaning of clause (c) of section 2.
+
+Section 5 of the Act states that the provisions of this Act shall apply and shall be deemed always to have applied, in relation to every notice of demand served upon an assessee by any Taxing Authority under any scheduled Act, whether such notice was or is served before or after the commencement of this Act.
+
+Section 6 of the Act allows the Central Government to make such provisions not inconsistent with the purposes of this Act, as appear to it to be necessary or expedient for removing the difficulty.
+
+Section 7 of the Act allows the Central Government to make rules for carrying out the purposes of this Act.
+
+The Schedule of the Act lists the various scheduled Acts, including the Indian Income-tax Act, 1922, the Excess Profits Tax Act, 1940, the Business Profits Tax Act, 1947, the Estate Duty Act, 1953, the Wealth-tax Act, 1957, the Expenditure-tax Act, 1957, the Gift-tax Act, 1958, the Income-tax Act, 1961, the Super Profits Tax Act, 1963, and the Companies (Profits) Surtax Act, 1964.

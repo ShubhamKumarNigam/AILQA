@@ -1,0 +1,6 @@
+Summary:
+The All-India Services Act, 1951, is a law that regulates the recruitment and conditions of service for persons appointed to the All-India Services, which include the Indian Administrative Service and the Indian Police Service. The Act also allows for the creation of other All-India Services, such as the Indian Service of Engineers (Irrigation, Power, Buildings and Roads), the Indian Forest Service, and the Indian Medical and Health Service.
+
+Under this Act, the Central Government has the power to make rules for the regulation of recruitment and the conditions of service of persons appointed to an All-India Service, after consultation with the Governments of the States concerned. These rules may be given retrospective effect, but they cannot be applied in a way that prejudicially affects the interests of any person to whom such rule may be applicable. Every rule made by the Central Government under this Act, and every regulation made under or in pursuance of any such rule, shall be laid before each House of Parliament for a total period of thirty days.
+
+All rules in force immediately before the commencement of this Act and applicable to an All-India Service shall continue to be in force and shall be deemed to be rules made under this Act.

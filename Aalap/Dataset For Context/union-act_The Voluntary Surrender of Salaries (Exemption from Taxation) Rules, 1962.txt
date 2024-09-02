@@ -1,0 +1,9 @@
+
+Summary:
+The Voluntary Surrender of Salaries (Exemption from Taxation) Rules, 1962 are made in accordance with the Voluntary Surrender of Salaries (Exemption from Taxation) Act, 1961. These rules provide the procedure for the surrender of a part of the salary by a person, other than those whose salary is paid out of the Consolidated Fund of India or of a State. The rules define various terms used in the Act, such as "Act", "due date", "Disbursing Authority", "Form", "salary", and "Income-tax Officer".
+
+To surrender a part of the salary, a person must make a declaration in duplicate in Form 1 and send one copy to the Disbursing Authority before the due date and the other copy to the Income-tax Officer having jurisdiction to assess him. The Disbursing Authority is required to deduct the part of the salary covered by the declaration and credit the amount to the Central Government within seven days from the due date.
+
+The Disbursing Authority must send one copy of the challan evidencing the payment of the amount to the credit of the Central Government to the person making the declaration. The challans must be supplied by the Income-tax Officer on request.
+
+Before the 31st day of March in each year, the Disbursing Authority must deliver or cause to be delivered to the Income-tax Officer a return for the year ending on that date in Form II, verified in the manner provided therein.

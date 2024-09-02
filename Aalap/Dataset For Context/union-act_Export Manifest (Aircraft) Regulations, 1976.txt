@@ -1,0 +1,13 @@
+Summary:
+
+The Export Manifest (Aircraft) Regulations, 1976, outlines the rules for the creation and submission of export manifests for aircraft leaving India. These regulations apply to all goods being carried on the aircraft, including cargo, personal belongings of the crew, and any other items.
+
+The export manifest must be submitted in duplicate and must include a general declaration, a passenger manifest, a cargo manifest, and a list of private property in the possession of the Captain and other crew members. The cargo manifest must be divided into separate sheets for different categories of cargo, including shipped goods, transhipped goods, goods remaining on the aircraft, and goods for which drawback has been claimed.
+
+For cargo in certain categories, including arms, ammunition, explosives, narcotics, dangerous drugs, and gold, a separate declaration must be furnished, regardless of whether the cargo is being shipped, transhipped, or carried as same bottom cargo.
+
+The passenger manifest must be delivered in two stages: the pre-check-in manifest must be delivered twelve hours before the departure of the flight, and the final manifest must be delivered fifteen minutes before the flight leaves or takes off from the port of embarkation in India. The manifests must be transmitted electronically to the Indian Customs in flat file format or in UN/EDIFACT PAXLST API message format.
+
+If the manifest cannot be delivered electronically, it may be delivered in accordance with conditions prescribed by the Principal Commissioner of Customs or Commissioner of Customs. Any amendments to the manifest must be transmitted to the Indian Customs as soon as they are made and before the departure of the flight.
+
+The regulations also include forms for the general declaration, passenger manifest, cargo manifest, and list of private property. These forms must be used when creating the export manifest. The list of private property must include any currency, tobacco products, alcoholic liquors, watches, jewelry, and any other articles not enumerated that are in the possession of the Captain and other crew members.

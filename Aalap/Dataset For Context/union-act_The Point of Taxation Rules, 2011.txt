@@ -1,0 +1,11 @@
+Summary:
+
+The Point of Taxation Rules, 2011, govern the determination of the point in time when a taxable service is deemed to have been provided for the purposes of the Finance Act, 1994. The rules define key terms such as "associated enterprises," "continuous supply of service," "invoice," "point of taxation," and "taxable service."
+
+The point of taxation is generally determined as the time when the service is provided or to be provided. However, if an invoice is issued or payment is received before the service is provided, the service is deemed to have been provided at the time of the invoice or payment, whichever is earlier. In the case of continuous supply of service, the service is deemed to have been provided at the time of payment, if the payment is liable to be made on a specific date as specified in the contract.
+
+The rules also provide for the determination of the point of taxation in cases where there is a change of rate of tax, in case of new services, in case of associated enterprises, and in case of copyrights, trademarks, designs, or patents.
+
+If the point of taxation cannot be determined as per the rules due to the unavailability of the date of invoice or the date of payment or both, the Central Excise officer may determine the point of taxation to the best of his judgment after giving an opportunity of being heard to the concerned person.
+
+These rules do not apply to invoices issued prior to the date from which these rules become effective.

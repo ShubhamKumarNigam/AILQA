@@ -1,0 +1,19 @@
+Summary:
+
+The Partition Act, 1893, also known as Act No. 4 of 1893, was enacted on the 9th of March, 1893, with the purpose of amending the law relating to partition. The Act applies to the whole of India, except the State of Jammu and Kashmir. The Act does not affect any local law that provides for the partition of immoveable property that pays revenue to the government.
+
+The Act gives the court the power to order a sale instead of division in partition suits if the nature of the property, the number of shareholders, or any other special circumstances make a division unreasonable or inconvenient. The court may direct a sale if requested by any shareholder interested individually or collectively to the extent of one moiety or upwards. If another shareholder applies for leave to buy the share or shares of the party or parties asking for a sale, the court shall order a valuation of the share or shares and offer to sell the same to the shareholder at the price so ascertained.
+
+If two or more shareholders apply for leave to buy, the court shall direct a sale of the share or shares to the shareholder who offers to pay the highest price above the valuation made by the court. If no shareholder is willing to buy the share or shares at the price so ascertained, the applicant or applicants shall be liable to pay all costs of or incident to the application or applications.
+
+If a share of a dwelling-house belonging to an undivided family has been transferred to a person who is not a member of such family, and such transferee sues for partition, the court shall, if any member of the family being a shareholder shall undertake to buy the share of such transferee, make a valuation of such share and direct the sale of such share to such shareholder.
+
+In any suit for partition, a request for sale may be made or an undertaking or application to buy may be given or made on behalf of any party under disability by any person authorized to act on behalf of such party in such suit. The court shall not be bound to comply with any such request, undertaking, or application unless it is of opinion that the sale or purchase will be for the benefit of the party under such disability.
+
+Every sale under section 2 shall be subject to a reserved bidding, and the amount of such bidding shall be fixed by the court in such manner as it may think fit and may be varied from time to time. On any such sale, any of the shareholders shall be at liberty to bid at the sale on such terms as to non-payment of deposit or as to setting off or accounting for the purchase-money or any part thereof instead of paying the same as to the court may seem reasonable.
+
+When any property is directed to be sold under this Act, the following procedure shall, as far as practicable, be adopted: (a) if the property be sold under a decree or order of the High Court of Calcutta, Madras, or Bombay, in the exercise of its original jurisdiction, the procedure of such court in its original civil jurisdiction for the sale of property by the Registrar; (b) if the property be sold under a decree or order of any other court, such procedure as the High Court may from time to time by rules prescribe in this behalf, and until such rules are made, the procedure prescribed in the Code of Civil Procedure in respect of sales in execution of decrees.
+
+Any order for sale made by the court under section 2, 3, or 4 shall be deemed to be a decree within the meaning of section 2 of the Code of Civil Procedure (14 of 1882). In any suit for partition, the court may, if it shall think fit, make a decree for a partition of part of the property to which the suit relates and a sale of the remainder under this Act.
+
+This Act shall apply to suits instituted before the commencement thereof, in which no scheme for the partition of the property has been finally approved by the court. The Act has been extended to Dadra and Nagar Haveli, Pondicherry, and Sikkim.

@@ -1,0 +1,18 @@
+Summary:
+The Identification of Prisoners Act, 1920 (Act No. 33 of 1920) is a law in India that authorizes the taking of measurements and photographs of convicts and others. The Act extends to the whole of India except for the territories that were formerly part of Part B States.
+
+The Act defines "measurements" to include finger impressions and foot-print impressions, and "police officer" as an officer in-charge of a police-station, a police officer making an investigation under Chapter XIV of the Code of Criminal Procedure, 1898, or any other police officer not below the rank of Sub-Inspector.
+
+The Act requires every person who has been convicted of any offence punishable with rigorous imprisonment for a term of one year or upwards, or of any offence which would render him liable to enhanced punishment on a subsequent conviction, to allow his measurements and photograph to be taken by a police officer in the prescribed manner.
+
+Any person who has been arrested in connection with an offence punishable with rigorous imprisonment for a term of one year or upwards shall, if so required by a police officer, allow his measurements to be taken in the prescribed manner.
+
+A Magistrate may order any person to allow his measurements or photograph to be taken if it is expedient for the purposes of any investigation or proceeding under the Code of Criminal Procedure, 1898. However, no order shall be made directing any person to be photographed except by a magistrate of the first class, and only if the person has at some time been arrested in connection with such investigation or proceeding.
+
+Resistance to or refusal to allow the taking of measurements or photographs under this Act is an offence under section 186 of the Indian Penal Code, 1860.
+
+Where any person who, not having been previously convicted of an offence punishable with rigorous imprisonment for a term of one year or upwards, has had his measurements taken or has been photographed in accordance with the provisions of this Act is released without trial or discharged or acquitted by any court, all measurements and all photographs (both negatives and copies) so taken shall, unless the court or (in a case where such person is released without trial) the District Magistrate or Sub-Divisional Officer for reasons to be recorded in writing otherwise directs, be destroyed or made over to him.
+
+The State Government may make rules for the purpose of carrying into effect the provisions of this Act, including restrictions on the taking of photographs, the places at which measurements and photographs may be taken, the nature of the measurements that may be taken, the method in which any class or classes of measurements shall be taken, the dress to be worn by a person when being photographed, and the preservation, safe custody, destruction and disposal of records of measurements and photographs.
+
+No suit or other proceeding shall lie against any person for anything done, or intended to be done, in good faith under this Act or under any rule made thereunder.

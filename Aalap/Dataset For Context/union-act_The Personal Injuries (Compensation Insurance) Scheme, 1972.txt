@@ -1,0 +1,41 @@
+The Personal Injuries (Compensation Insurance) Scheme, 1972 is a scheme made under the Personal Injuries (Compensation Insurance) Act, 1963. It came into force on the 3rd of December, 1971. The Scheme provides for the insurance of employers against their liability for compensation to workmen in respect of personal injuries sustained by them. The Scheme defines various terms used in it, including "Act", "advance premium", "Claims Officer", "commissioner", "compensation", "dependent", "eligible member of a family", "Form", "Government Agent", "head of account", "period of emergency", "policy", "qualifying injury", "quarter", "section", and "wages bill".
+
+Under the Scheme, every employer is required to take out a policy of insurance as laid down in section 9 of the Act and pay advance premiums as may be notified under clause 8 and final premium as may be notified under clause 6 after the expiry of the period of the emergency. The amount of the advance premium payable for the quarter ending 31st December, 1971, against the total premium to be determined under clause 6 shall be at the rate of three paise per one hundred rupees of the relevant wages bill. The amount of advance premiums payable during subsequent quarters shall be expressed as a percentage of the relevant wages bill of each employer and shall be payable at such rates as may be notified from time to time by the Central Government in the Official Gazette in this behalf.
+
+The total premium due on a policy of insurance shall be determined by the Central Government by a notification in the Official Gazette within nine months after the termination of the period of emergency. The premium shall be expressed as a percentage of the wages bill of the employer or as the equivalent of all advance payments of premium already made by him. The premium shall be payable by employers in such instalments as may be fixed by the Central Government. Each such instalment shall be paid into a Government Treasury under the head of account through a challan and the challan evidencing such payment shall be forwarded to the Government Agent, within 30 days of the date fixed for payment by a notification in the Official Gazette.
+
+For the purpose of calculating the total premium due from any employer on a policy of insurance, the total wages bill of that employer for the four complete quarters preceding the date of termination of the period of emergency shall be the wages bill on which percentages will be charged.
+
+The value in lump sum of the pensions and allowances payable under the Personal Injuries (Emergency Provisions) Act, 1962 and specified in column 1 of the Table below shall be the corresponding amount indicated in column 2 thereof.
+
+The amount of compensation payable under this Scheme shall be as follows:-
+
+(a)Where death results from the injury and the deceased person has been in receipt of monthly wages falling within limits shown in the first column of the Annexure-the amount shown against such limits in the corresponding entries in the second column thereof;
+
+(b)Where permanent total disablement results from the injury and the injured person has been in receipt of monthly wages falling within the limits shown in the first column of the Annexure-the amount shown against such limits in the corresponding entries in the third column thereof;
+
+(c)Where permanent partial disablement results from the injury-such percentage of the compensation which would have been payable in the case of permanent total disablement as is specified therein as being the percentage of the loss of earning capacity caused by the injury, and
+
+(d)Where temporary disablement, whether total or partial, results from the injury and the injured person has been in receipt of monthly wages falling within limits shown in the first column of the Annexure, a half monthly payment of the sum shown against such limits in the corresponding entries in the fourth column thereof payable on the sixteenth day-from the date of the disablement, where such disablement lasts for a period of twenty-eight days or more; or after the expiry of a waiting period of three days from the date of the disablement where such disablement lasts for a period of less than twenty eight days, and thereafter half-monthly for so long as he receives any payment under the Scheme made under the Personal Injuries (Emergency Provisions) Act, 1962.
+
+Compensation in respect of a qualifying injury sustained by a workman shall be admissible only if the injury was sustained at any time-
+
+(a)on a day on which he was on duty as such workman, or
+
+(b)on a day on which he would have been on duty but for that day being a recognised holiday or day of rest or for his being casually absent from duty on account of illness, injury or other similar cause, or for any other reason which in the opinion of the Claims Officer was good and sufficient.
+
+The employer of a workman sustaining a qualifying injury may grant to the workman himself or in the year of his death to any person to whom compensation would be payable under clause 18 an advance on account of compensation not exceeding two hundred rupees.
+
+An application for compensation under this Scheme shall be made to the Claims Officer of the area where the injury was sustained within eight months after the date of sustaining the qualifying injury by any of the following persons in the manner laid down in clause 14, namely:--
+
+(i)the workman, or
+
+(ii)in case of workman's death, an eligible member of the workman's family.
+
+An application made after the period of eight months of the date of the qualifying injury shall not be considered. But the Claims Officer may, in his discretion, if he is satisfied that the delay has been due to valid reasons, admit the application.
+
+An application for compensation by the workman sustaining the qualifying injury shall be made in Form G to the Claims Officer through the person in charge of the hospital or dispensary where he last received or is receiving treatment, or if he has not been treated in any hospital or dispensary, through the Medical Officer of Government or a registered medical practitioner, if any, who last treated him for the injury, and shall be countersigned by such person, officer or practitioner.
+
+On receipt of an application for compensation in Form G, H or I the Claims Officer shall require the employer to submit a return in duplicate in Form J within such time as may be prescribed by the Claims Officer.
+
+When an application for compensation under this Scheme is received, the Claims Officer shall, after considering the reports and certificates pertaining to the case and after obtaining such other evidence, if any, as he considers necessary, and in addition to the award under the Scheme made under the Personal Injuries (Emergency Provisions) Act, 1962 (59 of 1962), make another award, or awards in Form K when there are several eligible members, under the provisions of this Scheme for the payment of compensation under the provisions of the Act.

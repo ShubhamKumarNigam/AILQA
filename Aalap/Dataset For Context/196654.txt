@@ -1,0 +1,63 @@
+Summary:
+
+THE SEEDS ACT, 1966 is an Act that aims to regulate the quality of certain seeds for sale and related matters in India. The Act is divided into several sections, each addressing a specific aspect of seed regulation.
+
+Section 1 outlines the short title, extent, and commencement of the Act. The Act extends to the whole of India and can come into force on a date specified by the Central Government.
+
+Section 2 provides definitions for various terms used throughout the Act, including agriculture, Central Seed Laboratory, certification agency, Committee, container, export, import, kind, notified kind or variety, prescribed, seed, Seed Analyst, Seed Inspector, State Government, State Seed Laboratory, and variety.
+
+Section 3 establishes the Central Seed Committee, which is responsible for advising the Central Government and State Governments on matters related to the administration of the Act. The Committee is composed of a Chairman, eight members nominated by the Central Government, and one member nominated by each State Government.
+
+Section 4 allows the Central Government to establish a Central Seed Laboratory or declare any seed laboratory as the Central Seed Laboratory. Similarly, the State Government can establish one or more State Seed Laboratories or declare any seed laboratory as the State Seed Laboratory.
+
+Section 5 grants the Central Government the power to notify kinds or varieties of seeds that require regulation.
+
+Section 6 enables the Central Government to specify minimum limits of germination and purity for seeds of notified kinds or varieties.
+
+Section 7 prohibits the sale of seeds of notified kinds or varieties unless they meet certain requirements, such as being identifiable as to their kind or variety, conforming to minimum limits of germination and purity, bearing the prescribed mark or label, and complying with other requirements as may be prescribed.
+
+Section 8 allows the State Government or the Central Government in consultation with the State Government to establish a certification agency for the State to carry out functions related to seed certification.
+
+Section 8A establishes the Central Seed Certification Board, which is responsible for advising the Central Government and State Governments on all matters relating to certification and coordinating the functioning of the agencies established under Section 8.
+
+Section 8B permits the Central Seed Certification Board to appoint Committees to exercise specific functions and perform specific duties.
+
+Section 8C states that the proceedings of the Board or any Committee thereof shall not be invalid by reason of any vacancy therein.
+
+Section 8D grants the Central Seed Certification Board the power to make bye-laws for its own procedure and the procedure of any Committee thereof.
+
+Section 8E provides for the appointment of a Secretary and other officers to assist the Central Seed Certification Board.
+
+Section 9 outlines the process for granting a certificate by the certification agency, including the application process, the conditions for granting a certificate, and the standards that must be met.
+
+Section 10 allows the certification agency to revoke a certificate under certain circumstances, such as obtaining the certificate by misrepresentation or failing to comply with the conditions subject to which the certificate has been granted.
+
+Section 11 provides for an appeal process for any person aggrieved by a decision of a certification agency under Section 9 or Section 10.
+
+Section 12 allows the State Government to appoint Seed Analysts with the prescribed qualifications and define the areas within which they shall exercise jurisdiction.
+
+Section 13 allows the State Government to appoint Seed Inspectors with the prescribed qualifications and define the areas within which they shall exercise jurisdiction. Seed Inspectors are deemed to be public servants and are officially subordinate to the authority specified by the State Government.
+
+Section 14 outlines the powers of Seed Inspectors, including the ability to take samples of any seed of any notified kind or variety, send the sample for analysis to the Seed Analyst, enter and search premises, examine records, and seize material objects.
+
+Section 15 outlines the procedure to be followed by Seed Inspectors when taking samples for analysis, including delivering one sample to the person from whom it has been taken, sending another sample for analysis to the Seed Analyst, and retaining the remaining sample for production in case legal proceedings are taken or for analysis by the Central Seed Laboratory.
+
+Section 16 requires the Seed Analyst to analyze the sample and deliver a report to the Seed Inspector and the person from whom the sample has been taken. The accused vendor or the complainant may request that the sample be sent to the Central Seed Laboratory for analysis.
+
+Section 17 prohibits the export or import of seeds of notified kinds or varieties unless they conform to the minimum limits of germination and purity and bear the prescribed mark or label.
+
+Section 18 allows the Central Government to recognize any seed certification agency established in any foreign country for the purposes of this Act.
+
+Section 19 imposes penalties for contravening any provision of this Act or any rule made thereunder, preventing a Seed Inspector from taking sample under this Act, or preventing a Seed Inspector from exercising any other power conferred on him by or under this Act.
+
+Section 20 allows for the forfeiture of property in cases where a person has been convicted under this Act for the contravention of any of the provisions of this Act or the rules made thereunder.
+
+Section 21 provides for offenses by companies, making both the company and any person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company liable for the offense.
+
+Section 22 provides protection to the Government or any officer of the Government for anything which is in good faith done or intended to be done under this Act.
+
+Section 23 allows the Central Government to give directions to any State Government as may appear to the Central Government to be necessary for carrying into execution in the State any of the provisions of this Act or of any rule made thereunder.
+
+Section 24 exempts any seed of any notified kind or variety grown by a person and sold or delivered by him on his own premises direct to another person for being used by that person for the purpose of sowing or planting from the provisions of this Act.
+
+Section 25 grants the Central Government the power to make rules to carry out the purposes of this Act, including rules related to the functions of the Committee, the functions of the Central Seed Laboratory, the functions of a certification agency, the manner of marking or labelling the container of seed of any notified kind or variety, the requirements which may be complied with by a person carrying on the business referred to in section 7, the form of application for the grant of a certificate under section 9, the form of the certificate and the conditions subject to which the certificate may be granted, the records to be maintained by a person carrying on the business referred to in section 7 and the particulars which such records shall contain, and any other matter which is to be or may be prescribed.

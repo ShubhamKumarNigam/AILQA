@@ -1,0 +1,13 @@
+Summary:
+
+The Insurance Regulatory and Development Authority of India (Expenses of Management, including Commission, of Insurers) Regulations, 2024, govern the management expenses and commission payments for insurers operating in India. These regulations apply to insurers conducting life, general, or health insurance business. The main objective of these regulations is to enable insurers to manage their expenses and commissions optimally, enhance policyholder benefits, and improve insurance penetration.
+
+Key definitions in these regulations include "Act," "Authority," "Charges," "Commission," "Duration of Business," "Expenses of Management," "Insurtech expenses," and "Insurance awareness."
+
+Insurers are required to have a Board-approved policy for expenses of management and commission payments, specifying measures for cost-effectiveness, benefit transfer to policyholders, compliance with computation of additional allowance, allocation and apportionment of expenses, and policy implementation. The business plan should cover projected capital requirements, solvency margin, and expense of management projections with compliance to limits.
+
+Expenses of management limits vary for general/health insurance business (30% of gross premium written in India) and life insurance business (sum of commission paid to insurance agents, reinsurance commission and expenses, and operating expenses of life insurance business, within specified percentages for various segments of business).
+
+Insurers are allowed additional allowances for Insurtech expenses and insurance awareness expenses (5% of allowable expenses of management) and head office expenses for insurers with international operations. Additional expenses for rural sector business, Pradhan Mantri Suraksha Bima Yojana, Pradhan Mantri Jan Arogya Yojana, Pradhan Mantri Fasal Bima Yojana, or specified schemes are allowed based on growth and actual expenses.
+
+Commission payable to insurance agents, intermediaries, or insurance intermediaries should not exceed the expense of management limits. Insurers must submit annual returns of expenses of management and payment of commission to the Authority. The Authority may exercise forbearance in case of excess expenses of management for insurers with up to 5 years of duration of business. Exceeding the limits may result in penalties, restrictions, or other actions as specified by the Authority.

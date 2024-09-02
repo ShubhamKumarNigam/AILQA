@@ -1,0 +1,23 @@
+Summary:
+
+The Telegraph Wires (Unlawful Possession) Act, 1950, regulates the possession of telegraph wires and provides for the punishment of the offence of unlawful possession. The Act is applicable to the whole of India, and it extends to the Union territories of Jammu and Kashmir, Ladakh, Goa, Daman and Diu, Dadra and Nagar Haveli, and Pondicherry.
+
+The Act defines telegraph wire as any copper wire with a diameter between 2.43 and 2.53 millimeters, between 2.77 and 2.87 millimeters, or between 3.42 and 3.52 millimeters.
+
+Every person in possession of telegraph wires must make a declaration in writing, in the prescribed form and to the prescribed authority, stating the quantity of telegraph wires in their possession within six months from the commencement of this Act.
+
+Every person in possession of telegraph wires which exceed ten pounds in weight must have the whole of the quantity as is in excess of ten pounds converted into ingots within one year from the commencement of this Act. Alternatively, it is open to such a person to sell the whole or any part of the telegraph wires in their possession at such price and to such authority as may be prescribed.
+
+No person shall sell or purchase any quantity of telegraph wires except with the permission of such authority as may be prescribed.
+
+Whoever is found or is proved to have been in possession of any quantity of telegraph wires shall be punishable for the first offence with imprisonment for a term which may extend to five years, or with fine, or with both, and in the absence of special and adequate reasons, the term of such imprisonment shall not be less than one year, and such fine shall not be less than one thousand rupees. For the second or a subsequent offence, the punishment shall be imprisonment for a term which may extend to five years and also with fine, and in the absence of special and adequate reasons, the term of such imprisonment shall not be less than two years, and such fine shall not be less than two thousand rupees.
+
+Any person who fails to make a declaration as required by section 3 or contravenes the provisions of section 4 or section 4A shall be punishable with imprisonment for a term which may extend to six months, or with fine, or with both.
+
+A police officer not below the rank of a sub-inspector may seize or search any place and seize any telegraph wire, conveyance, or animal used for the transport of such telegraph wire, if a reasonable suspicion exists that any provision of this Act has been, or is being, or is about to be, contravened in respect of such telegraph wire.
+
+Where any person has been convicted for the contravention of any of the provisions of this Act, the telegraph wires in relation to which the contravention has been made, and any conveyance or animal used for the transport of such telegraph wires, shall be liable to confiscation by the Court.
+
+No Court shall take cognizance of any offence punishable under this Act, except on a report in writing of the facts constituting such offence made by a person who is a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860). No Court inferior to that of a presidency Magistrate or a Magistrate of the first class shall try any offence punishable under this Act.
+
+The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act. Every rule made under this section shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.

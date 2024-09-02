@@ -1,0 +1,36 @@
+Summary:
+
+THE DELHI FIRE PREVENTION AND FIRE SAFETY ACT, 1986 (ACT NO. 56 OF 1986) is a law that aims to provide effective measures for fire prevention and fire safety in certain buildings and premises in the Union Territory of Delhi.
+
+Key Definitions:
+
+* Administrator: The Administrator of Delhi appointed by the President under article 239 of the Constitution.
+* Appellate Tribunal: The Appellate Tribunal constituted under section 347A of the Delhi Municipal Corporation Act, 1957 (66 of 1957).
+* Building: A house, outhouse, stable, latrine, urinal, shed, hut, wall (other than a boundary wall) or any other structure, whether of masonry, bricks, wood, mud, metal or other material.
+* Building bye-laws: Bye-laws made under various acts and regulations relating to buildings.
+* Chief Fire Officer: The Chief Fire Officer appointed by the Municipal Corporation of Delhi established under the Delhi Municipal Corporation Act, 1957 (66 of 1957).
+* Delhi: The Union Territory of Delhi.
+* Fire prevention and fire safety measures: Measures necessary for the prevention, control and fighting of fire and for ensuring the safety of life and property in case of fire.
+* Local authority: Various authorities responsible for maintaining law and order in Delhi.
+* Nominated authority: An officer not below the rank of a Station Officer nominated by the Chief Fire Officer.
+* Occupier: A person who for the time being is paying or is liable to pay to the owner the rent or any portion of the rent of the land or building in respect of which such rent is paid or is payable.
+* Owner: A person who for the time being is receiving or is entitled to receive, the rent of any land or building whether on his own account or on account of himself and others or as an agent, trustee, guardian or receiver or any other person or who should so receive the rent or be entitled to receive it if the land or building or part thereof were let to a tenant.
+
+Key Sections:
+
+* Section 3: The nominated authority may inspect buildings or premises to ensure the adequacy or contravention of fire prevention and fire safety measures.
+* Section 4: The nominated authority shall record its views on the deviations from, or the contraventions of, the building bye-laws with regard to the fire prevention and fire safety measures and issue a notice to the owner or occupier of such building or premises directing him to undertake such measures as may be specified in the notice.
+* Section 5: The Chief Fire Officer may seal the building or premises if the condition of any building or premises is dangerous to life or property.
+* Section 6: The Chief Fire Officer may enter and inspect any building, the construction of which was completed on or before the 6th day of June, 1983, or any building which was under construction on such date if such inspection appears necessary for ascertaining the adequacy of fire prevention and fire safety measures in such building.
+* Section 7: The Chief Fire Officer shall take necessary steps for the compliance of any notice issued under section 4 or section 6.
+* Section 8: Any person aggrieved by any notice or order of the nominated authority or the Chief Fire Officer may prefer an appeal against such notice or order to the Appellate Tribunal within thirty days from the date of the notice or order appealed against.
+* Section 9: No court shall entertain any suit, application or other proceeding in respect of any notice or order under this Act.
+* Section 10: Whoever contravenes any provision of this Act shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to fifty thousand rupees, or with both and where the offence is a continuing one, with a further fine which may extend to three thousand rupees for every day after the first during which such offence continues.
+* Section 11: Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+* Section 12: No court shall proceed to the trial of an offence under this Act, except on the complaint of, or upon information received from, the nominated authority.
+* Section 13: No court inferior to that of a Metropolitan Magistrate shall try an offence punishable under this Act.
+* Section 14: No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act or any rules made thereunder.
+* Section 15: Every officer acting under the provisions of this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860).
+* Section 16: The Administrator may make rules for carrying out the provisions of this Act.
+
+This law is designed to ensure that buildings and premises in Delhi have adequate fire prevention and fire safety measures in place. The law empowers the nominated authority and the Chief Fire Officer to inspect buildings and premises, issue notices, and take necessary steps for the compliance of such notices. The law also provides for penalties for non-compliance and protection for officers acting in good faith.

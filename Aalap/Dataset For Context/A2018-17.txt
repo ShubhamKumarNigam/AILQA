@@ -1,0 +1,40 @@
+Summary:
+The Fugitive Economic Offenders Act, 2018 is an Act to provide measures to deter fugitive economic offenders from evading the process of law in India by staying outside the jurisdiction of Indian courts, to preserve the sanctity of the rule of law in India, and for matters connected therewith or incidental thereto. The Act defines a fugitive economic offender as an individual against whom a warrant for arrest in relation to a Scheduled Offence has been issued by any Court in India, who has left India so as to avoid criminal prosecution or being abroad, refuses to return to India to face criminal prosecution.
+
+The Act consists of three chapters:
+
+Chapter I: Preliminary
+
+* Short title, extent, and commencement
+* Definitions
+
+Chapter II: Declaration of Fugitive Economic Offenders and Confiscation of Property
+
+* Application for declaration of fugitive economic offender and procedure therefor
+* Attachment of property
+* Powers of Director and other officers
+* Power of survey
+* Search and seizure
+* Search of persons
+* Notice
+* Procedure for hearing application
+* Declaration of fugitive economic offender
+* Supplementary application
+* Power to disallow civil claims
+* Management of properties confiscated under this Act
+
+Chapter III: Miscellaneous
+
+* Rules of evidence
+* Appeal
+* Bar of jurisdiction
+* Protection of action taken in good faith
+* Power of Central Government to amend Schedule
+* Overriding effect
+* Application of other laws not barred
+* Power to make rules
+* Laying of rules before Parliament
+* Power to remove difficulties
+* Repeal and saving
+
+The Schedule of the Act lists Scheduled Offences, which include offences under the Indian Penal Code, 1860, the Negotiable Instruments Act, 1881, the Reserve Bank of India Act, 1934, the Central Excise Act, 1944, the Customs Act, 1962, the Prohibition of Benami Property Transactions Act, 1988, the Prevention of Corruption Act, 1988, the Securities and Exchange Board of India Act, 1992, the Prevention of Money-laundering Act, 2002, the Limited Liability Partnership Act, 2008, the Foreign Contribution (Regulation) Act, 2010, the Companies Act, 2013, the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015, the Insolvency and Bankruptcy Code, 2016, and the Central Goods and Services Tax Act, 2017.

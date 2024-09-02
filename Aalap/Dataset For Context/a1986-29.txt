@@ -1,0 +1,19 @@
+Summary:
+
+THE ENVIRONMENT (PROTECTION) ACT, 1986, is an Act designed to protect and improve the environment and prevent, control, and abate environmental pollution. The Act empowers the Central Government to take all necessary measures to protect and improve the environment, including laying down standards for the quality of the environment and emission or discharge of environmental pollutants, restricting areas where certain industries, operations, or processes can be carried out, and establishing procedures and safeguards for the prevention of accidents that may cause environmental pollution. The Act also imposes penalties for violations of its provisions.
+
+Key provisions of the Act include:
+
+* The Central Government has the power to take all necessary measures to protect and improve the environment, including laying down standards for the quality of the environment and emission or discharge of environmental pollutants, restricting areas where certain industries, operations, or processes can be carried out, and establishing procedures and safeguards for the prevention of accidents that may cause environmental pollution.
+* Persons carrying on any industry, operation, or process are prohibited from discharging or emitting any environmental pollutant in excess of the standards prescribed.
+* Persons handling hazardous substances must comply with prescribed procedures and safeguards.
+* Persons responsible for the discharge of environmental pollutants in excess of the prescribed standards must take remedial measures to prevent or mitigate environmental pollution and inform the authorities or agencies prescribed.
+* The Central Government or any officer empowered by it has the power to take samples of air, water, soil, or other substances for analysis, and the results of such analysis are admissible as evidence in legal proceedings.
+* Environmental laboratories are established or recognized by the Central Government to carry out the functions entrusted to them under this Act.
+* Government Analysts are appointed or recognized by the Central Government to analyze samples of air, water, soil, or other substances sent for analysis to any environmental laboratory.
+* Penalties are imposed for violations of the Act, including imprisonment for a term that may extend to five years or a fine that may extend to one lakh rupees, or both, and additional fines for continuing violations.
+* Companies and Government Departments are held liable for offenses committed by them.
+* No suit, prosecution, or other legal proceedings shall lie against the Government or any officer or other employee of the Government or any authority constituted under this Act or any member, officer, or other employee of such authority in respect of anything which is done or intended to be done in good faith in pursuance of this Act or the rules made or orders or directions issued thereunder.
+* The Central Government may, by notification in the Official Gazette, delegate its powers and functions under this Act to any officer, State Government, or other authority, subject to such conditions and limitations as may be specified in the notification.
+* The provisions of this Act and the rules or orders made therein shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act.
+* Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions.

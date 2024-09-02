@@ -1,0 +1,337 @@
+Summary:
+The Factories Act, 1948, is an Act of the Indian Parliament that regulates labor in factories. The Act's objective is to consolidate and amend the law regulating labor in factories. The Act extends to the whole of India and came into force on April 1, 1949.
+
+The Act defines various terms used throughout the document, including "adult," "adolescent," "child," "young person," "day," "week," "power," "prime mover," "transmission machinery," "machinery," "manufacturing process," "worker," "factory," and "occupier." For example, a "worker" is defined as a person employed in any manufacturing process or in cleaning any part of the machinery or premises used for a manufacturing process, or in any other kind of work incidental to or connected with the manufacturing process. A "factory" is defined as any premises including the precincts thereof whereon ten or more workers are working, or were working on any day of the preceding twelve months, and in any part of which a manufacturing process is being carried on with the aid of power, or is ordinarily so carried on.
+
+The Act also includes provisions for the health, safety, and welfare of workers, including provisions for cleanliness, ventilation, lighting, and drinking water. The Act also regulates the hours of work and employment of young persons, and provides for the appointment of inspectors to enforce the provisions of the Act.
+
+The Act includes various schedules that specify the industries that are considered hazardous and the list of machines and processes that are considered dangerous. The Act also includes provisions for the registration and licensing of factories and the maintenance of registers and records.
+
+The Act includes provisions for penalties for non-compliance with its provisions, including fines and imprisonment. The Act also includes provisions for appeals and reviews of decisions made under the Act.
+
+In summary, the Factories Act, 1948, is an important piece of legislation that regulates labor in factories in India. The Act includes provisions for the health, safety, and welfare of workers, as well as provisions for the registration and licensing of factories and the appointment of inspectors to enforce the Act's provisions. The Act includes penalties for non-compliance and provisions for appeals and reviews of decisions made under the Act.
+Summary:
+
+The Indian Factories Act of 1948 outlines regulations for factories in India, including definitions, exemptions, approval, licensing, and registration requirements. Section 4 of the Act grants the State Government the power to declare different departments or branches of a factory as separate factories or to treat two or more factories as a single factory, subject to certain conditions. In cases of public emergency, Section 5 allows the State Government to exempt any factory or class or description of factories from all or any of the provisions of the Act, except section 67, for a specified period and subject to certain conditions. Section 6 outlines the rules for approval, licensing, and registration of factories, including requirements for plans, specifications, and certifications, as well as fees for registration and licensing. The Act also specifies the duties of occupiers, manufacturers, and designers to ensure the health, safety, and welfare of workers in factories, including the provision of safe and healthy work environments and the provision of adequate information and training. Additionally, manufacturers and designers are required to ensure the safety and health of workers when using any article or substance in a factory.
+Summary:
+
+The Factories Act, 1948, outlines regulations for the health, safety, and welfare of workers in factories in India. This document focuses on Sections 7, 8, 9, 10, and 11 of the Act, which pertain to the design and testing of articles, inspectors, certifying surgeons, and cleanliness.
+
+Section 7(1) mandates that manufacturers must design articles in a way that minimizes risks to workers' health and safety. This includes conducting necessary research and testing to eliminate or minimize risks. Under Section 7(3), manufacturers are not required to repeat testing or research conducted by others if it is reasonable to rely on the results. The duty imposed by this section applies only to actions taken in the course of business and within the manufacturer's control.
+
+Under Section 8, the State Government has the power to appoint inspectors for the purposes of the Act. These inspectors are authorized to enter factories, make examinations, inquire into accidents, seize documents, and take other necessary actions to ensure compliance with the Act. Section 8(3) prohibits the appointment of individuals who have a financial interest in a factory or its processes.
+
+Section 9 outlines the powers of inspectors, including the ability to enter factories, make examinations, seize documents, and direct that certain premises or articles be left undisturbed. Inspectors are also authorized to take measurements, photographs, and make recordings as necessary.
+
+Section 10 establishes the role of certifying surgeons, who are responsible for examining and certifying young workers, examining workers in dangerous occupations, and providing medical supervision in factories where there is a risk to workers' health. Certifying surgeons are not permitted to have a financial interest in a factory or its processes.
+
+Finally, Section 11(1) mandates that factories be kept clean and free from effluvia arising from drains, privies, or other nuisances. This includes removing dirt and refuse daily, washing floors weekly, and providing effective means of drainage where floors are likely to become wet.
+
+In summary, the Factories Act, 1948, includes provisions for the design and testing of articles, the appointment and powers of inspectors and certifying surgeons, and requirements for cleanliness in factories. These provisions aim to protect the health and safety of workers in India's factories.
+Summary:
+
+The Factory Act of 1948 in India lays down provisions for the maintenance and upkeep of factories to ensure the safety and health of workers. According to Section 11 of the Act, certain painting and cleaning requirements must be met for factories. The exterior of the factory building must be repainted with washable water-paint or varnished at least once every five years, or once every three years if painted with washable water-paint. The building must be cleaned at least once every fourteen months, and doors, window frames, and other wooden or metallic framework and shutters must be kept painted or varnished and repainted or varnished at least once every five years. The dates on which these processes are carried out must be recorded in a prescribed register.
+
+Under Section 12, effective arrangements must be made for the treatment of wastes and effluents due to the manufacturing process carried on in the factory, so as to render them innocuous, and for their disposal. The State Government may make rules prescribing the arrangements to be made or requiring that the arrangements made in accordance with sub-section (1) shall be approved by such authority as may be prescribed.
+
+Section 13 of the Act deals with ventilation and temperature in factories. Adequate ventilation by the circulation of fresh air and a suitable temperature must be maintained in every workroom to secure reasonable conditions of comfort and prevent injury to health. The State Government may prescribe a standard of adequate ventilation and reasonable temperature for any factory or class or description of factories or parts thereof and direct that proper measures assuring instruments be provided and records be maintained. If excessively high temperatures in any factory can be reduced by the adoption of suitable measures, the Chief Inspector may serve an order in writing specifying the measures which should be adopted and requiring them to be carried out before a specified date.
+
+Under Section 14, effective measures must be taken to prevent the inhalation and accumulation of dust, fume, or other impurities in any factory where such substances are given off by the manufacturing process. Stationary internal combustion engines must be operated so that the exhaust is conducted into the open air, and other internal combustion engines must be operated in any room only if effective measures have been taken to prevent the accumulation of fumes therefrom.
+
+Section 15 deals with artificial humidification in factories. The State Government may make rules prescribing standards of humidification, regulating the methods used for artificially increasing the humidity of the air, directing prescribed tests for determining the humidity of the air to be correctly carried out and recorded, and prescribing methods to be adopted for securing adequate ventilation and cooling of the air in the workrooms. The water used for the purpose must be taken from a public supply or other source of drinking water or must be effectively purified before it is used.
+
+Section 16 states that no room in any factory shall be overcrowded to an extent injurious to the health of the workers employed therein. The State Government may prescribe standards of space for every worker employed in a factory, and if the Chief Inspector so requires, there shall be posted in each workroom of a factory a notice specifying the maximum number of workers who may be employed in the room. The Chief Inspector may exempt any workroom from the provisions of this section if he is satisfied that compliance therewith is unnecessary in the interest of the health of the workers employed therein.
+
+Section 17 deals with lighting in factories. Sufficient and suitable lighting, natural or artificial, or both, must be provided and maintained in every part of a factory where workers are working or passing. Glazed windows and skylights used for the lighting of the workrooms must be kept clean on both the inner and outer surfaces and free from obstruction. Effective provision must be made for the prevention of glare and the formation of shadows to such an extent as to cause eye-strain or the risk of accident to any worker. The State Government may prescribe standards of sufficient and suitable lighting for factories or for any class or description of factories or for any manufacturing process.
+
+Section 18 deals with drinking water in factories. Effective arrangements must be made to provide and maintain a sufficient supply of wholesome drinking water at suitable points conveniently situated for all workers employed in the factory. All such points must be legibly marked "drinking water" in a language understood by a majority of the workers employed in the factory, and no such point shall be situated within six meters of any washing place, urinal, latrine, spittoon, open drain carrying sullage or effluent, or any other source of contamination unless a shorter distance is approved in writing by the Chief Inspector. In every factory wherein more than two hundred and fifty workers are ordinarily employed, provision must be made for cool drinking water during hot weather by effective means and for distribution thereof. The State Government may make rules for securing compliance with the provisions of this section and for the examination by prescribed authorities of the supply and distribution of drinking water in factories.
+
+Under Section 19, sufficient latrine and urinal accommodation of prescribed types must be provided in every factory and situated conveniently and accessible to workers at all times while they are at the factory. Separate enclosed accommodation must be provided for male and female workers, and such accommodation must be adequately lighted and ventilated. No latrine or urinal shall communicate with any workroom except through an intervening open space or be situated within six meters of any such room unless specially exempted in writing by the Chief Inspector. The State Government may prescribe the types of latrines and urinals to be provided and the standards of construction and maintenance to be observed.
+Summary:
+The document outlines several provisions related to safety and sanitation in Indian factories. In terms of sanitation, it specifies that factories must provide a sufficient number of latrines, urinals, and washing places that are kept clean and sanitary at all times. Sweepers must be employed to clean latrines, urinals, and washing places. The document also notes that spittoons must be provided in convenient places and maintained in a clean and hygienic condition, and that no person shall spit within the premises of a factory except in the spittoons provided for the purpose.
+
+In terms of safety, the document states that certain moving parts of machinery, such as prime movers and flywheels, must be securely fenced by safeguards of substantial construction. This also applies to transmission machinery and any dangerous part of any other machinery that is not in a safe position or of safe construction. The document notes that for the purpose of determining whether any part of machinery is in such position or is of such construction as to be safe, certain exceptions may be made, such as when it is necessary to make an examination of any part of the machinery while it is in motion.
+
+The document also states that young persons shall not be required or allowed to work at any machine to which this section applies unless they have been fully instructed as to the dangers arising in connection with the machine and the precautions to be observed. The State Government may prescribe which machines are of such a dangerous character that young persons ought not to work at them unless the foregoing requirements are complied with.
+
+Additionally, the document notes that suitable striking gear or other efficient mechanical appliance shall be provided and maintained and used to move driving belts to and from fast and loose pulleys which form part of the transmission machinery. Driving belts when not in use shall not be allowed to rest or ride upon shafting in motion. In every factory, suitable devices for cutting off power in emergencies from running machinery shall be provided and maintained in every workroom. When a device, which can inadvertently shift from “off “ to “on” position, is provided in a factory to cut off power, arrangements shall be provided for locking the device in safe position to prevent accidental starting of the transmission machinery or other machines to which the device is fitted.
+The document outlines various safety regulations for factories in India. 
+
+Section 25 of the document discusses the clearance around machinery. It states that there must be a clearance of at least 45 centimeters around any machinery that has a revolving shaft, spindle, wheel, or pinion with set screws, bolts, or keys. This is to ensure the safety of workers and prevent accidents. The Chief Inspector may permit the continued use of machinery installed before the commencement of this Act that does not comply with these requirements, but only if certain safety conditions are met.
+
+Section 26 of the document discusses the casing of new machinery. It states that all machinery driven by power and installed in a factory after the commencement of this Act must have certain safety features. Specifically, all set screws, bolts, or keys on any revolving shaft, spindle, wheel, or pinion must be sunk, encased, or otherwise effectively guarded to prevent danger. Additionally, all spur, worm, and other toothed or friction gearing that does not require frequent adjustment while in motion must be completely encased, unless it is situated in a safe location. Failure to comply with these requirements can result in punishment, including imprisonment for up to three months, a fine of up to 500 rupees, or both.
+
+Section 27 of the document discusses the prohibition of employment of women and children near cotton-openers. It states that no woman or child shall be employed in any part of a factory for pressing cotton in which a cotton opener is at work. However, women and children may be employed on the side of a partition where the feed-end of a cotton-opener is situated, as long as the partition extends to the roof or to such height as the Inspector may specify in writing.
+
+Section 28 of the document discusses hoists and lifts in factories. It states that all hoists and lifts must be of good mechanical construction, sound material, and adequate strength. They must be properly maintained and thoroughly examined by a competent person at least once every six months. A register must be kept containing the prescribed particulars of every such examination. Additionally, hoistways and lift ways must be sufficiently protected by an enclosure fitted with gates, and the hoist or lift and every such enclosure must be constructed to prevent any person or thing from being trapped. The maximum safe working load must be plainly marked on every hoist or lift, and no load greater than such load shall be carried. The cage of every hoist or lift used for carrying persons must be fitted with a gate on each side from which access is afforded to a landing. Every gate must be fitted with interlocking or other efficient device to secure that the gate cannot be opened except when the cage is at the landing and that the cage cannot be moved unless the gate is closed.
+
+Section 29 of the document discusses lifting machines, chains, ropes, and lifting tackles in factories. It states that all parts of every lifting machine and every chain, rope, or lifting tackle must be of good construction, sound material, and adequate strength and free from defects. They must be properly maintained and thoroughly examined by a competent person at least once every twelve months. A register must be kept containing the prescribed particulars of every such examination. No lifting machine and no chain, rope, or lifting tackle shall be loaded beyond the safe working toad, which must be plainly marked. Effective measures must be taken to ensure that the crane does not approach within six meters of any place where a person is employed or working.
+
+Section 30 of the document discusses revolving machinery in factories where grinding is carried on. It states that there must be a notice indicating the maximum safe working peripheral speed of every grindstone or abrasive wheel, the speed of the shaft or spindle upon which the wheel is mounted, and the diameter of the pulley upon such shaft or spindle. The speeds indicated in these notices must not be exceeded. Effective measures must be taken to ensure that the safe working peripheral speed of every revolving vessel, cage, basket, fly-wheel, pulley, disc, or similar appliance driven by power is not exceeded.
+
+Section 31 of the document discusses pressure plant in factories. It states that effective measures must be taken to ensure that the safe working pressure of any plant or machinery or part thereof that is operated at a pressure above atmospheric pressure is not exceeded. The State Government may make rules providing for the examination and testing of any plant or machinery and prescribing other safety measures in relation
+Summary:
+
+The document outlines various sections of Indian laws related to safety in factories. These sections include provisions for safe access to workplaces, safety measures for pits, sumps, and openings in floors, restrictions on lifting heavy weights, protection of eyes, precautions against dangerous fumes, gases, and dust, use of portable electric lights, explosive or inflammable substances, precautions in case of fire, and safety of buildings and machinery.
+
+Under Section 2, it is stated that every factory should provide and maintain safe means of access to every place where work is required. If a person has to work at a height, fencing or other measures should be taken to ensure their safety.
+
+Section 33 outlines provisions for pits, sumps, and openings in floors, requiring them to be securely covered or fenced.
+
+Section 34 states that no person should be required to lift, carry or move any load that is likely to cause injury. The State Government may prescribe maximum weights that may be lifted, carried, or moved by different categories of workers.
+
+Section 35 requires the provision of effective screens or suitable goggles for the protection of persons employed in manufacturing processes that involve a risk of injury to the eyes.
+
+Section 36 outlines precautions against dangerous fumes, gases, and dust. It requires the provision of adequate means of egress, removal of harmful substances, and prevention of ingress of such substances.
+
+Section 36A prohibits the use of portable electric lights or any other electric appliance of voltage exceeding twenty-four volts inside any confined space, unless adequate safety devices are provided. It also prohibits the use of any lamp or light other than that of flame-proof construction in any confined space where inflammable gas, fume, or dust is likely to be present.
+
+Section 37 outlines measures to prevent explosions, including effective enclosure of plant or machinery, removal or prevention of accumulation of dust, gas, fume, or vapor, and exclusion or effective enclosure of all possible sources of ignition.
+
+Section 38 requires the provision of safe means of escape and necessary equipment and facilities for extinguishing fire in every factory. Workers should be familiar with means of escape and adequately trained in fire safety procedures.
+
+Section 39 empowers the Inspector to require the occupier or manager of a factory to furnish drawings, specifications, or other particulars, or to carry out tests in relation to any building, ways, machinery, or plant that may be dangerous to human life or safety.
+
+Under Section 40, the Inspector may serve an order on the occupier or manager of a factory to carry out specified measures to ensure the safety of any building, ways, machinery, or plant. If the Inspector considers that the use of any building, ways, machinery, or plant involves imminent danger to human life or safety, they may serve an order prohibiting its use until it has been properly repaired or altered.
+
+Section 40A requires the maintenance of buildings in a factory to ensure that they do not become detrimental to the health and welfare of the workers.
+Summary:
+
+The Indian Factories Act of 1948, as amended in 1987, includes provisions related to safety in factories involving hazardous processes. Under Section 40A, the Chief Inspector of Factories may order the occupier to take certain measures to ensure safety. Section 40B requires the employment of Safety Officers in factories with one thousand or more workers or where any manufacturing process involves a risk of bodily injury, poisoning, disease, or other hazard to health. The State Government may make rules requiring further devices and measures for securing the safety of persons employed in a factory (Section 41).
+
+Chapter IVA, added in 1987, includes provisions relating to hazardous processes. Section 41A establishes the Site Appraisal Committees, which consist of representatives from various government departments, scientific experts, and local authorities. The Committee advises the State Government on granting permission for the initial location or expansion of a factory involving a hazardous process. The occupier of a factory involving a hazardous process must disclose information regarding dangers and health hazards to workers, the Chief Inspector, the local authority, and the general public (Section 41B). The occupier must also lay down a detailed policy for the health and safety of workers and inform the Chief Inspector and the local authority of any changes made to the policy (Section 41B).
+
+Under Section 41C, the occupier of a factory involving a hazardous process must maintain accurate health records of workers exposed to hazardous substances and appoint competent persons to supervise the handling of such substances. The occupier must also provide medical examination of workers before and while working with hazardous substances and after they cease to work in such jobs (Section 41C).
+
+The Central Government has the power to appoint an Inquiry Committee to inquire into the standards of health and safety in a factory involving a hazardous process in the event of an extraordinary situation (Section 41D). The recommendations of the Committee are advisory in nature. Section 41E allows for the establishment of emergency standards where no standards of safety have been prescribed for a hazardous process or class of hazardous processes.
+Summary:
+
+The document outlines various provisions related to safety, health, and welfare in factories under the Factories Act, 1948. Key sections include:
+
+- Section 41F: This section sets the maximum permissible threshold limits of exposure to chemical and toxic substances in manufacturing processes. The Central Government may make changes to these limits based on scientific proof from specialized institutions or experts.
+
+- Section 41G: This section mandates the establishment of a Safety Committee in factories where hazardous processes occur or hazardous substances are used or handled. The Committee should consist of equal representation from workers and management to promote cooperation in maintaining safety and health at work.
+
+- Section 41H: This section outlines workers' rights to warn about imminent danger. Workers can bring any reasonable apprehension of imminent danger to the notice of the occupier, agent, manager, or any other person in charge of the factory or process. The occupier must take immediate remedial action if they deem the danger to be real.
+
+- Section 42: This section mandates the provision of adequate and suitable washing facilities for workers in every factory. The State Government may prescribe standards for these facilities.
+
+- Section 43: This section allows the State Government to make rules requiring the provision of suitable places for keeping and drying clothing in factories.
+
+- Section 44: This section requires the provision of suitable arrangements for sitting in factories where workers are required to work in a standing position.
+
+- Section 45: This section mandates the provision and maintenance of first-aid boxes or cupboards in every factory, with the number and contents prescribed by the Act.
+
+- Section 46: This section enables the State Government to make rules requiring the provision and maintenance of canteens in specified factories.
+
+- Section 47: This section mandates the provision and maintenance of shelters, rest rooms, and lunch rooms in factories with more than 150 workers.
+
+- Section 48: This section requires the provision and maintenance of creches in factories with more than 30 women workers. The State Government may make rules regarding the location, construction, and equipment of creches.
+Summary:
+
+The document discusses various Indian laws related to working hours, weekly holidays, and compensation for adult workers in factories. Here are the key points:
+
+* Section 3(d) requires factories to provide facilities for mothers to feed their children at necessary intervals.
+* Section 49 mandates the employment of welfare officers in factories with 500 or more workers (or 200 or more women workers in Karnataka). The State Government may prescribe their duties, qualifications, and conditions of service.
+* Section 50 empowers the State Government to make rules exempting factories from certain provisions and requiring worker representation in welfare arrangements.
+* Chapter VI (Sections 51-61) focuses on working hours of adults:
+	+ No adult worker can work for more than 48 hours in a week (Section 51).
+	+ Adult workers are entitled to a weekly holiday, which can be substituted with a holiday on another day if certain conditions are met (Section 52).
+	+ Compensatory holidays must be provided if a worker is deprived of weekly holidays due to an order or rule (Section 53).
+	+ Adult workers cannot work for more than 9 hours in a day (Section 54).
+	+ Adult workers are entitled to a half-hour rest after every 5 hours of work (Section 55).
+	+ The spread over of work cannot exceed 10.5 hours in a day, including rest intervals (Section 56).
+	+ Night shift workers have special provisions for calculating weekly holidays and daily work hours (Sections 57-58).
+	+ Overtime work is paid at twice the ordinary rate of wages (Section 59).
+	+ Adult workers cannot be required to work in more than one factory on the same day (Section 60).
+	+ Notice of periods of work for adults must be displayed and maintained correctly in every factory (Section 61).
+
+These provisions aim to ensure fair working hours, adequate rest, and appropriate compensation for adult workers in Indian factories.
+Summary:
+
+The Indian Factories Act, 1948, contains provisions related to the working hours and conditions of adult workers in factories. Section 61 of the Act requires the manager of a factory to display a notice of periods of work for adults, specifying the hours during which they may be required to work, and ensuring compliance with various provisions of the Act. The notice must be fixed beforehand, and the periods of work should not contravene sections 51, 52, 54, 2[55, 56, and 58] of the Act.
+
+Where all adult workers in a factory work during the same periods, the manager can fix those periods for them generally. However, if workers are classified into groups based on the nature of their work, the manager must fix the periods during which each group may be required to work. If a group works on a system of shifts without predetermined periodical changes, the manager must fix the periods during which each relay of the group may be required to work. For groups working on a system of shifts with predetermined periodical changes, the manager must draw up a scheme of shifts indicating the periods during which any relay of the group may be required to work.
+
+The State Government may prescribe forms of the notice and the manner in which it should be maintained. In the case of a factory beginning work after the commencement of the Act, a copy of the notice must be sent to the Inspector before the day on which work is begun. Any proposed change in the system of work requiring a change in the notice must be notified to the Inspector in duplicate before the change is made, and no change can be made until one week has elapsed since the last change.
+
+Section 62 mandates the manager of every factory to maintain a register of adult workers, including their names, nature of work, group, if any, and other particulars. The Inspector may direct that a muster roll or register maintained as part of the routine of a factory may be treated as the register of adult workers. The State Government may prescribe the form of the register, the manner in which it should be maintained, and the period for which it should be preserved.
+
+Section 63 states that no adult worker shall be required or allowed to work in any factory otherwise than in accordance with the notice of periods of work for adults displayed in the factory and the entries made beforehand against his name in the register of adult workers.
+
+Section 64 empowers the State Government to make rules defining persons holding positions of supervision or management or employed in a confidential position in a factory, exempting them from certain provisions of the Act. The State Government may also make rules exempting workers from the provisions of sections 51, 52, 54, 55, and 56 under specified conditions.
+
+Section 65 allows the State Government to relax or modify the provisions of section 61 in respect of adult workers in any factory or class or description of factories if the nature of the work or other circumstances make it unreasonable to require that the periods of work be fixed beforehand. The State Government or the Chief Inspector may also exempt adult workers from any or all of the provisions of sections 51, 52, 54, and 56 on the ground that the exemption is required.
+Summary:
+
+The document summarizes Indian laws related to labor in factories, specifically focusing on the employment of young persons, women, and overtime work. The key points are as follows:
+
+1. Chapter VII of the Indian Factories Act, 1948, deals with the employment of young persons. No child under the age of 14 is allowed to work in any factory. An adolescent (14-18 years old) can work in a factory if they have a certificate of fitness from a certifying surgeon. The certificate is valid for 12 months and may be subject to conditions.
+2. Women are not allowed to work in factories between 10 PM and 5 AM, except in fish-curing or fish-canning factories where the employment of women beyond these hours is necessary to prevent damage to raw materials. The State Government may make rules for exemptions from these restrictions.
+3. Overtime work is subject to certain conditions, including a maximum of 12 hours of work in a day, a spread-over of 13 hours in a day, and a maximum of 60 hours of work in a week, including overtime. No worker can be allowed to work overtime for more than seven days at a stretch, and the total number of hours of overtime work in any quarter should not exceed 75.
+4. The Maharashtra State Amendment of 2015 has made certain changes to sections 65 and 66 of the Indian Factories Act, 1948. These amendments include the substitution of sub-section (2) of section 65 and the substitution of the proviso in clause (b) of sub-section (1) of section 66. The amendments allow for the exemption of adult male workers from certain provisions of the Act and allow for the employment of women between 7 PM and 6 AM in factories with adequate safety and security measures.
+
+In summary, the document outlines the Indian laws related to the employment of young persons, women, and overtime work in factories. The laws aim to protect the rights and welfare of workers while ensuring the smooth functioning of factories.
+Summary:
+
+The Indian Factories Act of 1948 includes provisions related to child workers in factories. According to Section 73, the manager of every factory where children are employed must maintain a register of child workers, which includes the child's name, nature of work, group, shift, and certificate of fitness number. No child worker can be employed in a factory without being entered in the register of child workers. Section 74 states that child workers can only be employed in accordance with the notice of periods of work displayed in the factory and the entries made in the register of child workers. Under Section 75, an Inspector may require a medical examination of any person working in a factory without a certificate of fitness or of a young person working with a certificate of fitness who is no longer fit to work in the stated capacity. The State Government may make rules regarding the forms of certificates of fitness, physical standards for children and adolescents, procedures for certifying surgeons, and other duties of certifying surgeons. The provisions of this Chapter are in addition to, and not in derogation of, the provisions of the Employment of Children Act, 1938.
+
+The Annual Leave with Wages Chapter (Chapter VIII) of the Indian Factories Act of 1948 provides for annual leave with wages for workers in factories. Every worker who has worked for 240 days or more in a factory during a calendar year is entitled to leave with wages for a number of days calculated at a specific rate. If a worker is discharged, dismissed, quits, is superannuated, or dies during the course of the calendar year, he or his heir or nominee is entitled to wages in lieu of the quantum of leave to which he was entitled. A worker may apply in writing to take leave, and the number of times leave may be taken during any year is not more than three. If a worker wants to avail himself of leave due to illness, he shall be granted such leave even if the application for leave is not made within the time specified in sub-section (6). A scheme may be lodged with the Chief Inspector to regulate the grant of leave allowable under this section. The provisions of this Chapter are in addition to, and not in derogation of, the provisions of any other law or under the terms of any award, agreement, or contract of service.
+Summary:
+
+The Indian Factories Act of 1948, in Sections 78-80, outlines provisions related to leave for workers in factories. A worker is entitled to leave under Section 78 or 79, and for that leave, they are entitled to wages at a rate equal to the daily average of their total full-time earnings for the days they actually worked during the month immediately preceding their leave, exclusive of overtime and bonus but inclusive of dearness allowance and the cash equivalent of the advantage accruing through the concessional sale to the worker of food grains and other articles. The cash equivalent of the advantage accruing through the concessional sale to the worker of food grains and other articles shall be computed on the basis of the maximum quantity of food grains and other articles admissible to a standard family. The State Government may make rules prescribing the manner in which the cash equivalent of the advantage accruing through the concessional sale to a worker of food grains and other articles shall be computed and the registers that shall be maintained in a factory for the purpose of securing compliance with the provisions of this section.
+
+Under Section 81, a worker who has been allowed leave for not less than four days, in the case of an adult, and five days, in the case of a child, shall, before his leave begins, be paid the wages due for the period of the leave allowed. Section 82 states that any sum required to be paid by an employer under this Chapter but not paid by him shall be recoverable as delayed wages under the provisions of the Payment of Wages Act, 1936.
+
+Section 85 of the Act gives the State Government the power to declare that all or any of the provisions of this Act shall apply to any place wherein a manufacturing process is carried on with or without the aid of power or is so ordinarily carried on, notwithstanding that the number of persons employed therein is less than ten if working with the aid of power and less than twenty if working without the aid of power. After a place is so declared, it shall be deemed to be a factory for the purposes of this Act, and the owner shall be deemed to be the occupier, and any person working therein, a worker.
+
+The Act also allows the State Government to exempt, subject to conditions as it may consider necessary, any workshop or workplace where a manufacturing process is carried on and which is attached to a public institution maintained for the purposes of education, training, research, or reformation from all or any of the provisions of this Act. However, no exemption shall be granted from the provisions relating to hours of work and holidays, unless the persons having the control of the institution submit a scheme for the regulation of the hours of employment, intervals for meals, and holidays of the persons employed in or attending the institution or who are inmates of the institution, and the State Government is satisfied that the provisions of the scheme are not less favorable than the corresponding provisions of this Act.
+
+Section 87 of the Act allows the State Government to make rules applicable to any factory or class or description of factories in which any manufacturing process or operation is carried on, if it is of the opinion that the manufacturing process or operation exposes any persons employed in the factory to a serious risk of bodily injury, poisoning, or disease. The rules may prohibit or restrict the employment of women, adolescents, or children in the manufacturing process or operation and provide for the periodical medical examination of persons employed or seeking to be employed in the manufacturing process or operation. The rules may also provide for the protection of all persons employed in the manufacturing process or operation or in the vicinity of the places where it is carried on and prohibit, restrict, or control the use of any specified materials or processes in connection with the manufacturing process or operation.
+
+Section 87A of the Act allows the Inspector to prohibit employment in a factory or part of a factory if conditions in the factory or part of the factory are such that they pose a serious hazard to the health or safety of the workers. The Inspector may issue a prohibition notice, and the occupier of the factory shall comply with the notice. The Inspector may also direct the occupier to take such steps as may be necessary to remove the hazard and may specify a time limit for the removal of the hazard. If the occupier fails to comply with the notice, the Inspector may take steps to enforce compliance and may also initiate legal proceedings against the occupier.
+Summary:
+The Indian Factories Act, 1948, outlines various provisions related to the safety and health of workers in factories. This document summarizes Sections 88, 88A, 89, 90, 91, 91A, and 92 of the Act, which deal with notices of accidents, dangerous occurrences, diseases, inquiries, sample taking, surveys, and penalties for offenses.
+
+Section 88 requires the manager of a factory to send a notice to specified authorities in case of an accident that causes death, prevents a person from working for 48 hours or more, or is of such nature as prescribed. If the accident causes death, an inquiry must be conducted within one month.
+
+Section 88A mandates the manager of a factory to send a notice to authorities regarding any dangerous occurrence, whether it causes injury or not.
+
+Section 89 states that if a worker in a factory contracts a disease specified in the Third Schedule, the manager must send a notice to authorities. If a medical practitioner attends to such a person, they must report it to the Chief Inspector. The Chief Inspector may pay a fee to the medical practitioner if the report is confirmed.
+
+Section 90 empowers the State Government to appoint a competent person to inquire into the causes of any accident or disease in a factory. The person appointed has the powers of a Civil Court for enforcing attendance of witnesses and compelling the production of documents.
+
+Section 91 allows an Inspector to take a sample of any substance used or intended to be used in a factory if they believe it is being used in contravention of the Act or is likely to cause injury. The sample is divided into three portions, with one given to the person informed, one sent to a Government Analyst, and the third retained for production in court.
+
+Section 91A authorizes the Chief Inspector, Director General of Factory Advice Service and Labour Institutes, Director General of Health Services, or an authorized officer to undertake safety and occupational health surveys in a factory. The occupier or manager must afford all facilities for such surveys.
+
+Section 92 imposes a general penalty for offenses under the Act. The occupier and manager of a factory can be punished with imprisonment or fine if there is any contravention of the provisions of the Act, rules, or orders.
+
+The Indian Factories Act, 1948, aims to ensure the safety, health, and welfare of workers in factories. It lays down various provisions related to notices of accidents, dangerous occurrences, diseases, inquiries, sample taking, surveys, and penalties for offenses. The Act is designed to protect workers and promote a safe and healthy working environment.
+Summary:
+
+The Factories Act of 1948 is a law in India that regulates the operation of factories. This document summarizes several sections of the Act, specifically those related to penalties for violations and liabilities for factory owners and workers.
+
+Section 92 of the Act states that any person who contravenes the provisions of the Act is guilty of an offence and punishable with imprisonment for up to two years or a fine of up to one lakh rupees, or both. If the contravention continues after conviction, there is an additional fine of up to one thousand rupees for each day the contravention continues. If the contravention results in an accident causing death or serious bodily injury, the fine is not less than twenty-five thousand rupees in the case of an accident causing death, and five thousand rupees in the case of an accident causing serious bodily injury.
+
+Section 92A, added by the Maharashtra government, allows for the compounding of certain offences before the institution of prosecution for a specified amount. The State Government may prescribe in respect of the offences specified in the Fourth Schedule, which may be compounded by an officer not below the rank of Deputy Chief Inspector of Factories. The amount of fine shall not be more than the fine prescribed under section 92.
+
+Section 93 outlines the liability of the owner of the premises in certain circumstances. The owner is responsible for the provision and maintenance of common facilities and services, such as approach roads, drainage, water supply, lighting and sanitation. The Chief Inspector has the power to issue orders to the owner of the premises in respect of the carrying out of the provisions of sub-section (1). If the premises are independent or self-contained, floors or flats leased to different occupiers for use as separate factories, the owner is liable for any contravention of the provisions of this Act in respect of certain specified areas, such as latrines, urinals and washing facilities, fencing of machinery and plant, safe means of access to the floors or flats, precautions in case of fire, maintenance of hoists and lifts, and maintenance of any other common facilities provided in the premises.
+
+Section 94 states that if any person who has been convicted of any offence punishable under section 92 is again guilty of an offence involving a contravention of the same provision, he shall be punishable on a subsequent conviction with imprisonment for a term which may extend to three years or with fine which shall not be less than ten thousand rupees but which may extend to two lakh rupees or with both.
+
+Section 95 states that whoever willfully obstructs an Inspector in the exercise of any power conferred on him by or under this Act, or fails to produce on demand by an Inspector any registers or other documents in his custody kept in pursuance of this Act or of any rules made thereunder, or conceals or prevents any worker in a factory from appearing before, or being examined by, a n Inspector, shall be punishable with imprisonment for a term which may extend to six months or with fine which may extend to ten thousand rupees or with both.
+
+Section 96 states that whoever, except in so far as it may be necessary for the purposes of a prosecution for any offence punishable under this Act, publishes or discloses to any person the results of an analysis made under section 91, shall be punishable with imprisonment for a term which may extend to six months or with fine which may extend to ten thousand rupees or with both.
+
+Section 96A states that whoever fails to comply with or contravenes any of the provisions of sections 41B, 41 C or 41 H or the rules made thereunder, shall, in respect of such failure or contravention, be punishable with imprisonment for a term which may extend to seven years and with fine which may extend to two lakh rupees, and in case the failure or contravention continues, with additional fine which may extend to five thousand rupees for every day during which such failure or contravention continues after the conviction for the first such failure or contravention.
+
+Section 97 states that if any worker employed in a factory contravenes any provision of this Act or any rules or orders made thereunder, imposing any duty or liability on workers, he shall be punishable with fine which may extend to five hundred rupees.
+
+Section 98 states that whoever knowingly uses or attempts to use, as a certificate of fitness granted to himself under section 70, a certificate granted to another person under that section, or who, having procured such a certificate, knowingly allows it to be used, or an attempt to use it to be made, by another person, shall be punishable with imprisonment for a term which may extend to two years.
+
+In summary, the Factories Act of 1948 sets out penalties and liabilities for violations of the Act. The Act provides for imprisonment, fines, and additional fines for continuing violations. The Act also specifies the liability of factory owners and workers for certain contraventions. The Maharashtra government has added provisions for the compounding of certain offences.
+Summary:
+
+The Indian Factories Act, 1948, includes provisions related to child labor and penalties for violating these provisions. Section 98 states that no child under the age of 14 is allowed to work in a factory, and any such violation is punishable with imprisonment or a fine. Section 99 states that if a child works in a factory on any day on which he has already been working in another factory, the parent or guardian of the child or the person having custody of or control over him or obtaining any direct benefit from his wages, shall be punishable with a fine. Section 101 states that if the occupier or manager of a factory is charged with an offence punishable under this Act, they can bring another person before the Court as the actual offender, and if they prove that the offence was committed without their knowledge, consent or connivance, the other person shall be convicted of the offence and the occupier or manager shall be discharged from any liability under this Act in respect of such offence. Section 102 states that the Court may, in addition to awarding any punishment, require the occupier or manager to take measures for remedying the matters in respect of which the offence was committed. Section 104A states that in any proceeding for an offence for the contravention of any provision of this Act or rules made thereunder, it shall be for the person who is alleged to have failed to comply with such duty or requirement, to prove that it was not reasonably practicable or, as the case may be, all practicable measures were taken to satisfy the duty or requirement. Section 105 states that no Court shall take cognizance of any offence under this Act except on complaint by, or with the previous sanction in writing of, an Inspector. Section 106 states that no Court shall take cognizance of any offence punishable under this Act unless complaint thereof is made within three months of the date on which the alleged commission of the offence came to the knowledge of an Inspector. Section 107 states that the manager of a factory or the occupier of the factory may appeal against an order served on them by an Inspector within thirty days of the service of the order.
+Summary:
+The document outlines various sections of Indian laws related to factories. Section 107 allows the appellate authority to suspend an order appealed against if certain conditions are met. Section 108 requires factories to display notices containing abstracts of the Act and rules, as well as the name and address of the Inspector and certifying surgeon. These notices must be in English and a language understood by the majority of the workers, and must be displayed at a conspicuous and convenient place. Section 109 allows for rules to be made prescribing the manner of service of orders under the Act. Section 110 allows for rules to be made requiring owners, occupiers, or managers of factories to submit returns, occasional or periodical, as may be required. Section 111 outlines obligations of workers in a factory, including not interfering with or misusing appliances, not endangering themselves or others, and making use of appliances provided for their health or safety. Contravention of these provisions can result in imprisonment, fine, or both. Section 111A gives workers the right to obtain information relating to their health and safety, get trained within the factory or at an approved training center, and represent to the Inspector directly or through a representative in the matter of inadequate provision for protection of their health or safety. Section 112 allows for rules to be made providing for any matter which under any of the provisions of this Act, is to be or may be prescribed or which may be considered expedient in order to give effect to the purposes of this Act. Section 113 allows for the Central Government to give directions to a State Government to carry into execution the provisions of this Act. Section 114 states that no fee or charge shall be realized from any worker in respect of any arrangements or facilities provided, or any equipment or appliances supplied by the occupier under the provisions of this Act. Section 115 requires that all rules made under this Act shall be published in the Official Gazette and shall be subject to the condition of previous publication, and that the date specified under clause (3) of section 23 of the General Clauses Act, 1897 shall be not less than 45 days from the date on which the draft of the proposed rules was published. Section 116 states that unless otherwise provided, this Act shall apply to factories belonging to the Central or any State Government. Section 117 provides protection to persons acting under this Act. Section 118 prohibits Inspectors from disclosing information relating to any manufacturing or commercial business or any working process which may come to their knowledge in the course of their official duties. Section 118A requires Inspectors to treat as confidential the source of any complaint brought to their notice. Section 119 states that the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Contract Labour (Regulation and Abolition) Act, 1970 or any other law for the time being in force. Section 120 repeals certain enactments and provides savings for anything done under the said enactments which could have been done under this Act. The First Schedule contains a list of industries involving hazardous processes.
+Summary:
+
+The document outlines the Indian Factories Act, 1948, specifically focusing on certain provisions related to the safety and health of workers. The Second Schedule of the Act contains permissible levels of exposure to various chemical substances in the work environment. This schedule lists the substances, their permissible limits of exposure, and the time-weighted average concentration limits for both 8 hours and 15 minutes. Some examples of the substances listed include acetaldehyde, acetic acid, acetone, benzene, beryllium, boron trifluoride, bromine, butane, carbon disulphide, carbon monoxide, and chlorine.
+
+The Third Schedule of the Act lists notifiable diseases, which are those that must be reported to the authorities. These include lead poisoning, mercury poisoning, phosphorus poisoning, manganese poisoning, arsenic poisoning, silicosis, anthrax, and coal miners' pneumoconiosis.
+
+The Fourth Schedule of the Act, which is specific to the state of Maharashtra, lists compoundable offenses related to cleanliness, drinking water, latrines and urinals, spittoons, washing facilities, first-aid appliances, canteens, shelters, rest rooms, lunch rooms, creches, and extra wages for overtime. These offenses are punishable under the provisions of the Act.
+Summary:
+
+The document summarizes various sections of the Indian Factories Act, 1948, which regulate the working conditions in factories. The Act applies to factories employing ten or more workers using power and twenty or more workers without power. The Act regulates various aspects of factory management, including employment of children and women, weekly hours of work, overtime, intervals for rest, annual leave, opening and closing hours, employment of workers on dangerous machines, cleaning of machinery, and maintenance of registers and records. The Act also lays down penalties for non-compliance with its provisions.
+
+Some of the key sections of the Act summarized in the document are:
+
+* Section 60, which prohibits double employment of workers on any day.
+* Section 61, which requires employers to give notice of periods of work for adults.
+* Section 62, which mandates the maintenance of a register of adult workers.
+* Section 63, which requires hours of work to correspond with notice under section 61.
+* Section 64, which empowers the government to make exempting rules.
+* Section 65, which empowers the government to make exempting orders.
+* Section 79, which provides for annual leave with wages.
+* Section 80, which regulates wages during the leave period.
+* Section 81, which provides for payment in advance in certain cases.
+* Section 82, which lays down the mode of recovery of unpaid wages.
+* Section 83, which empowers the government to make rules.
+* Section 84, which exempts certain factories from the provisions of the Act.
+* Section 93, which holds the owner of premises liable in certain circumstances.
+* Section 97, which defines offences by workers.
+* Section 108, which requires the display of notices.
+* Section 110, which mandates the submission of returns.
+* Section 111, which lays down the obligation of workers.
+* Section 111A, which provides for the right of workers, etc.
+* Section 114, which prohibits charging for facilities and conveniences.
+
+The document also includes footnotes and annexure, which provide additional information and forms required under the Act.
+Summary:
+
+The document summarizes the amendments made to various sections of the Indian law. Here are the key takeaways:
+
+* Section 2(3) was omitted by the Factories (Amendment) Act, 1976.
+* Section 3(4) and 3(5) were substituted by the Factories (Amendment) Act, 1976.
+* Section 5(6) was inserted by the Plantations Labour Act, 1954.
+* The proviso and the Explanation of Section 8(1) were omitted by the Plantations Labour (Amendment) Act, 1987.
+* Section 10(2) was inserted by the Plantations Labour (Amendment) Act, 1957.
+* Section 10(3)(b) was substituted by the Plantations Labour (Amendment) Act, 1954.
+* Section 10A was inserted by the Plantations Labour (Amendment) Act, 1957.
+* Section 16 was substituted by the Plantations Labour (Amendment) Act, 1976.
+* Section 17 was substituted by the Plantations Labour (Amendment) Act, 1976.
+* Section 18A was inserted by the Plantations Labour (Amendment) Act, 1976.
+* Section 28 was omitted by the Factories (Amendment) Act, 1976.
+* Chapter VIII was substituted by the Factories (Amendment) Act, 1954.
+* Section 65 was substituted by the Factories (Amendment) Act, 1976.
+* Section 66 was substituted by the Factories (Amendment) Act, 1976.
+* Section 67 was substituted by the Factories (Amendment) Act, 1976.
+* Section 68 was substituted by the Factories (Amendment) Act, 1976.
+* Section 69 was substituted by the Factories (Amendment) Act, 1976.
+* Section 70 was substituted by the Factories (Amendment) Act, 1976.
+* Section 71 was substituted by the Factories (Amendment) Act, 1976.
+* Section 72 was substituted by the Factories (Amendment) Act, 1976.
+* Section 73 was substituted by the Factories (Amendment) Act, 1976.
+* Section 74 was substituted by the Factories (Amendment) Act, 1976.
+* Section 75 was substituted by the Factories (Amendment) Act, 1976.
+* Section 76 was substituted by the Factories (Amendment) Act, 1976.
+* Section 77 was substituted by the Factories (Amendment) Act, 1976.
+* Section 78 was substituted by the Factories (Amendment) Act, 1976.
+* Section 79 was substituted by the Factories (Amendment) Act, 1976.
+* Section 80 was substituted by the Factories (Amendment) Act, 1976.
+* Section 81 was substituted by the Factories (Amendment) Act, 1976.
+* Section 82 was substituted by the Factories (Amendment) Act, 1976.
+* Section 83 was substituted by the Factories (Amendment) Act, 1976.
+* Section 84 was substituted by the Factories (Amendment) Act, 1976.
+* Section 85 was substituted by the Factories (Amendment) Act, 1976.
+* Section 86 was substituted by the Factories (Amendment) Act, 1976.
+* Section 87 was substituted by the Factories (Amendment) Act, 1976.
+* Section 88 was renumbered as sub-section (1) thereof by the Factories (Amendment) Act, 1976.
+* Section 89 was inserted by the Factories (Amendment) Act, 1976.
+* Section 90 was substituted by the Factories (Amendment) Act, 1976.
+* Section 91 was substituted by the Factories (Amendment) Act, 1976.
+* Section 92 was substituted by the Factories (Amendment) Act, 1976.
+* Section 93 was substituted by the Factories (Amendment) Act, 1954.
+* Section 94 was renumbered as sub-section (1) thereof by the Factories (Amendment) Act, 1976.
+* Section 95 was substituted by the Factories (Amendment) Act, 1976.
+* Section 96 was substituted by the Factories (Amendment) Act, 1976.
+* Section 97 was substituted by the Factories (Amendment) Act, 1976.
+* Section 98 was substituted by the Factories (Amendment) Act, 1976.
+* Section 99 was substituted by the Factories (Amendment) Act, 1976.
+* Section 100 was substituted by the Factories (Amendment) Act, 1976.
+* Section 101 was substituted by the Factories (Amendment) Act, 1976.
+* Section 102 was substituted by the Factories (Amendment) Act, 1976.
+* Section 103 was substituted by the Factories (Amendment) Act, 1976.
+* Section 104 was substituted by the Factories (Amendment) Act, 1976.
+* Section 105 was substituted by the Factories (Amendment) Act, 1976.
+* Section 106 was substituted by the Factories (Amendment) Act, 1976.
+* Section 107 was substituted by the Factories (Amendment) Act, 1976.
+* Section 108 was substituted by the Factories (Amendment) Act, 1976.
+* Section 109 was substituted by the Factories (Amendment) Act, 1976.
+* Section 110 was substituted by the Factories (Amendment) Act, 1976.
+* The Third Schedule was inserted by the Plantations Labour (Amendment) Act, 1987.
+
+The above summary highlights the various amendments made to the Indian law, specifically the Factories Act and the Plantations Labour Act. The amendments were made to update the law, improve worker safety, and increase penalties for violations.

@@ -1,0 +1,9 @@
+Summary:
+
+The Railways (Extent of Monetary Liability and Prescription of Percentage Charge) Rules, 1990, provide guidelines on the monetary liability of a railway administration in case of loss, damage, destruction, deterioration, or non-delivery of any consignment. These rules were made under the powers conferred by the Railways Act, 1989, and the General Clauses Act, 1897.
+
+The rules define certain terms such as "Act," "Baggage," "Excess value," "Percentage charge," and "Schedule." The monetary liability of a railway administration is capped at a certain amount based on the type of consignment. In the case of animals, the liability is capped at the amount specified in Schedule I, while for baggage, it is capped at rupees one hundred per kilogramme. For any other consignment, the liability is capped at rupees fifty per kilogramme. However, if the consignor has declared the value of the consignment and paid a percentage charge on the excess value, the liability of the railway administration will be equal to the declared value.
+
+The rules also specify that certain goods specified in Part I of Schedule II cannot be accepted for carriage unless the consignor declares the value of such goods and pays the percentage charge applicable to such goods as indicated in Column 2 of Schedule II.
+
+In summary, these rules provide guidelines on the monetary liability of a railway administration and the percentage charge to be paid for carrying certain goods. They aim to ensure fair compensation in case of loss or damage to consignments while also providing a framework for calculating the liability of railway administrations.

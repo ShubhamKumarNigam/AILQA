@@ -1,0 +1,9 @@
+Summary:
+The document is a notification for the financial year 2024-25 regarding obligatory cession under the Insurance Act, 1938. This notification is applicable to Indian re-insurers and other insurers as per the provisions of Section 101A of the Insurance Act, 1938. The percentage cession of the sum insured on each general insurance policy to be reinsured with the Indian re-insurer(s) is 4%, except for terrorism premium and premium ceded to the Nuclear pool, which will be 'NIL'. The entire obligatory cession is to be placed with General Insurance Corporation of India (GIC Re) only.
+
+The notification also specifies terms and conditions for cession, including the following:
+
+* There is no limit on the sum insured applicable for cessions made during the period from 1st April, 2024 to 31st March, 2025.
+* The Indian re-insurer may require the ceding insurer to give immediate notice of underwriting information of any cession exceeding an amount as specified by the former.
+* The percentage of commission on obligatory cession for different classes of business is specified, with minimum percentages ranging from 5% to 15%. Commission over and above these minimum percentages can be mutually agreed between Indian re-insurer(s) and the ceding insurer.
+* The Indian re-insurer shall share the profit commission, on a 50:50 basis, with the ceding insurer based on the performance and surplus of the total obligatory portfolio of the ceding insurer. This will be calculated after factoring in the incurred loss %, management expenses, profit, and commission.

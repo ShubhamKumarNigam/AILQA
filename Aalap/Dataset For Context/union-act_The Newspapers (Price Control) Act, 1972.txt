@@ -1,0 +1,15 @@
+Summary:
+
+The Newspapers (Price Control) Act, 1972 is a law in India that aims to regulate the prices of newspapers. The Act is in effect for two years from the date of its commencement, unless extended by the Central Government. The Act defines certain terms such as "basic price", "basic price date", "newspaper", "owner", and "publisher" as they are used in the Act.
+
+The Central Government has the power to fix maximum prices for newspapers or classes of newspapers if it deems it necessary or expedient to do so. In determining the maximum price, the Central Government must consider the basic price of the newspaper, any excise duties and other taxes payable, and any special circumstances that have arisen since the basic price date that affect the cost of production. The maximum price determined cannot be less than the basic price.
+
+The owner or publisher of a newspaper may apply for a review or revision of an order made under section 3 if they are aggrieved by it. The order of the Central Government under section 3 is final, except as provided for in an order made under clause (a) or clause (b) of sub-section (1).
+
+The Central Government or an officer authorized by the Central Government may require the owner or publisher of any newspaper to furnish any information, return, or report that is considered necessary for carrying out the purposes of the Act. Failure to comply with this order is punishable with a fine.
+
+No newspaper shall be sold in contravention of an order made under section 3, and the sale of a newspaper in contravention of an order made under section 3 is punishable with a fine.
+
+If an offence under this Act is committed by a company, every person who is in charge of and responsible for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly. If it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary, or other officer of the company, such director, manager, secretary, or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+No prosecution shall be instituted against any person in respect of any offence punishable under section 5 or section 7 without the previous sanction of the Central Government or such officer or authority as may be authorized by that Government by order in writing in that behalf.

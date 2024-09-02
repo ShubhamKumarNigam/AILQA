@@ -1,0 +1,59 @@
+Summary:
+
+Title: THE FOREIGN EXCHANGE MANAGEMENT ACT, 1999
+Act ID: ACT NO. 42 OF 1999
+Enactment Date: [29th December, 1999.]
+
+This Act aims to consolidate and amend the law relating to foreign exchange with the objective of facilitating external trade and payments and for promoting the orderly development and maintenance of foreign exchange market in India.
+
+Chapter I: Preliminary
+
+* The Short title, extent, application and commencement of the Act are defined in Section 1.
+* Section 2 provides definitions for various terms used in the Act.
+
+Chapter II: Regulation and Management of Foreign Exchange
+
+* Section 3 prohibits dealing in foreign exchange or foreign security with any person not being an authorized person, making any payment to or for the credit of any person resident outside India in any manner, or receiving any payment for, by order or on behalf of any person resident outside India in any manner.
+* Section 4 prohibits any person resident in India from acquiring, holding, owning, possessing or transferring any foreign exchange, foreign security or any immovable property situated outside India.
+* Section 5 allows any person to sell or draw foreign exchange to or from an authorized person if such sale or drawal is a current account transaction.
+* Section 6 permits any person to sell or draw foreign exchange to or from an authorized person for a capital account transaction, subject to certain conditions and limits specified by the Reserve Bank.
+* Section 7 requires every exporter of goods to furnish a declaration containing true and correct material particulars, including the full export value or the expected value of the goods in a market outside India.
+* Section 8 requires any person who has received any amount of foreign exchange to take all reasonable steps to realize and repatriate such foreign exchange to India within such period and in such manner as may be specified by the Reserve Bank.
+* Section 9 exempts certain cases from the provisions of Sections 4 and 8.
+
+Chapter III: Authorised Person
+
+* Section 10 authorizes the Reserve Bank to grant authorization to any person to deal in foreign exchange or in foreign securities as an authorized dealer, money changer or off-shore banking unit or in any other manner as it deems fit.
+
+Chapter IV: Contravention and Penalties
+
+* Section 13 imposes penalties for contravention of the provisions of this Act or of any rules, regulations, notifications, directions or orders made thereunder.
+* Section 14 provides for the enforcement of the orders of the Adjudicating Authority.
+* Section 14A authorizes the Adjudicating Authority to recover any arrears of penalty from any person who fails to make full payment of penalty imposed on him under Section 13 within the specified period.
+* Section 15 allows for the compounding of contravention under Section 13.
+
+Chapter V: Adjudication and Appeal
+
+* Section 16 provides for the appointment of Adjudicating Authority.
+* Section 17 allows for an appeal to the Special Director (Appeals).
+* Section 18 states that the Appellate Tribunal constituted under the Smugglers and Foreign Exchange Manipulators (Forfeiture of Property) Act, 1976 shall, on and from the commencement of Part XIV of Chapter VI of the Finance Act, 2017, be the Appellate Tribunal for the purposes of this Act.
+* Section 19 allows for an appeal to the Appellate Tribunal.
+
+Chapter VI: Directorate of Enforcement
+
+* Section 36 establishes a Directorate of Enforcement with a Director and other officers or class of officers as the Central Government may think fit.
+* Section 37 provides for the power of search, seizure, etc.
+
+Chapter VII: Miscellaneous
+
+* Section 39 provides for the presumption as to documents in certain cases.
+* Section 40 allows for the suspension of operation of this Act.
+* Section 41 provides for the power of Central Government to give directions.
+* Section 42 provides for contravention by companies.
+* Section 43 provides for death or insolvency in certain cases.
+* Section 44 provides for the bar of legal proceedings.
+* Section 45 provides for the removal of difficulties.
+* Section 46 provides for the power to make rules.
+* Section 47 provides for the power to make regulations.
+* Section 48 provides for rules and regulations to be laid before Parliament.
+* Section 49 provides for repeal and saving.

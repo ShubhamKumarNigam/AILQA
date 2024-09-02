@@ -1,0 +1,37 @@
+(i)Insurance Broker
+
+(ii)Web Aggregator
+
+(iii)Corporate Agent
+
+(iv)Third Party Administrator
+
+(v)Reinsurance Broker
+
+(vi)Loss Assessor
+
+(vii)Surveyor
+
+(e)"IRDA" means the Insurance Regulatory and Development Authority of India established under the provisions of Section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999).(f)"Policyholder" means the person who is the holder of an insurance policy.(g)"Remuneration" means the compensation paid to and received by an insurance intermediary from an insurer for rendering services as an insurance intermediary.(h)"Reward" means the compensation paid to and received by an insurance intermediary from an insurer for soliciting and procuring an insurance policy in addition to the remuneration or commission.
+
+Prohibition on payment of commission, remuneration or reward on certain terms.
+
+(1)No insurer or insurance intermediary shall pay any commission, remuneration or reward to an insurance agent or insurance intermediary on the following terms:-
+
+(a)Payment of any commission, remuneration or reward on the basis of sales turnover or premium income.(b)Payment of any commission, remuneration or reward in the form of stock or share options in the insurer or insurance intermediary.(c)Payment of any commission, remuneration or reward on the basis of the number of policies sold or issued.(d)Payment of any commission, remuneration or reward on the basis of the number of policies renewed.(e)Payment of any commission, remuneration or reward on the basis of the number of policies converted from one product to another.(f)Payment of any commission, remuneration or reward on the basis of the value of the policies sold or issued.(g)Payment of any commission, remuneration or reward on the basis of the value of the policies renewed.(h)Payment of any commission, remuneration or reward on the basis of the value of the policies converted from one product to another.
+
+(2)The payment of commission, remuneration or reward by an insurer or insurance intermediary to an insurance agent or insurance intermediary shall be on the basis of a written contract which shall specify the terms and conditions of such payment including the amount of commission or remuneration or reward payable.
+
+(3)Notwithstanding anything contained in sub-regulation (1), an insurer or insurance intermediary may pay commission, remuneration or reward to an insurance agent or insurance intermediary on the basis of the profitability of the portfolio of policies solicited or procured by such insurance agent or insurance intermediary.
+
+(4)The payment of commission, remuneration or reward on the basis of profitability of the portfolio of policies solicited or procured by an insurance agent or insurance intermediary shall be in accordance with the guidelines issued by the Authority in this regard.
+
+Summary:
+
+The Insurance Regulatory and Development Authority of India (Payment of commission or remuneration or reward to insurance agents and insurance intermediaries) Regulations, 2016 came into force on April 1, 2017. The regulations define key terms such as "Act," "Authority," "Commission," "Insurance Intermediary," "IRDA," "Policyholder," "Remuneration," and "Reward."
+
+The regulations prohibit insurers or insurance intermediaries from paying any commission, remuneration, or reward to insurance agents or intermediaries based on sales turnover, premium income, stock or share options, the number of policies sold or issued, the number of policies renewed, the number of policies converted, or the value of policies sold, issued, renewed, or converted.
+
+Payment of commission, remuneration, or reward must be made based on a written contract that specifies the terms and conditions of such payment, including the amount of commission or remuneration or reward payable. However, insurers or insurance intermediaries may pay commission, remuneration, or reward to an insurance agent or insurance intermediary based on the profitability of the portfolio of policies solicited or procured by such insurance agent or insurance intermediary.
+
+Such payment on the basis of profitability of the portfolio of policies solicited or procured by an insurance agent or insurance intermediary shall be in accordance with the guidelines issued by the Authority.

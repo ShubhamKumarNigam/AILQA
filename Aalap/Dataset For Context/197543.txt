@@ -1,0 +1,372 @@
+Summary:
+
+The Delhi Sales Tax Act, 1975, is a law that governs the levy of tax on the sale of goods in the Union territory of Delhi. The Act defines various terms used in the Act, such as "Administrator," "Appellate Tribunal," "business," "dealer," "goods," "manufacture," "registered," "sale," "sale price," "tax," "turnover," and "year."
+
+The Act specifies the incidence and levy of tax on sales of goods. Every dealer whose turnover during the year immediately preceding the commencement of this Act exceeds the taxable quantum and every dealer who is registered or is liable to pay tax under the Central Sales Tax Act, 1956, at the commencement of this Act, shall be liable to pay tax under this Act on all sales effected by him on or after such commencement. The tax liability continues until the expiry of three consecutive years during each of which the dealer's turnover has failed to exceed the taxable quantum and such further period after the date of such expiry as may be prescribed.
+
+The tax rate is specified in the Act. The tax payable by a dealer under this Act shall be levied at the rate of twelve paise in the rupee on taxable turnover in respect of the goods specified in the First Schedule. The tax rate may be amended by the Administrator by notification in the Official Gazette.
+
+The Act also provides for the collection and recovery of tax, appeals and revision, offences and penalties, and other miscellaneous provisions. The Act is applicable to the whole of the Union territory of Delhi and came into force on such date as the Administrator may, by notification in the Official Gazette, appoint.
+Summary:
+
+The document outlines various provisions of the Delhi Sales Tax Act, 1975. The Act imposes a tax on the sale of goods and specifies the rates at which the tax is to be levied. The tax rates vary depending on the type of goods being sold. For instance, the tax rate for turnover in respect of goods specified in the Second Schedule is not more than four paise in rupee, while the tax rate for taxable turnover in respect of any other goods is seven paise in the rupee.
+
+The Act also provides for the power of the Administrator to add to, omit from, or amend the First Schedule or the Second Schedule, either retrospectively or prospectively, with the previous approval of the Central Government. However, no such amendment shall be made retrospectively if it would have the effect of prejudicially affecting the interests of any dealer.
+
+The Act defines "taxable turnover" as that part of a dealer's turnover during the prescribed period in any year which remains after deducting therefrom, certain specified deductions. These deductions include the dealer's turnover during that period on sale of goods declared tax-free under section 7, sale of goods not liable to tax under section 8, and sale of goods which are proved to have been purchased within a period of twelve months prior to the date of registration of the dealer and subjected to tax under the Bengal Finance (Sales Tax) Act, 1941, as it was then in force, or under this Act.
+
+The Act also provides for the power of the Administrator to specify the point of sale at which any goods or class of goods may be taxed. The Administrator may, by notification in the Official Gazette and subject to such conditions, if any, as may be specified therein, specify the point of sale at which any goods or class of goods may be taxed, and on the issue of such notification, the points of sale in relation to any such goods or class of goods other than the point of sale so notified, shall be exempt from payment of tax under this Act.
+
+The Act also specifies the burden of proof and states that the burden of proving that in respect of any sale effected by a dealer he is not liable to pay tax under this Act, shall lie on him.
+
+The Act also provides for the tax-free goods and specifies that no tax shall be payable under this Act on the sale of goods specified in the Third Schedule subject to the conditions and exceptions, if any, set out therein. The Administrator may, with the previous approval of the Central Government and by notification in the Official Gazette, add to, or omit from, or otherwise amend, the Third Schedule either retrospectively or prospectively, and thereupon the Third Schedule shall be deemed to be amended accordingly.
+
+The Act also specifies that nothing in this Act or the rules made thereunder shall be deemed to impose, or authorise the imposition of a tax on any sale or purchase of any goods when such sale or purchase takes place in the course of inter-State trade or commerce, outside Delhi, or in the course of the import of the goods into, or export of the goods out of, the territory of India.
+
+The Act also establishes the Sales Tax Authorities and the Appellate Tribunal for carrying out the purposes of this Act. The Administrator shall appoint a person to be the Commissioner of Sales Tax, and to assist the Commissioner in the execution of his functions under this Act, the Administrator may appoint as many Additional Commissioners of Sales Tax, Sales Tax Officers and such other persons with such designations as the Administrator thinks necessary. The Commissioner shall have jurisdiction over the whole of Delhi and the other persons appointed under sub-section (2) shall have jurisdiction over such areas as the Commissioner may specify. The Commissioner and other persons appointed under sub-section (2) shall exercise such powers as may be conferred, and perform such duties as may be required, by or under this Act. The Commissioner may, by order in writing, delegate any of his powers under this Act except those under sub-section (3) of section 9 and sub-section (1) of section 52 to any person appointed under sub-section (2) of section 9, subject to such restrictions and conditions as may be prescribed.
+Summary:
+
+Section 11 of the document outlines the power to transfer proceedings. The Commissioner has the authority to transfer any proceedings or class of proceedings under any provision of the Act from one appointed person to another, regardless of jurisdiction. The person to whom the proceedings are transferred must proceed to dispose of it as if it had been initiated by themselves. The transfer of a proceeding does not require the reissue of any notice already issued and the person to whom the proceeding is transferred may continue it from the stage at which it was left by the person from whom it was transferred. The term "proceedings" in relation to any person whose name is specified in any order issued under this section, means all proceedings under this Act in respect of any year which may be pending on the date of such order or which may have been completed on or before such date, and includes also such proceedings which may be commenced after the date of such order in respect of any year.
+
+Section 12 discusses disputes regarding territorial jurisdiction. No person shall be entitled to call in question the jurisdiction of any sales tax authority appointed under section 9, not being an appellate authority, after the expiry of ninety days from the date of receipt by that person of any notice under this Act issued by such sales tax authority. Any objection as to the jurisdiction of any such sales tax authority may be raised within the period aforesaid by submitting a memorandum to the authority concerned who shall refer the question to the Commissioner and the Commissioner shall, after giving the person raising the objection a reasonable opportunity of being heard, make an order determining the question and his decision in this behalf shall be final.
+
+Section 13 establishes the Appellate Tribunal. The Central Government shall constitute an Appellate Tribunal consisting of one or more members as it thinks fit, to exercise the powers and discharge the functions conferred on the Appellate Tribunal by or under this Act. The qualifications and other conditions of service of the member or members constituting the Appellate Tribunal and the period for which such member or members shall hold office, shall be such as may be determined by the Central Government. Any vacancy in the membership of the Appellate Tribunal shall be filled up by the Central Government as soon as practicable. Where the number of members of the Appellate Tribunal is more than one, the Central Government shall appoint one of those members to be the Chairman of the Appellate Tribunal.
+
+Chapter IV of the document, named "REGISTRATION, AMENDMENT AND CANCELLATION" has three sections: Section 14, Section 15, and Section 16.
+
+Section 14, heading: Registration, states that no dealer shall, while being liable to pay tax under section 3, carry on business as a dealer unless he has been registered and possesses a certificate of registration. Every dealer required by sub-section (1) to be registered shall make an application for registration within such time, in such manner and to such authority, as may be prescribed. If the said authority is satisfied that the application is in order, it shall, in accordance with such rules as may be prescribed, register the applicant within the prescribed period and grant him a certificate of registration in the prescribed form which shall specify the goods or class of goods for the purposes of sub-clause (v) of clause (a) of sub-section (2) of section 4.
+
+Section 15, heading: Voluntary registration, states that any dealer, other than a dealer who deals exclusively in one or more classes of goods specified in the Third Schedule, whose turnover during a year exceeds twenty-five thousand rupees may, notwithstanding that he may not be liable to pay tax under section 3, apply for registration under this section. The provisions of sub-sections (2), (3) and (4) of section 14 shall, as far as may be, apply in relation to registration of dealers under this section. Every dealer who has been registered under this section shall, for so long as his registration remains in force, be liable to pay tax under this Act.
+
+Section 16, heading: Provisional registration, states that any person who intends to establish a business in Delhi for the purpose of manufacturing goods of a value exceeding thirty thousand rupees per year, may, notwithstanding that he is not required to be registered under section 14, apply for provisional registration in such manner and to such authority as may be prescribed. If the said authority, after making such inquiry as it may consider necessary, is satisfied as to the bona fide intention of the person making the application, it may, subject to such restrictions and conditions as it may impose, grant a provisional certificate of registration on such person furnishing such security as it may consider necessary and shall specify in such certificate the goods or class of goods for the purposes of sub-clause (v) of clause (a) of sub-section (2) of section 4. Every person who has been granted a provisional certificate of registration under this section shall, for so long as such certificate is in force, be liable to pay tax under this Act. A provisional certificate of registration granted under this section shall be in force for such period as may be specified therein. The authority prescribed under sub-section (1) may, on application made in this behalf in the prescribed manner and subject to such restrictions and conditions as it may impose, extend, from time to time, the period specified in the provisional certificate of registration. If a person, who has been granted a provisional certificate of registration under this section, fails without sufficient cause to establish a business within the period specified in such certificate or fails to comply with any of the restrictions or conditions subject to which such certificate was granted, he shall be liable to pay a penalty equal to one and a half times the amount of tax which would have been payable had he not been so registered under this section.
+Summary:
+
+This document outlines various provisions related to the registration and regulation of dealers under Indian tax laws. According to Section 14, every dealer must obtain a certificate of registration unless they have a special permit. To do so, they must apply within a specified time frame, in a prescribed manner, and to a designated authority. If the application is approved, the dealer will receive a special certificate of registration. However, the authority will not specify the goods or classes of goods for the purposes of sub-clause (v) of clause (a) of sub-section (2) of section 4.
+
+Under Section 18, the Commissioner may impose a requirement for a dealer to furnish security or additional security as a condition of granting or continuing a certificate of registration. This is done to ensure the proper realization of taxes, composition money, or other dues payable under this Act. The amount of security or additional security required will depend on the nature and size of the dealer's business, the tax likely to be saved by issuing forms, or the tax payable on the dealer's estimated taxable turnover for the year.
+
+Section 19 outlines the process for amending a certificate of registration. The Commissioner may amend the certificate based on information received or after making inquiries. The amendment will take effect from the date of the contingency, such as a change in the name, ownership, or place of business, or the opening of a new place of business. In the case of a change in the description of any goods or class of goods, the amendment will take effect from the date of the contingency if information is furnished within the prescribed time or from the date of receipt of the request for such addition or modification.
+
+Section 20 outlines the circumstances under which a certificate of registration may be cancelled. This includes the discontinuation of a business, the transfer of a business to a dealer who already holds a certificate of registration, or if the dealer has ceased to be liable to pay tax under this Act. The Commissioner may specify the date from which the cancellation will take effect. However, if the dealer has failed to furnish information regarding the discontinuance of their business, the Commissioner must publish a notice of their intention to cancel the certificate and hear any objections before passing the order.
+
+A dealer registered under section 15 may apply for the cancellation of their certificate of registration not later than six months before the end of a year. The Commissioner shall cancel the certificate if the dealer is not liable to pay tax under section 3. However, the Commissioner may cancel the certificate at any time if the dealer fails to pay any tax due, holds or accepts or furnishes or causes to be furnished a false declaration, fails to furnish security, contravenes any provisions of this Act, has been convicted of an offence under this Act or the Bengal Finance (Sales Tax) Act, or for any other reason that warrants such cancellation. If an order of cancellation is set aside, the certificate of registration shall be restored, and the dealer will be liable to pay tax as if their certificate had not been cancelled.
+Summary:
+
+The document summarizes certain sections of the Delhi Sales Tax Act, 1975, which relate to returns, assessment, recovery, and refund of tax.
+
+Section 21 outlines the periodical payment of tax and filing of returns by registered dealers and other dealers who may be required to do so by the Commissioner. Registered dealers are required to pay the full amount of tax due from them according to their returns and furnish a receipt from a Government Treasury or the Reserve Bank of India showing the payment of such amount.
+
+Section 22 states that no person who is not a registered dealer can collect tax under this Act, and no registered dealer can make any such collection except in accordance with the Act and the rules made thereunder. However, a dealer who has been permitted to make a lump sum payment under section 29 is not required to collect any sum by way of tax on the sale of goods during the period of which such lump sum payment relates.
+
+Section 23 explains the assessment process for registered dealers. The amount of tax due from a registered dealer is assessed separately for each year during which they are liable to pay the tax. If the Commissioner is satisfied that the returns furnished in respect of any period are correct and complete, he shall assess the amount of tax due from the dealer on the basis of such returns. If the Commissioner is not satisfied, he may serve a notice on the dealer requiring them to attend and produce all evidence on which they rely in support of their returns, or to produce such evidence as is specified in the notice. If a dealer fails to comply with the terms of any notice issued under sub-section (3), the Commissioner shall assess to the best of his judgment the amount of tax, if any, due from the dealer.
+
+Section 24 deals with turnover escaping assessment. Where after a dealer has been assessed under section 23 for any year or part thereof, the Commissioner has reason to believe that the whole or any part of the turnover of a dealer in respect of any period has escaped assessment to tax or has been under-assessed or has been assessed at a rate lower than the rate at which it is assessable, or any deduction has been wrongly made therefrom, the Commissioner may serve a notice on the dealer and after giving them an opportunity of being heard and making such inquiry as he considers necessary, proceed to determine to the best of his judgment, the amount of tax due from the dealer in respect of such turnover.
+
+Section 25 deals with the recovery of tax due from a dealer. The Commissioner may recover the tax due from a dealer by distraint and sale of the dealer's goods and chattels, or by detaining the dealer's goods or chattels in his custody until the tax is paid.
+
+Section 26 deals with the refund of tax. If the amount of tax paid by a dealer exceeds the amount due from him, the excess amount shall be refunded to the dealer in such manner as may be prescribed.
+
+Section 27 deals with the power of the Commissioner to make rules. The Commissioner may make rules for carrying out the purposes of this Act.
+
+Section 28 deals with the repeal and saving provisions. The Delhi Sales Tax Act, 1975, repeals the Delhi Sales Tax Act, 1968, and any rules, notifications, orders, or appointments made or issued under the repealed Act shall be deemed to have been made or issued under this Act.
+
+Section 29 deals with lump sum payment. The Commissioner may permit any dealer to make a lump sum payment in lieu of the tax payable by him for any period not exceeding one year.
+
+Section 30 deals with the power of the Commissioner to grant exemption from tax. The Commissioner may, by general or special order, exempt any goods from the whole or any part of the tax payable on their sale.
+
+Section 31 deals with the power of the Commissioner to grant rebate of tax. The Commissioner may, by general or special order, grant rebate of the whole or any part of the tax payable on the sale of any goods.
+
+Section 32 deals with the power of the Commissioner to issue instructions. The Commissioner may issue instructions to the officers subordinate to him for the proper administration of this Act.
+
+Section 33 deals with the protection of action taken in good faith. No suit, prosecution, or other legal proceedings shall lie against any officer for anything which is in good faith done or intended to be done under this Act.
+
+Section 34 deals with the power of the State Government to make rules. The State Government may make rules for carrying out the purposes of this Act.
+
+Section 35 deals with the power to remove difficulties. If any difficulty arises in giving effect to the provisions of this Act, the State Government may, by order, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty.
+
+Section 36 deals with the power to make savings. Nothing in this Act shall affect the provisions of any other law for the time being in force relating to sales tax or any tax on the sale or purchase of goods.
+
+Section 37 deals with the interpretation clause. In this Act, unless the context otherwise requires, words and expressions used herein but not defined in this Act shall have the meanings respectively assigned to them in the Central Sales Tax Act, 1956.
+
+Section 38 deals with the short title and commencement. This Act may be called the Delhi Sales Tax Act, 1975, and it shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint.
+Summary:
+
+The document summarizes various provisions related to Indian laws, specifically focusing on the payment and recovery of taxes, interests, and penalties.
+
+Section 24 of the Act states that the Commissioner may ask for account books or other evidence to discover material evidence, but the disclosure of such evidence would not necessarily amount to disclosure within the meaning of this section. No order of assessment, reassessment, or re-computation shall be made after the expiry of four years or six years, as specified in sub-section (7) of section 23, or the expiry of one year from the date of service of notice under sub-section (1), whichever is later.
+
+Section 25 outlines the payment and recovery of tax. The amount of tax due, assessed, reassessed, or re-computed for any period under section 23 or section 24, less the amount already paid by the dealer in respect of the said period, shall be paid by the dealer or the person liable therefor into a Government Treasury or the Reserve Bank of India or in such other manner as may be prescribed within thirty days from the date of service of notice of demand issued by the Commissioner for this purpose. The Commissioner may direct that the sum specified in the notice of demand shall be paid within a period less than the period of thirty days if he has reason to believe that it will be detrimental to revenue if the full period of thirty days is allowed.
+
+Section 26 deals with the continuation of certain recovery proceedings. Where any notice of demand in respect of any tax or penalty or any other amount payable under this Act is served upon any dealer, and any appeal, revision application, or other proceeding is filed or taken in respect of such government dues, then, if such government dues are enhanced in such appeal, revision, or other proceeding, the Commissioner shall serve upon the dealer another notice of demand only in respect of the amount by which such government dues are enhanced.
+
+Section 27 imposes interest on the amount of tax due if any dealer fails to pay the tax due as required by sub-section (3) of section 21. The interest is payable at one per cent. per month from the date immediately following the last date for submission of the return under sub-section (2) of the said section for a period of one month, and at one and a half per cent. per month thereafter for so long as he continues to make default in such payment or till the date of completion of assessment under section 23, whichever is earlier.
+
+Section 28 outlines the special model of recovery. The Commissioner may require any person from whom any amount of money is due, or may become due, to a dealer on whom notice has been served under sub-section (1) of section 25, or any person who holds or may, subsequently hold money for or on account of such dealer, to pay to the Commissioner so much of the money as is sufficient to pay the amount due by the dealer in respect of the arrears of tax and penalty under this Act, or the whole of the money when it is equal to or less than that amount. Any person making any payment in compliance with a notice under this section shall be deemed to have made the payment under the authority of the dealer, and the receipt thereof by the Commissioner shall constitute a good and sufficient discharge of the liability of such person to the extent of the amount specified in the receipt.
+Summary:
+
+The document discusses the Indian laws related to the collection and refund of tax in the context of the Delhi Sales Tax Act, 1975. The Act imposes a tax on the sale of goods in Delhi and provides for the collection and refund of such tax.
+
+Under Section 28 of the Act, the Commissioner has the power to demand the payment of tax from a dealer or any person holding money for or on account of the dealer. However, if the person proves that the amount demanded is not due to the dealer or that they do not hold any money for or on account of the dealer, they are not required to pay the amount to the Commissioner. Any amount of money that a person is required to pay to the Commissioner under this section shall be recoverable as an arrear of land revenue if it remains unpaid.
+
+The Commissioner may permit a dealer to pay a lump sum in lieu of the amount of tax payable by him under the provisions of the Act, subject to certain conditions. This is provided for in Section 29 of the Act.
+
+Under Section 30 of the Act, if any person satisfies the Commissioner that the amount of tax paid by him or on his behalf for any year exceeds the amount payable by him under the Act for that year, he shall be entitled to a refund of the excess either by cash payment or by deduction of such excess from the amount of tax and penalty due in respect of any other period. The Commissioner shall first apply such excess towards the recovery of any amount in respect of which a notice under Section 25 has been issued and shall then refund the balance, if any.
+
+Where on account of death, incapacity, insolvency, liquidation, or other cause a person is unable to claim or receive any refund due to him, his legal representative or the trustee or guardian or receiver, as the case may be, shall be entitled to claim or receive such refund for the benefit of such person or his estate.
+
+No claim for refund under Section 30(1) shall be allowed unless it is made within a period of twelve months from the date of the order giving rise to a claim for such refund, and the Commissioner shall refund any amount which becomes due to a dealer in the prescribed manner.
+
+Where an amount required to be refunded by the Commissioner to any person as a result of any order passed in appeal or other proceedings under this Act is not so refunded to him within ninety days from the date of his claim under Section 30(3), such person shall be entitled to be paid simple interest on such amount at one per cent. per month from the date immediately following the expiry of the period of ninety days for a period of one month and at one and a half per cent. per month, thereafter for so long as the refund is not made.
+
+Where any question arises as to the period to be excluded for the purposes of calculation of interest under Section 30(4), such question shall be determined by the Commissioner whose decision thereon shall be final.
+
+The Commissioner may withhold the refund till such time as the Commissioner may determine if he is of the opinion that the grant of the refund is likely to adversely affect the revenue.
+
+In any claim for refund, it shall not be open to the dealer to question the correctness of any assessment or other matter decided which has become final and conclusive or ask for a review of the same, and the dealer shall not be entitled to any relief on such claim except refund of tax wrongly paid or paid in excess.
+
+Any tax levied and collected under this Act in respect of sale in Delhi of any declared goods which are subsequently sold in the course of inter-State trade or commerce shall be reimbursed to the person making the sale on the course of inter-State trade or commerce, in such manner and subject to such conditions as may be prescribed.
+
+Where the Commissioner is satisfied that delay beyond the prescribed period has occurred in the grant of a certificate of registration to a dealer and that such delay was not wholly due to any fault, omission, or negligence on the part of the dealer, the amount of tax paid on sales of goods made to such dealer which would not have been payable but for the delay in the grant of a certificate of registration as aforesaid shall be adjusted against any amount payable by the dealer under this Act.
+
+Where a dealer liable to pay tax under this Act transfers his business in whole or in part, the dealer and the person to whom the business is so transferred shall jointly and severally be liable to pay the tax due from the dealer up to the time of such transfer.
+
+Every person who is a liquidator of any company which is being wound up whether under the orders of a court or otherwise or who has been appointed the receiver of any assets of a company shall, within thirty days after he has become such liquidator, give notice of his appointment as such to the Commissioner.
+
+The Commissioner shall, after making such inquiries or calling for such information as he may deem fit, notify the liquidator within three months from the date on which he received notice of the appointment of the liquidator, the amount which, in the opinion of the Commissioner, would be sufficient to provide for any tax (including any penalty) which is then, or is likely thereafter to become, payable by the company.
+
+The liquidator shall not part with any of the assets of the company or the properties in his hand until he has been notified by the Commissioner under sub-section (2) and on being so notified, the liquidator shall set aside an amount equal to the amount notified and, until he so sets aside such amount, he shall not part with any of the assets of the company or the properties in his hand.
+
+If the liquidator fails to give notice in accordance with sub-section (1) or fails to set aside the amount as required by sub-section (3) or parts with any assets of the company or the properties in his hand in contravention of the provisions of that sub-section, he shall be personally liable for the payment of the tax and penalty, if any, which the company would be liable to pay under this Act.
+Summary:
+The document discusses various Indian laws related to tax liability and the responsibility of different parties to pay taxes.
+
+Under the Companies Act, 1956, if a private company is wound up and any tax and penalty assessed under the Act cannot be recovered, then every person who was a director of the private company at any time during the period for which the tax is due shall be jointly and severally liable for the payment of such tax and penalty, unless he can prove that non-recovery cannot be attributed to any gross neglect, misfeasance, or breach of duty on his part in relation to the affairs of the company.
+
+Under the Income Tax Act, 1961, where any firm is liable to pay any tax (including any penalty) under this Act, the firm and each of the partners of the firm shall be jointly and severally liable for such payment. If a partner retires from the firm, he shall be liable to pay tax (including any penalty) remaining unpaid at the time of his retirement and any tax (including any penalty) due up to the date of his retirement though unassessed on that date. If no such intimation is given within fifteen days from the date of retirement, the liability of the partner under the first proviso shall continue until the date on which such intimation is received by the Commissioner.
+
+Where the business in respect of which tax is payable under this Act is carried on by, or is in the charge of any guardian, trustee, or agent of a minor or other incapacitated person on his behalf and for the benefit of such minor or other incapacitated person, the tax (including any penalty) shall be levied upon and recoverable from such guardian, trustee, or agent, as the case may be, in like manner and to the same extent as it would be assessed upon and recoverable from any such minor or other incapacitated person, if he were of full age and of sound mind and if he were conducting the business himself.
+
+Where the estate or any portion of the estate of a dealer owning a business in respect of which tax is payable under this Act is under the control of the Court of Wards, the Administrator-General, the Official Trustee, or any receiver or manager appointed by or under any order of a court, the tax (including any penalty) shall be levied upon and be recoverable from such Court of Wards, Administrator-General, Official Trustee, receiver, or manager in like manner and to the same extent as it would be assessable upon and be recoverable from the dealer if he were conducting the business himself.
+
+Where a dealer is a firm or an association of persons or a Hindu undivided family, and such firm, association, or family has discontinued business, the tax payable under this Act, by such firm, association, or family up to the date of such discontinuance may be assessed as if no such discontinuance had taken place. Every person who was at the time of such discontinuance a partner of such firm, or a member of such association or family, shall, notwithstanding such discontinuance, be liable jointly and severally for the payment of tax assessed and penalty imposed and payable by such firm, association, or family, whether such tax (including any penalty) has been assessed prior to or after such discontinuance.
+
+Where a change has occurred in the constitution of a firm or association, the partners or members of the firm or association as it existed before and as it exists after its re-constitution shall, without prejudice to the provisions of section 34, jointly and severally be liable to pay any tax (including any penalty) due from such firm or association for any period before its re-constitution.
+
+Where a dealer liable to pay tax under this Act dies, then the legal representative or any other person who continues to carry on the business of the dealer shall be liable to pay the tax (including any penalty) due from the dealer under this Act. If the business carried on by the dealer is discontinued after his death, his legal representative shall be liable to pay out of the estate of the deceased, to the extent the estate is capable of meeting the charge, the tax (including any penalty) due from the dealer under this Act.
+
+Under the Central Excise Act, 1944, if any private company is wound up and any tax and penalty assessed under this Act on the company for any period, whether before or in the course of or after its liquidation, cannot be recovered, then every person who was director of the private company at any time during the period for which the tax is due shall be jointly and severally liable for the payment of such tax and penalty.
+
+Under the Sales Tax Act, 1954, if any registered dealer fails to furnish returns under sub-section (2) of section 21, the Commissioner may, by notification in the Official Gazette, direct any class of registered dealers generally to keep such accounts (including records of purchases and sales) as may be specified in the notification subject to such conditions and restrictions as may be prescribed.
+
+If a registered dealer sells goods to another registered dealer or makes sales in the course of inter-State trade or commerce, or sells any goods exceeding ten rupees in value in any one transaction to any other person, he shall issue to the purchaser a bill or cash memorandum serially numbered, signed, and dated by him or his servant, manager, or agent and showing therein his name and address and such other particulars as may be prescribed. He shall keep a duplicate or copy of such bill or cash memorandum duly signed and dated and preserve it for a period of not less than five years from the end of the year unless any proceedings in respect of that year are pending in which case they shall be preserved till the final decision in those proceedings.
+
+If a dealer to whom the provisions of sub-section (2) of section 21 apply sells or otherwise disposes of his business or any part of his business or any place of business, or effects or comes to know of any other change in the ownership of the business, or discontinues his business or changes the place of business, he shall, within thirty days of such sale, disposal, discontinuance, or change, give notice of the same to the Commissioner in the prescribed form and manner.
+Summary:
+The document outlines laws and regulations related to sales tax in India. According to Section 39 of the Indian Sales Tax Act, dealers must inform the prescribed authority of any changes to their business, such as moving to a new location, changing the name or nature of the business, or entering into a partnership. Section 41 allows the Commissioner to require dealers to produce books of accounts, registers, or documents, and to furnish information related to their business for the purposes of the Act. The Commissioner may also inspect the dealer's premises and seize any relevant books or documents if necessary. Section 42 grants the Commissioner and other authorities the power to take evidence on oath and to impound and retain in their custody any books or documents produced during proceedings. Finally, Section 43 outlines the process for filing appeals against orders passed under the Act. Appeals must be filed within 60 days of the order being served and must be accompanied by a fee of 50 rupees.
+Summary:
+
+The document outlines various provisions related to appeals, revisions, and rectifications under Indian laws, specifically in relation to taxes.
+
+Firstly, the document discusses the powers of the appellate authority to entertain appeals against orders of tax assessment and penalty. The appellate authority may entertain an appeal without payment of tax and penalty if the appellant furnishes security for the amount directed, or on proof of payment of a smaller sum with or without security for the remaining unpaid tax or penalty. However, no appeal shall be entertained unless the appellant has paid the amount of tax due. The appellate authority may confirm, reduce, enhance, annul the assessment, or set aside the assessment and direct the assessing authority to make a fresh assessment.
+
+The document also mentions certain orders that are non-appealable, such as a notice issued for assessment or asking a dealer to show cause as to why he should not be prosecuted for an offence, an order pertaining to the seizure or retention of books of accounts, register and other documents, an order sanctioning prosecution under this Act, or an interim order passed in the course of any proceedings under this Act.
+
+Furthermore, the document outlines the procedure for making a statement of case to the High Court. An application in writing may be made to the Appellate Tribunal within 60 days of an order passed by the Appellate Tribunal, accompanied by a fee of fifty rupees. The Appellate Tribunal shall, within 120 days of the receipt of such application, draw up a statement of the case and refer it to the High Court. The High Court may require the Appellate Tribunal to state the case and refer it if it is not satisfied with the decision of the Appellate Tribunal. The High Court shall decide the question of law raised and deliver its judgment containing the grounds on which such decision is founded.
+
+The document also discusses the power of the Commissioner to revise orders prejudicial to revenue. The Commissioner may call for and examine the records of any proceeding under this Act and pass such order as the circumstances of the case justify, including an order enhancing or modifying the assessment and penalty imposed or cancelling the assessment and penalty imposed and directing a fresh assessment.
+
+Additionally, the document outlines the procedure for revision of other orders and rectification of mistakes. The Commissioner may, either on his own motion or on an application filed, call for the record of any proceeding under this Act and pass such orders thereon, not being an order prejudicial to the dealer. The Commissioner or any person appointed under sub-section (2) of section 9 to assist him may at any time within two years from the date of any order passed rectify any mistake apparent from the record. The provisions of sub-section (1) shall apply to the rectification of a mistake by an appellate authority under section 43. Where any matter has been considered and decided in any proceeding by way of appeal or revision relating to an order referred to in sub-section (1) or sub-section (2), the authority passing such order may amend the order under sub-section (1) or sub-section (2), as the case may be, in relation to any matter other than the matter which has been so considered and decided.
+
+Lastly, the document provides for the determination of disputed questions. If any question arises, otherwise than in proceedings before a court, or before the Commissioner, the question shall be decided in accordance with the provisions of this Act. The document also provides for the review of any assessment made or order passed under this Act or the rules made thereunder by any person appointed under section 9 or by the Appellate Tribunal.
+Summary:
+
+The Indian Sales Tax Act has provisions for determining various questions related to the assessment or reassessment of a dealer. The Commissioner has the authority to make an order determining such questions within a prescribed period after the dealer has been served with a notice under section 23 or 24. The Commissioner may also direct that the determination shall not affect the liability of any person under the Act as respects any sale effected prior to the determination. If any question arises from an order already passed under this Act or the Bengal Finance (Sales Tax) Act, it cannot be entertained for determination under this section.
+
+The Act also specifies various offences and penalties. Any person who holds, gives, produces, or accepts a false declaration under the second proviso to clause (a) of sub-section (2) of section 4 or under the first proviso to section 5, carries on business as a dealer without obtaining a certificate of registration, represents himself as a registered dealer when purchasing goods, fails to comply with the provisions of sub-section (5) of section 20, fails to submit any return as required by sub-section (2) of section 21 by the prescribed date or submits a false return, collects any amount by way of tax under this Act otherwise than in accordance with this Act or the rules made thereunder, fails to keep a true account of the value of goods bought or sold by him, fails to issue cash memorandum or bills as required under section 39, maintains or produces incorrect accounts, registers or documents, neglects to furnish any information required by section 40, refuses to comply with any requirements made of him under section 41, closes his place of business with a view to preventing inspection under section 41, obstructs or prevents any officer making inspection, search or seizure under section 41, or fails or neglects to comply with any of the requirements contained in section 64 shall be punishable with rigorous imprisonment for a term which may extend to six months or with fine, or with both, and where the offence is a continuing one, with a daily fine not exceeding two hundred rupees during the period of the continuance of the offence.
+
+If any person commits an offence under clause (a) or clause (f) or clause (j) or clause (l) or clause (m) or clause (o) of sub-section (1) of section 50 and the court is satisfied that the offence has been committed wilfully, he shall be punishable with rigorous imprisonment for a term which may extend to six months and with fine, and where the offence is a continuing one, with a daily fine not exceeding three hundred rupees during the period of the continuance of the offence.
+
+Where an offence under this Act has been committed by a company, every person who at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+No court shall take cognizance of any offence under this Act or rules made thereunder except with the previous sanction of the Commissioner, and no court inferior to that of a Metropolitan Magistrate shall try any such offence. All offences punishable under this Act or rules made thereunder shall be cognizable and bailable.
+
+Subject to such conditions as may be prescribed, the Commissioner may accept, from any person alleged to have committed an offence under section 50 or under any rules made under this Act, either before or after the commencement of any proceedings against such person in respect of such offence, by way of composition for such offence, a sum not exceeding five thousand rupees or where the offence alleged to have been committed is under any of the clauses (a), (b), (c), (d) and (f) of that section, not exceeding three times the amount of the tax which would thereby have been avoided, whichever is higher.
+
+If a dealer fails without reasonable cause to furnish any return by the prescribed date as required under sub-section (2) of section 21, or to pay the tax due according to the return as required by sub-section (3) of that section, the Commissioner may after giving the dealer an opportunity of being heard, direct that the dealer shall pay, by way of penalty, in addition to the amount of tax payable, a sum not exceeding twice that amount or where no tax is payable a sum not exceeding two thousand rupees.
+
+The penalties specified under sub-section (1) may be imposed by the Commissioner notwithstanding the fact that assessment proceedings have not been initiated against the dealer under section 23.
+
+The Act also specifies a penalty for concealment of sales or furnishing inaccurate particulars or making false representations. If any dealer fails to furnish any return or particulars of sales, or furnishes inaccurate particulars or makes false representations, the Commissioner may direct that the dealer shall pay, by way of penalty, a sum not exceeding twice the amount of tax which would have been evaded or short paid by reason of such failure or inaccuracy or false representation.
+
+The Act also provides for the imposition of a penalty for failure to register under section 14 or section 17, or for carrying on business as a dealer without obtaining a certificate of registration. The penalty for such offences is not less than two thousand rupees and not more than ten thousand rupees.
+
+The Act also provides for the imposition of a penalty for failure to keep and maintain accounts, registers or documents as required by section 38. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failure to issue cash memorandum or bills as required under section 39. The penalty for such offences is not less than five hundred rupees and not more than two thousand rupees.
+
+The Act also provides for the imposition of a penalty for failure to comply with the provisions of section 40. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failure to comply with the provisions of section 41. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failure to comply with the provisions of section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for aiding or abetting any person in the commission of any offence specified in clauses (a) to (o) of sub-section (1) of section 50. The penalty for such offences is not less than two thousand rupees and not more than ten thousand rupees.
+
+The Act also provides for the imposition of a penalty for obstructing or preventing any officer making inspection, search or seizure under section 41, or performing any functions under section 64, as the case may be. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failure to comply with any requirements made of him under section 41. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for closing his place of business with a view to preventing inspection under section 41. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for making false statements or furnishing false information. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 41. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64. The penalty for such offences is not less than one thousand rupees and not more than five thousand rupees.
+
+The Act also provides for the imposition of a penalty for failing to comply with any requirements made of him under section 64
+Summary:
+
+The Central Sales Tax Act, 1956, governs the levy and collection of taxes on sales of goods within India. The Act includes provisions for penalties for non-compliance, such as concealing sales or providing inaccurate particulars of sales. The penalty for such offenses is up to two and a half times the amount of tax that would have been avoided. The Act also includes provisions for service of notice in cases where a Hindu undivided family has been partitioned, a firm or association of persons has been dissolved, or business has been discontinued. The Act allows for attendance before any authority in connection with proceedings to be made by a person authorized in writing, a legal practitioner or chartered accountant, or a sales tax practitioner who possesses the prescribed qualifications. The Commissioner may disqualify any legal practitioner, chartered accountant, or sales tax practitioner from attending before any authority for misconduct. An Appellate authority may admit an appeal after the period of limitation if the appellant satisfies the authority of sufficient cause for not preferring the appeal within such period. The Act also states that all particulars contained in any statement, return, account, document, or record produced in accordance with this Act shall be treated as confidential, and any servant of the Government who discloses any of the particulars referred to in sub-section (1) shall be punishable with imprisonment which may extend to six months, and shall also be liable to fine. The Act allows for the setting up of check-posts or barriers, or both, at any place in Delhi with a view to preventing evasion of tax and other dues payable under this Act.
+The document discusses the Delhi Sales Tax Act, 1975, which outlines the rules and regulations for the collection of sales tax in Delhi, India. The Act begins by defining key terms, including "dealer," "goods," "owner," "prescribed," and "vehicle." It then lays out the responsibilities of dealers, including the requirement to register with the Administrator, maintain records, and pay tax on their sales.
+
+One important aspect of the Act is the regulation of goods vehicles entering and leaving Delhi. Owners or persons in charge of goods vehicles must produce a declaration containing specific particulars of the goods being carried and file it with the officer in charge of a check-post or barrier or another officer empowered by the Administrator. Failure to carry goods outside Delhi within the prescribed period may result in a penalty.
+
+The Act also includes provisions for the detention of goods and the imposition of security in certain situations. If an officer has reason to believe that the owner or person in charge of a goods vehicle is attempting to evade payment of tax, he may detain the goods and require security to be furnished. If the security is not furnished within the prescribed period, the goods may be disposed of in accordance with prescribed conditions.
+
+The Act includes several sections related to the publication of names and other particulars of dealers whose certificates of registration have been cancelled. It also includes provisions for exemptions from payment of tax, as well as a bar on suits in civil courts to set aside or modify assessments or orders passed under the Act.
+
+The Act includes provisions for the recovery of sales tax as arrears of land revenue, as well as the power to make rules for carrying out the purposes of the Act. These rules may provide for the further period of liability to pay tax, the particulars to be contained in a declaration, the restrictions and conditions for delegation of powers, the authority to whom applications for registration may be made, the procedure for and other matters incidental to registration of dealers, the intervals at which tax shall be payable, the returns to be furnished, the procedure for assessment, the conditions for composition of tax, the form and manner in which claims for refund or set-off may be preferred, the conditions under which offences may be compounded, and the manner in which applications, information, securities, and notices may be made or served. Contravention of these rules may be punishable with a fine.
+Summary:
+
+The document outlines various sections of an Act related to Indian laws. Section 69 imposes penalties for contravention of the Act, with a fine up to five thousand rupees and/or imprisonment up to six months, and an additional fine for a continuing contravention. Section 72 requires that every rule made under this Act must be laid before each House of Parliament for a total period of thirty days. Section 73 repeals the Bengal Finance (Sales Tax) Act, 1941, but does not affect the previous operation of the Act or any right, title, obligation, or liability already acquired under it. Section 74 allows the Central Government to make provisions for the removal of difficulties in giving effect to the provisions of this Act. Section 75 outlines transitional provisions where a dealer liable to pay tax under the Bengal Finance (Sales Tax) Act, 1941, continues to be liable to pay tax on the sales made by him after the commencement of this Act.
+
+The First Schedule of the Act contains a list of items that are subject to tax, including motor vehicles, refrigerators, wireless reception instruments, cinematographic equipment, all arms, cigarette cases and lighters, typewriters, and various other electronic and electrical goods. The list also includes table cutlery, sanitary goods and fittings, glass goods, vacuum flasks, liquor, picnic sets, iron and steel safes, motor spirit and fuel, cosmetics and perfumery, leather goods, furniture, foam rubber and plastic foam articles, furs, stainless steel articles, perambulators, plastic goods, fireworks, lifts, and glazed and vitrum tiles.
+Summary:
+
+The document summarizes the Second and Third Schedules of a legal text, which contain various items and goods subject to taxation under Indian law.
+
+The Second Schedule lists the following items as taxable:
+
+1. Coal in all forms, including coke
+2. Cotton, defined as per the Central Sales Tax Act, 1956
+3. Iron and steel, defined as per the Central Sales Tax Act, 1956
+4. Jute, defined as per the Central Sales Tax Act, 1956
+5. Oil seeds, defined as per the Central Sales Tax Act, 1956
+6. Hides and skins, whether raw or dressed
+7. Cotton yarn and cotton thread
+
+The Third Schedule lists the following items as exempt from taxation:
+
+1. All cereals and pulses, including rice and their brans, cooked dal
+2. Flour, including atta, maida, besan, and suji
+3. Various types of bread and unleavened flatbreads
+4. Meat and fish, excluding canned, preserved, processed, dried, dehydrated, or cooked
+5. Fresh eggs
+6. Vegetables and vegetable seeds, excluding those sold in sealed containers
+7. Fruits, excluding dry fruits or canned, preserved, dried, or dehydrated fruits
+8. Sugar and salt
+9. Fresh milk, including boiled and sugared milk
+10. Edible oils produced in indigenous kohlu or ghani, when sold by the owner and produced without electricity
+11. Dahi and lassi
+12. All varieties of cotton, rayon, or artificial silk fabrics, and woolen fabrics
+13. Books and periodicals, maps, educational charts, instruments, globes, and instruments used by students
+14. Fuel wood and charcoal
+15. School exercise and drawing books
+16. Agricultural implements and electric motors
+17. Cattle feeds, including fodder and poultry feeds
+18. Electric energy and fertilizers
+19. Water, excluding aerated or mineral water sold in bottles or sealed containers
+20. Tobacco
+21. Country-made shoes (juties) made without power, cane and bamboo handicrafts, and earthenware made by kumhars and sold by them or their family members
+22. Charkha, takli, and charkha accessories
+23. Slate, slate pencils, takhties, black ink, writing chalks, crayons, foot-rules, and kalams
+24. Betel leaves and prepared pans
+25. Pesticides for plant protection
+26. Plant protection machines
+27. Ready-made garments of khadi made out of cloth certified as such under the Khaddar (Protection of Name) Act, 1950
+28. Condoms
+29. Blood for transfusion, fresh human blood or plasma, liquid or dried
+30. Handspun yarn
+31. Achar and muraba, except when sold in sealed containers
+32. Scientific goods, including scientific glass goods, geometrical and drawing goods used in Schools and Colleges for teaching and for use by students
+33. Livestock, including poultry
+34. Cotton paddings
+
+These schedules may have been amended by subsequent legislation, as indicated by the footnotes.

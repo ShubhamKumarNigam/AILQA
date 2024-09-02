@@ -1,0 +1,11 @@
+Summary:
+
+The Petroleum and Natural Gas Regulatory Board (Determination of Petroleum and Petroleum Products Pipeline Transportation Tariff) Regulations, 2010, outline the rules for determining the tariff for transporting petroleum and petroleum products through pipelines in India. The regulations apply to entities that were authorized by the Central Government and accepted by the Board for laying, building, operating, or expanding petroleum and petroleum products pipelines before the appointed day of October 1, 2007.
+
+The regulations define key terms, including "petroleum and petroleum products pipeline," "petroleum and petroleum products pipeline transportation tariff," and "tap off point (TOP)." The tariff is defined as the unit rate of transportation in rupees per metric ton or in rupees per kilo litre per kilo meter, including the impact of storage facilities essential for operating a petroleum and petroleum product pipeline system.
+
+The regulations establish the procedure for determining the petroleum and petroleum products pipeline transportation tariff, which is benchmarked against alternate modes of transport, such as rail. The determination of the tariff is based on the goods tariff table of the railways as applicable on the date of the commencement of the regulations, and it is frozen during the extended period of transition.
+
+The regulations also provide for the determination of tariff in respect of different TOPs and specify that the tariff determined in accordance with the procedure specified in regulation 5 shall be applicable as a transitional measure for a period of two years or such earlier time as the Board may decide for valid reasons to be given in writing. The transitional period may be extended for another two years or lesser period as the Board may decide for valid reasons to be given in writing.
+
+If any dispute arises with regards to the interpretation of any of the provisions of these regulations, the decision of the Board shall be final.

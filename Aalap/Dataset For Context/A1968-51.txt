@@ -1,0 +1,13 @@
+Summary:
+
+The Judges (Inquiry) Act, 1968, is a law that outlines the procedure for investigating the misbehavior or incapacity of a judge of the Supreme Court or of a High Court in India. The Act defines key terms such as "Chairman," "Committee," "Judge," "prescribed," and "Speaker."
+
+Under the Act, if a motion for the removal of a judge is signed by a certain number of members in either the House of the People or the Council of States, the Speaker or Chairman may constitute a Committee to investigate the grounds for removal. This Committee will consist of three members, including one chosen from among the Chief Justice and other Judges of the Supreme Court, one chosen from among the Chief Justices of the High Courts, and one distinguished jurist.
+
+The Committee will frame definite charges against the Judge and communicate them, along with a statement of the grounds for each charge. The Judge will be given a reasonable opportunity to present a written statement of defence. If the Judge is alleged to be unable to discharge the duties of his office efficiently due to physical or mental incapacity, the Committee may arrange for a medical examination of the Judge.
+
+The Committee will have the powers of a civil court while trying a suit under the Code of Civil Procedure, 1908. The Committee will submit its report to the Speaker or Chairman, or both, stating its findings on each of the charges separately with observations on the whole case. The report will be laid before the House of the People and the Council of States.
+
+If the report of the Committee contains a finding that the Judge is not guilty of any misbehavior or does not suffer from any incapacity, then no further steps will be taken in either House of Parliament. If the report contains a finding that the Judge is guilty of misbehavior or suffers from incapacity, then the motion for removal, along with the report of the Committee, will be taken up for consideration by the House or Houses of Parliament. If the motion is adopted by each House of Parliament, an address praying for the removal of the Judge will be presented to the President by each House of Parliament in the same session in which the motion has been adopted.
+
+The Act also provides for the constitution of a Joint Committee of both Houses of Parliament to make rules to carry out the purposes of this Act. These rules will be subject to the approval and confirmation of the Speaker and Chairman and will be published in the Official Gazette.

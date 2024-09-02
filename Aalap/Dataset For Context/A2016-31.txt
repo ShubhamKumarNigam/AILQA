@@ -1,0 +1,948 @@
+Summary:
+
+THE INSOLVENCY AND BANKRUPTCY CODE, 2016 is an Act that aims to consolidate and amend the laws relating to reorganization and insolvency resolution of corporate persons, partnership firms, and individuals in a time-bound manner for maximizing the value of assets of such persons. It establishes an Insolvency and Bankruptcy Board of India and promotes entrepreneurship, availability of credit, and balances the interests of all stakeholders, including alterations in the order of priority of payment of government dues. The Act defines various terms related to insolvency and bankruptcy, such as "Board," "bench," "bye-laws," "charge," "claim," "corporate person," "corporate debtor," "core services," "creditor," "debt," "default," "financial information," "financial institution," "financial product," "financial service," "financial service provider," "financial sector regulator," "insolvency professional," "insolvency professional agency," "information utility," "notification," "person," "person resident in India," "person resident outside India," "prescribed," "property," "regulations," "Schedule," "secured creditor," and "security interest." The Act applies to companies incorporated under the Companies Act, 2013, or any previous company law, other companies governed by special acts, limited liability partnerships, bodies incorporated under any law for the time being in force, personal guarantors to corporate debtors, partnership firms, and proprietorship firms, and individuals, other than persons referred to in clause (e). The Act defines "claim" as a right to payment, whether or not such right is reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured, or unsecured, and right to remedy for breach of contract under any law for the time being in force, if such breach gives rise to a right to payment, whether or not such right is reduced to judgment, fixed, matured, unmatured, disputed, undisputed, secured, or unsecured. The Act defines "default" as non-payment of debt when whole or any part or installment of the amount of debt has become due and payable and is not paid by the debtor or the corporate debtor. The Act defines "financial information" as records of the debt of the person, records of liabilities when the person is solvent, records of assets of the person over which security interest has been created, records, if any, of instances of default by the person against any debt, records of the balance sheet and cash-flow statements of the person, and such other information as may be specified. The Act defines "financial institution" as a scheduled bank, financial institution as defined in section 45-I of the Reserve Bank of India Act, 1934, public financial institution as defined in clause (72) of section 2 of the Companies Act, 2013, and such other institution as the Central Government may by notification specify as a financial institution. The Act defines "financial product" as securities, contracts of insurance, deposits, credit arrangements including loans and advances by banks and financial institutions, retirement benefit plans, small savings instruments, foreign currency contracts other than contracts to exchange one currency (whether Indian or not) for another which are to be settled immediately, or any other instrument as may be prescribed. The Act defines "financial service" as accepting of deposits, safeguarding and administering assets consisting of financial products, belonging to another person, or agreeing to do so, effecting contracts of insurance, offering, managing, or agreeing to manage assets consisting of financial products belonging to another person, rendering or agreeing, for consideration, to render advice on or soliciting for the purposes of buying, selling, or subscribing to, a financial product, availing a financial service, or exercising any right associated with a financial product or financial service, establishing or operating an investment scheme, maintaining or transferring records of ownership of a financial product, underwriting the issuance or subscription of a financial product, or selling, providing, or issuing stored value or payment instruments or providing payment services. The Act defines "financial service provider" as a person engaged in the business of providing financial services in terms of authorization issued or registration granted by a financial sector regulator. The Act defines "financial sector regulator" as an authority or body constituted under any law for the time being in force to regulate services or transactions of financial sector and includes the Reserve Bank of India, the Securities and Exchange Board of India, the Insurance Regulatory and Development Authority of India, the Pension Fund Regulatory Authority and such other regulatory authorities as may be notified by the Central Government. The Act defines "insolvency professional" as a person enrolled under section 206 with an insolvency professional agency as its member and registered with the Board as an insolvency professional under section 207. The Act defines "insolvency professional agency" as any person registered with the Board under section 201 as an insolvency professional agency. The Act defines "information utility" as a person who is registered with the Board as an information utility under section 210. The Act defines "notification" as a notification published in the Official Gazette, and the terms "notified" and "notify" shall be construed accordingly. The Act defines "person" as an individual, a Hindu Undivided Family, a company, a trust, a partnership, a limited liability partnership, and any other entity established under a statute, and includes a person resident outside India. The Act defines "person resident in India" as a person who is resident in India for the purposes of the Foreign Exchange Management Act, 1999, and "person resident outside India" as a person other than a person resident in India. The Act defines "prescribed" as prescribed by rules made by the Central Government. The Act defines "property" as money, goods, actionable claims, land, and every description of property situated in India or outside India, and every description of interest, including present or future or vested or contingent interest arising out of, or incidental to, property. The Act defines "regulations" as the regulations made by the Board under this Code. The Act defines "Schedule" as the Schedule annexed to this Code. The Act defines "secured creditor" as a creditor in favor of whom security interest is created, and "security interest" as right, title, or interest or a claim to property, created in favor of, or provided for, a secured creditor by a transaction which secures payment or performance of an obligation, and includes mortgage, charge, hypothecation, assignment, and encumbrance or any other agreement or arrangement securing payment or performance of any obligation of any person. The Act provides for the adjudicating authority to be the National Company Law Tribunal or the Debt Recovery Tribunal, depending on the nature of the corporate debtor. The Act provides for the insolvency resolution process, which includes the appointment of an interim resolution professional, the formation of a committee of creditors, the approval of a resolution plan, and the implementation of the resolution plan. The Act provides for liquidation proceedings in case of a failure of the insolvency resolution process, and the appointment of a liquidator to manage the liquidation process. The Act provides for the distribution of assets in the order of priority of payment of government dues, worker's dues, secured creditors, unsecured creditors, and any remaining amount to the corporate debtor or its shareholders. The Act provides for offenses and penalties for non-compliance with the provisions of the Act. The Act provides for the establishment of the Insolvency and Bankruptcy Board of India, which shall regulate the insolvency professionals, insolvency professional agencies, and information utilities. The Act provides for the establishment of the Adjudicating Authority, which shall consist of the National Company Law Tribunal for corporate debtors, and the Debt Recovery Tribunal for individuals and partnership firms. The Act provides for the establishment of the Appellate Authority, which shall hear appeals against the orders of the Adjudicating Authority. The Act provides for the establishment of the Insolvency and Bankruptcy Fund, which shall be used for the purposes of insolvency resolution and liquidation proceedings. The Act provides for the establishment of the National Insolvency Register, which shall maintain records of all insolvency resolution and liquidation proceedings. The Act provides for the establishment of the Insolvency and Bankruptcy Board of India Fund, which shall be used for the purposes of the Insolvency and Bankruptcy Board of India. The Act provides for the establishment of the Insolvency Professional Agency Regulations Committee, which shall regulate insolvency professional agencies. The Act provides for the establishment of the Information Utilities Regulations Committee, which shall regulate information utilities. The Act provides for the establishment of the Insolvency Professional Regulations Committee, which shall regulate insolvency professionals. The Act provides for the establishment of the Mental Health Review Board, which shall review the mental health of debtors in insolvency proceedings. The Act provides for the establishment of the National Company Law Appellate Tribunal, which shall hear appeals against the orders of the National Company Law Tribunal. The Act provides for the establishment of the Debt Recovery Appellate Tribunal, which shall hear appeals against the orders of the Debt Recovery Tribunal. The Act provides for the establishment of the Securities and Exchange Board of India, which shall regulate the securities market. The Act provides for the establishment of the Reserve Bank of India, which shall regulate the banking sector. The Act provides for the establishment of the Insurance Regulatory and Development Authority of India, which shall regulate the insurance sector. The Act provides for the establishment of the Pension Fund Regulatory Authority, which shall regulate the pension sector. The Act provides for the establishment of the Competition Commission of India, which shall regulate competition in the market. The Act provides for the establishment of the Telecom Regulatory Authority of India, which shall regulate the telecom sector. The Act provides for the establishment of the Central Vigilance Commission, which shall investigate cases of corruption in government departments and public sector undertakings. The Act provides for the establishment of the Central Bureau of Investigation, which shall investigate cases of corruption, economic offenses, and serious crimes. The Act provides for the establishment of the Enforcement Directorate, which shall enforce the provisions of the Prevention of Money Laundering Act, 2002. The Act provides for the establishment of the Serious Fraud Investigation Office, which shall investigate cases of serious fraud in companies. The Act provides for the establishment of the National Financial Reporting Authority, which shall regulate the auditing profession. The Act provides for the establishment of the National Company Law Tribunal Rules, which shall govern the proceedings of the National Company Law Tribunal. The Act provides for the establishment of the Debt Recovery Tribunal Rules, which shall govern the proceedings of the Debt Recovery Tribunal. The Act provides for the establishment of the Insolvency and Bankruptcy Board of India Rules, which shall govern the proceedings of the Insolvency and Bankruptcy Board of India. The Act provides for the establishment of the National Company Law Appellate Tribunal Rules, which shall govern the proceedings of the National Company Law Appellate Tribunal. The Act provides for the establishment of the Debt Recovery Appellate Tribunal Rules, which shall govern the proceedings of the Debt Recovery Appellate Tribunal. The Act provides for the establishment of the Securities and Exchange Board of India Rules, which shall govern the proceedings of the Securities and Exchange Board of India. The Act provides for the establishment of the Reserve Bank of India Act, which shall govern the proceedings of the Reserve Bank of India. The Act provides for the establishment of the Insurance Regulatory and Development Authority of India Act, which shall govern the proceedings of the Insurance Regulatory and Development Authority of India. The Act provides for the establishment of the Pension Fund Regulatory Authority Act, which shall govern the proceedings of the Pension Fund Regulatory Authority. The Act provides for the establishment of the Competition Commission of India Act, which shall govern the proceedings of the Competition Commission of India. The Act provides for the establishment of the Telecom Regulatory Authority of India Act, which shall govern the proceedings of the Telecom Regulatory Authority of India. The Act provides for the establishment of the Central Vigilance Commission Act, which shall govern the proceedings of the Central Vigilance Commission. The Act provides for the establishment of the Central Bureau of Investigation Act, which shall govern the proceedings of the Central Bureau of Investigation. The Act provides for the establishment of the Enforcement Directorate Act, which shall govern the proceedings of the Enforcement Directorate. The Act provides for the establishment of the Serious Fraud Investigation Office Act, which shall govern the proceedings of the Serious Fraud Investigation Office. The Act provides for the establishment of the National Financial Reporting Authority Act, which shall govern the proceedings of the National Financial Reporting Authority. The Act provides for the establishment of the National Company Law Tribunal Regulations, which shall govern the proceedings of the National Company Law Tribunal. The Act provides for the establishment of the Debt Recovery Tribunal Regulations, which shall govern the proceedings of the Debt Recovery Tribunal. The Act provides for the establishment of the Insolvency and Bankruptcy Board of India Regulations, which shall govern the proceedings of the Insolvency and Bankruptcy Board of India. The Act provides for the establishment of the National Company Law Appellate Tribunal Regulations, which shall govern the proceedings of the National Company Law Appellate Tribunal. The Act provides for the establishment of the Debt Recovery Appellate Tribunal Regulations, which shall govern the proceedings of the Debt Recovery Appellate Tribunal. The Act provides for the establishment of the Securities and Exchange Board of India Regulations, which shall govern the proceedings of the Securities and Exchange Board of India. The Act provides for the establishment of the Reserve Bank of India Regulations, which shall govern the proceedings of the Reserve Bank of India. The Act provides for the establishment of the Insurance Regulatory and Development Authority of India Regulations, which shall govern the proceedings of the Insurance Regulatory and Development Authority of India. The Act provides for the establishment of the Pension Fund Regulatory Authority Regulations, which shall govern the proceedings of the Pension Fund Regulatory Authority. The Act provides for the establishment of the Competition Commission of India Regulations, which shall govern the proceedings of the Competition Commission of India. The Act provides for the establishment of the Telecom Regulatory Authority of India Regulations, which shall govern the proceedings of the Telecom Regulatory Authority of India. The Act provides for the establishment of the Central Vigilance Commission Regulations, which shall govern the proceedings of the Central Vigilance Commission. The Act provides for the establishment of the Central Bureau of Investigation Regulations, which shall govern the proceedings of the Central Bureau of Investigation. The Act provides for the establishment of the Enforcement Directorate Regulations, which shall govern the proceedings of the Enforcement Directorate. The Act provides for the establishment of the Serious Fraud Investigation Office Regulations, which shall govern the proceedings of the Serious Fraud Investigation Office. The Act provides for the establishment of the National Financial Reporting Authority Regulations, which shall govern the proceedings of the National Financial Reporting Authority. The Act provides for the establishment of the National Company Law Tribunal Fees and Costs Rules, which shall govern the fees and costs of the National Company Law Tribunal. The Act provides for the establishment of the Debt Recovery Tribunal Fees and Costs Rules, which shall govern the fees and costs of the Debt Recovery Tribunal. The Act provides for the establishment of the Insolvency and Bankruptcy Board of India Fees and Costs Rules, which shall govern the fees and costs of the Insolvency and Bankruptcy Board of India. The Act provides for the establishment of the National Company Law Appellate Tribunal Fees and Costs Rules, which shall govern the fees and costs of the National Company Law Appellate Tribunal. The Act provides for the establishment of the Debt Recovery Appellate Tribunal Fees and Costs Rules, which shall govern the fees and costs of the Debt Recovery Appellate Tribunal. The Act provides for the establishment of the Securities and Exchange Board of India Fees and Costs Rules, which shall govern the fees and costs of the Securities and Exchange Board of India. The Act provides for the establishment of the Reserve Bank of India Fees and Costs Rules, which shall govern the fees and costs of the Reserve Bank of India. The Act provides for the establishment of the Insurance Regulatory and Development Authority of India Fees and Costs Rules, which shall govern the fees and costs of the Insurance Regulatory and Development Authority of India. The Act provides for the establishment of the Pension Fund Regulatory Authority Fees and Costs Rules, which shall govern the fees and costs of the Pension Fund Regulatory Authority. The Act provides for the establishment of the Competition Commission of India Fees and Costs Rules, which shall govern the fees and costs of the Competition Commission of India. The Act provides for the establishment of the Telecom Regulatory Authority of India Fees and Costs Rules, which shall govern the fees and costs of the Telecom Regulatory Authority of India. The Act provides for the establishment of the Central Vigilance Commission Fees and Costs Rules, which shall govern the fees and costs of the Central Vigilance Commission. The Act provides for the establishment of the Central Bureau of Investigation Fees and Costs Rules, which shall govern the fees and costs of the Central Bureau of Investigation. The Act provides for the establishment of the Enforcement Directorate Fees and Costs Rules, which shall govern the fees and costs of the Enforcement Directorate. The Act provides for the establishment of the Serious Fraud Investigation Office Fees and Costs Rules, which shall govern the fees and costs of the Serious Fraud Investigation Office. The Act provides for the establishment of the National Financial Reporting Authority Fees and Costs Rules, which shall govern the fees and costs of the National Financial Reporting Authority. The Act provides for the establishment of the National
+Summary:
+
+This document is a part of the Insolvency Resolution and Liquidation for Corporate Persons. It includes definitions and applications of various terms used in the code. The code applies to matters relating to the insolvency and liquidation of corporate debtors where the minimum amount of default is 1 crore rupees. The Adjudicating Authority is the National Company Law Tribunal. Financial debt means a debt along with interest, which is disbursed against the consideration for the time value of money. Financial creditor means any person to whom a financial debt is owed. Financial position means the financial information of a person as on a certain date. Insolvency resolution process costs mean the amount of any interim finance and the costs incurred in raising such finance, the fees payable to any person acting as a resolution professional, any costs incurred by the resolution professional in running the business of the corporate debtor as a going concern, any costs incurred at the expense of the Government to facilitate the insolvency resolution process, and any other costs as may be specified by the Board. Insolvency resolution process period means the period of one hundred and eighty days beginning from the insolvency commencement date and ending on one hundred and eightieth day. Interim finance means any financial debt raised by the resolution professional during the insolvency resolution process period and such other debt as may be notified. Liquidation cost means any cost incurred by the liquidator during the period of liquidation subject to such regulations, as may be specified by the Board. Liquidation commencement date means the date on which proceedings for liquidation commence in accordance with section 33 or section 59, as the case may be. Liquidator means an insolvency professional appointed as a liquidator in accordance with the provisions of Chapter III or Chapter V of this Part, as the case may be. Operational debt means a claim in respect of the provision of goods or services including employment or a debt in respect of the payment of dues arising under any law for the time being in force and payable to the Central Government, any State Government or any local authority. Operational creditor means a person to whom an operational debt is owed and includes any person to whom such debt has been legally assigned or transferred. Personal guarantor means an individual who is the surety in a contract of guarantee to a corporate debtor. Personnel includes the directors, managers, key managerial personnel, designated partners and employees, if any, of the corporate debtor. Related party, in relation to a corporate debtor, means a director or partner of the corporate debtor or a relative of a director or partner of the corporate debtor, a key managerial personnel of the corporate debtor or a relative of a key managerial personnel of the corporate debtor, a limited liability partnership or a partnership firm in which a director, partner, or manager of the corporate debtor or his relative is a partner, a private company in which a director, partner or manager of the corporate debtor is a director and holds along with his relatives, more than two per cent. of its share capital, a public company in which a director, partner or manager of the corporate debtor is a director and holds along with relatives, more than two per cent. of its share capital.
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) provides for the resolution of insolvency in corporate entities. Under the IBC, a corporate insolvency resolution process can be initiated by a financial creditor, an operational creditor, or the corporate debtor itself, in case of a default. The document discusses the provisions related to the initiation of the corporate insolvency resolution process by financial creditors.
+
+A financial creditor, either by itself or jointly with other financial creditors or any other person authorized by the Central Government, can file an application for initiating corporate insolvency resolution process against a corporate debtor if a default has occurred. The financial creditor must submit an application in a prescribed form along with evidence of default, the name of the proposed interim resolution professional, and other specified information.
+
+The Adjudicating Authority, upon receiving the application, will ascertain the existence of a default within 14 days. If the Adjudicating Authority finds that a default has occurred and the application is complete, and there are no disciplinary proceedings pending against the proposed resolution professional, it may admit the application. However, if the Adjudicating Authority determines that default has not occurred, the application is incomplete, or any disciplinary proceedings are pending against the proposed resolution professional, it may reject the application.
+
+The document also discusses the requirements for financial creditors who are allottees under a real estate project and the provisions related to the modification of applications for initiating the corporate insolvency resolution process.
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) of India is a legal framework that provides a time-bound resolution process for insolvent companies. The code applies to both financial and operational creditors, and the process can be initiated by either party in case of default.
+
+Section 7 of the IBC deals with the initiation of the corporate insolvency resolution process by a financial creditor. The financial creditor must first deliver a demand notice or a copy of an invoice to the corporate debtor, demanding payment of the unpaid amount. If the corporate debtor fails to pay or dispute the debt within ten days, the financial creditor may file an application before the Adjudicating Authority for initiating the corporate insolvency resolution process.
+
+Section 8 of the IBC deals with the insolvency resolution by an operational creditor. The operational creditor may deliver a demand notice or a copy of an invoice to the corporate debtor, demanding payment of the unpaid operational debt. The corporate debtor has ten days to respond, either by paying the debt or by providing notice of a dispute. If the corporate debtor fails to respond, the operational creditor may file an application before the Adjudicating Authority for initiating the corporate insolvency resolution process.
+
+Section 9 of the IBC deals with the application for initiation of the corporate insolvency resolution process by an operational creditor. The operational creditor must file an application before the Adjudicating Authority, along with a copy of the invoice or demand notice, an affidavit stating that there is no notice of dispute, and any other proof confirming that there is no payment of the unpaid operational debt. The Adjudicating Authority must admit or reject the application within fourteen days.
+
+Section 10 of the IBC deals with the initiation of the corporate insolvency resolution process by a corporate applicant. The corporate applicant must file an application before the Adjudicating Authority, along with information relating to its books of account, information relating to the proposed resolution professional, and the special resolution passed by shareholders or partners approving the filing of the application. The Adjudicating Authority must admit or reject the application within fourteen days.
+
+Section 11 of the IBC deals with persons not entitled to make an application to initiate the corporate insolvency resolution process. A corporate debtor undergoing a corporate insolvency resolution process, a corporate debtor that has completed a corporate insolvency resolution process within the preceding twelve months, a corporate debtor or financial creditor that has violated the terms of a resolution plan within the preceding twelve months, and a corporate debtor in respect of whom a liquidation order has been made are not entitled to make an application.
+
+Section 12 of the IBC deals with the time-limit for completion of the insolvency resolution process. The corporate insolvency resolution process must be completed within one hundred and eighty days from the date of admission of the application. However, the resolution professional may file an application to extend the period of the corporate insolvency resolution process beyond one hundred and eighty days, if instructed to do so by a resolution passed at a meeting of the committee of creditors by a vote of sixty-six per cent. of the voting shares. The Adjudicating Authority may extend the duration of the process beyond one hundred and eighty days by such further period as it thinks fit, but not exceeding ninety days.
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) is a law in India that aims to provide a time-bound resolution process for companies facing financial distress. The document summarizes several sections of the IBC.
+
+Section 7 of the IBC allows a financial creditor to initiate the corporate insolvency resolution process (CIRP) against a defaulting corporate debtor. Section 9 allows an operational creditor to initiate CIRP, while Section 10 allows the corporate debtor itself to initiate CIRP.
+
+Section 12A allows the withdrawal of an application admitted under Sections 7, 9, or 10 with the approval of 90% voting share of the committee of creditors.
+
+Section 13 mandates the declaration of a moratorium for prohibiting suits, transferring, encumbering, alienating, or disposing of assets, recovery of property, or any action to foreclose, recover or enforce any security interest created by the corporate debtor. The supply of essential goods or services to the corporate debtor cannot be terminated, suspended, or interrupted during the moratorium period.
+
+Section 14 states that the order of moratorium shall have effect from the date of such order till the completion of the CIRP.
+
+Section 15 requires the public announcement of the CIRP under the order referred to in Section 13, containing information such as the name and address of the corporate debtor, name of the authority with which the corporate debtor is incorporated, the last date for submission of claims, details of the interim resolution professional, penalties for false or misleading claims, and the date on which the CIRP shall close.
+
+Section 16 mandates the appointment of an interim resolution professional (IRP) on the insolvency commencement date. The IRP shall manage the affairs of the corporate debtor, exercise the powers of the board of directors, and access the electronic records of the corporate debtor.
+
+Section 17 states that the interim resolution professional vested with the management of the corporate debtor shall act and execute in the name and on behalf of the corporate debtor, take necessary actions, have the authority to access the electronic records of corporate debtor from information utility having financial information of the corporate debtor, and have the authority to access the books of account, records, and other relevant documents of corporate debtor available with government authorities, statutory authorities, or offices.
+
+Section 18 states that the interim resolution professional shall prepare an information memorandum containing the details of the corporate debtor, financial information, and other relevant information.
+
+Section 19 requires the IRP to constitute a committee of creditors (CoC) consisting of financial creditors. The CoC shall have the power to appoint or replace the IRP, approve the resolution plan, and decide on other matters.
+
+Section 20 states that the IRP shall invite expression of interest from prospective resolution applicants.
+
+Section 21 states that the resolution applicant shall submit a resolution plan to the IRP, which shall provide for the management of the affairs of the corporate debtor, payment of debts, and other matters.
+
+Section 22 states that the CoC shall appoint a resolution professional (RP) to manage the affairs of the corporate debtor and submit a resolution plan. The RP shall replace the IRP.
+
+Section 23 states that the RP shall submit a resolution plan to the CoC, which shall provide for the management of the affairs of the corporate debtor, payment of debts, and other matters.
+
+Section 24 states that the CoC may approve the resolution plan by a vote of not less than 66% of the voting share of the financial creditors.
+
+Section 25 states that the resolution plan shall be binding on the corporate debtor, its employees, members, creditors, guarantors, and other stakeholders.
+
+Section 26 states that the resolution professional shall submit the resolution plan to the Adjudicating Authority for approval.
+
+Section 27 states that the Adjudicating Authority may approve the resolution plan if it provides for the payment of debts and is in the interest of the creditors.
+
+Section 28 states that the corporate debtor shall be liable to pay the debts and dues as per the resolution plan.
+
+Section 29A states that certain persons cannot be resolution applicants, including undischarged insolvents, willful defaulters, and persons disqualified by the RBI.
+
+Section 30 states that the Adjudicating Authority may reject the resolution plan if it is not in the interest of the creditors.
+
+Section 31 states that the resolution professional shall submit the approved resolution plan to the Adjudicating Authority for implementation.
+
+Section 32 states that the Adjudicating Authority may order liquidation of the corporate debtor if the resolution plan is not approved or implemented.
+
+Section 33 states that the Adjudicating Authority may order liquidation of the corporate debtor if the corporate debtor has failed to pay its debts.
+
+Section 34 states that the liquidation process shall be carried out by a liquidator appointed by the Adjudicating Authority.
+
+Section 35 states that the liquidator shall realize the assets of the corporate debtor and distribute the proceeds to the creditors.
+
+Section 36 states that the liquidation proceedings shall be deemed to have commenced from the date of the order of the Adjudicating Authority.
+
+Section 37 states that the liquidator shall submit a final report to the Adjudicating Authority.
+
+Section 38 states that the Adjudicating Authority may pass an order for dissolution of the corporate debtor.
+
+Section 39 states that the dissolution of the corporate debtor shall be published in the Official Gazette.
+
+Section 40 states that the liability of the shareholders or partners of the corporate debtor shall be limited to the amount of their shareholding or partnership.
+
+Section 41 states that the provisions of the IBC shall have overriding effect over other laws.
+
+Section 42 states that the Central Government may notify rules for carrying out the provisions of the IBC.
+
+Section 43 states that the Central Government may make regulations for carrying out the provisions of the IBC.
+
+Section 44 states that the provisions of the IBC shall apply to financial leases, hire-purchase contracts, and conditional sales contracts.
+
+Section 45 states that the provisions of the IBC shall not apply to securitization transactions.
+
+Section 46 states that the provisions of the IBC shall not apply to bankruptcy proceedings under the Presidency Towns Insolvency Act, 1909 or the Provincial Insolvency Act, 1920.
+
+Section 47 states that the provisions of the IBC shall not apply to insolvency proceedings under any other law for the time being in force.
+
+Section 48 states that the provisions of the IBC shall apply to corporate debtors, creditors, and other stakeholders.
+
+Section 49 states that the provisions of the IBC shall come into force on such date as may be notified by the Central Government.
+
+Section 50 states that the IBC shall be deemed to have come into force on the 15th day of December, 2016.
+
+Section 51 states that any reference to the Companies Act, 2013 in the IBC shall be construed as a reference to the corresponding provisions of the Companies Act, 1956.
+
+Section 52 states that any reference to the Sick Industrial Companies (Special Provisions) Act, 1985 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 53 states that any reference to the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 54 states that any reference to the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 55 states that any reference to the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 56 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 57 states that any reference to the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 58 states that any reference to the Insolvency and Bankruptcy Board of India (Voluntary Liquidation Process) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 59 states that any reference to the Insolvency and Bankruptcy Board of India (Model Bye-laws and Governing Board of Insolvency Professional Agencies) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 60 states that any reference to the Insolvency and Bankruptcy Board of India (Registration of Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 61 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 62 states that any reference to the Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 63 states that any reference to the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 64 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 65 states that any reference to the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 66 states that any reference to the Insolvency and Bankruptcy Board of India (Voluntary Liquidation Process) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 67 states that any reference to the Insolvency and Bankruptcy Board of India (Model Bye-laws and Governing Board of Insolvency Professional Agencies) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 68 states that any reference to the Insolvency and Bankruptcy Board of India (Registration of Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 69 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 70 states that any reference to the Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 71 states that any reference to the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 72 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 73 states that any reference to the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 74 states that any reference to the Insolvency and Bankruptcy Board of India (Voluntary Liquidation Process) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 75 states that any reference to the Insolvency and Bankruptcy Board of India (Model Bye-laws and Governing Board of Insolvency Professional Agencies) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 76 states that any reference to the Insolvency and Bankruptcy Board of India (Registration of Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 77 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 78 states that any reference to the Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 79 states that any reference to the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 80 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 81 states that any reference to the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 82 states that any reference to the Insolvency and Bankruptcy Board of India (Voluntary Liquidation Process) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 83 states that any reference to the Insolvency and Bankruptcy Board of India (Model Bye-laws and Governing Board of Insolvency Professional Agencies) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 84 states that any reference to the Insolvency and Bankruptcy Board of India (Registration of Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 85 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Professionals) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 86 states that any reference to the Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 87 states that any reference to the Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 88 states that any reference to the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 89 states that any reference to the Insolvency and Bankruptcy Board of India (Fast Track Insolvency Resolution Process for Corporate Persons) Regulations, 2017 in the IBC shall be construed as a reference to the corresponding provisions of the IBC.
+
+Section 90 states that any reference to the Insolvency and Bankruptcy Board of India (Voluntary Liquidation Process)
+Summary:
+
+The Insolvency and Bankruptcy Code of India provides rules for the management of a company in financial distress. Under Section 18, the interim resolution professional is responsible for collecting information about the company's assets, finances, and operations, receiving and collating claims from creditors, managing the company's operations, filing information with the information utility, and taking control of the company's assets. Under Section 19, personnel of the company must cooperate with the interim resolution professional. Section 20 allows the interim resolution professional to manage the company as a going concern and to raise interim finance. Section 21 establishes the committee of creditors, which includes all financial creditors of the company, except for related parties. The voting share of each creditor in the committee is determined by the amount of their financial debt. If a person is both a financial and operational creditor, they are considered a financial creditor for the purposes of the committee. If an operational creditor has assigned or legally transferred operational debt to a financial creditor, the assignee or transferee is considered an operational creditor. Financial creditors in a consortium or agreement may authorize a trustee or agent to act on their behalf in the committee of creditors, represent themselves, appoint an insolvency professional to represent themselves, or exercise their right to vote jointly or severally. If a financial debt is represented by a guardian, executor, or administrator, that person shall act as the authorized representative on behalf of the financial creditors. The authorized representative under clauses (a), (b), or (c) of sub-section (6A) shall attend meetings of the committee of creditors and vote on behalf of each financial creditor to the extent of their voting share. The remuneration payable to the authorized representative under clause (b) of sub-section (6A) shall be as specified, which shall form part of the insolvency resolution process costs. The Board may specify the manner of voting and the determining of the voting share in respect of financial debts covered under sub-sections (6) and (6A).
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) of India is a legal framework for the resolution of insolvency and bankruptcy of companies and individuals. The Code provides for the appointment of a resolution professional to manage the operations of the corporate debtor during the corporate insolvency resolution process. The committee of creditors, consisting of financial creditors, has the right to require the resolution professional to furnish any financial information in relation to the corporate debtor. The committee of creditors has the power to appoint or replace the resolution professional by a vote of not less than 66% of the voting share of the financial creditors. The resolution professional is responsible for conducting the entire corporate insolvency resolution process and managing the operations of the corporate debtor. The meetings of the committee of creditors are conducted by the resolution professional, and each creditor votes in accordance with the voting share assigned to him based on the financial debts owed to such creditor. The resolution professional has various duties, including taking immediate custody and control of all the assets of the corporate debtor, representing and acting on behalf of the corporate debtor with third parties, and preparing the information memorandum. The authorised representative of financial creditors has the right to participate and vote in meetings of the committee of creditors on behalf of the financial creditor he represents in accordance with the prior voting instructions of such creditors obtained through physical or electronic means.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016 (IBC) is a law in India that regulates the insolvency and bankruptcy process for individuals, companies, and partnerships. The following sections from the IBC are summarized below:
+
+Section 25(7): This section explains the term "electronic means" as any means specified by the IBC for voting instructions of a financial creditor to be recorded by the interim resolution professional or resolution professional.
+
+Section 26: The filing of an avoidance application under Section 25(2)(j) by the resolution professional does not affect the proceedings of the corporate insolvency resolution process.
+
+Section 27: The committee of creditors may replace the resolution professional appointed under Section 22 with another resolution professional with a written consent from the proposed resolution professional in the specified form. The name of the proposed resolution professional is then forwarded to the Adjudicating Authority for confirmation and appointment in the same manner as laid down in Section 16.
+
+Section 28(1): The resolution professional, during the corporate insolvency resolution process, shall not take any of the actions listed in this section without the prior approval of the committee of creditors, including raising interim finance, creating security interest over the assets of the corporate debtor, changing the capital structure, recording any change in the ownership interest, giving instructions to financial institutions for debit transactions, undertaking any related party transactions, amending constitutional documents, delegating authority to any other person, disposing of or permitting the disposal of shares of any shareholder of the corporate debtor or their nominees to third parties, making any change in the management of the corporate debtor or its subsidiary, transferring rights or financial debts or operational debts under material contracts, making changes in the appointment or terms of contract of such personnel as specified by the committee of creditors, or making changes in the appointment or terms of contract of statutory auditors or internal auditors of the corporate debtor.
+
+Section 28(2): The resolution professional shall convene a meeting of the committee of creditors and seek the vote of the creditors prior to taking any of the actions under sub-section (1).
+
+Section 28(3): No action under sub-section (1) shall be approved by the committee of creditors unless approved by a vote of 66% of the voting shares.
+
+Section 28(4): Any action taken by the resolution professional without seeking the approval of the committee of creditors in the manner as required in this section shall be void.
+
+Section 28(5): The committee of creditors may report the actions of the resolution professional under sub-section (4) to the Board for taking necessary actions against him under this Code.
+
+Section 29: The resolution professional shall prepare an information memorandum in such form and manner containing such relevant information as may be specified by the Board for formulating a resolution plan. The resolution professional shall provide to the resolution applicant access to all relevant information in physical and electronic form, subject to the resolution applicant's compliance with provisions of law relating to confidentiality and insider trading, protection of any intellectual property of the corporate debtor, and not sharing relevant information with third parties.
+
+Section 29A: A person shall not be eligible to submit a resolution plan if such person, or any other person acting jointly or in concert with such person, is an undischarged insolvent, a wilful defaulter, has an account classified as non-performing asset, has been convicted for any offence punishable with imprisonment, is disqualified to act as a director under the Companies Act, 2013, is prohibited by the Securities and Exchange Board of India from trading in securities or accessing the securities markets, has been a promoter or in the management or control of a corporate debtor in which a preferential transaction, undervalued transaction, extortionate credit transaction or fraudulent transaction has taken place and in respect of which an order has been made by the Adjudicating Authority under this Code. However, a person may be eligible to submit a resolution plan if such person makes payment of all overdue amounts with interest thereon and charges relating to non-performing asset accounts before submission of the resolution plan. This section also provides for certain exceptions and explanations.
+
+Section 29A(d): This section specifies the disqualification of a person who has been convicted for any offence punishable with imprisonment for two years or more under any Act specified under the Twelfth Schedule or for seven years or more under any other law for the time being in force. Provided that this clause shall not apply to a person after the expiry of a period of two years from the date of his release from imprisonment. Provided further that this clause shall not apply in relation to a connected person referred to in clause (iii) of Explanation I.
+
+Explanation I and II: These explanations provide for certain exceptions and clarifications regarding the disqualification of a person under Section 29A.
+Summary:
+
+Section 30 of the Insolvency and Bankruptcy Code in India outlines the submission of resolution plans. A resolution applicant may submit a resolution plan, along with an affidavit stating that they are eligible under section 29A, to the resolution professional. The resolution professional will then examine the plan to confirm that it meets certain conditions, such as providing for the payment of insolvency resolution process costs, debts of operational creditors, and debts of financial creditors who do not vote in favor of the resolution plan. The plan must also provide for the management of the affairs of the corporate debtor after approval, the implementation and supervision of the resolution plan, and not contravene any provisions of law. The committee of creditors may approve a resolution plan by a vote of not less than 66% of voting share of the financial creditors, after considering its feasibility and viability, and such other requirements as may be specified by the Board. The resolution applicant may attend the meeting of the committee of creditors in which the resolution plan of the applicant is considered, but does not have a right to vote at the meeting unless they are also a financial creditor. The resolution professional will then submit the resolution plan as approved by the committee of creditors to the Adjudicating Authority.
+
+Section 31 of the Insolvency and Bankruptcy Code in India outlines the approval of resolution plans. If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors under section 30 meets the requirements as referred to in section 30, it shall by order approve the resolution plan which shall be binding on the corporate debtor and its employees, members, creditors, including the Central Government, any State Government or any local authority to whom a debt in respect of the payment of dues arising under any law for the time being in force, such as authorities to whom statutory dues are owed, guarantors and other stakeholders involved in the resolution.
+Summary:
+
+The Insolvency and Bankruptcy Code of India, 2016, outlines the process for the corporate insolvency resolution process and liquidation of a corporate debtor. The document summarizes various sections of the Code related to the approval and implementation of a resolution plan, appeals, liability for prior offenses, and the liquidation process.
+
+* Section 30 outlines the process for submission and approval of a resolution plan by the Adjudicating Authority. The plan must provide for the implementation and must not conflict with any law.
+* Section 31 details the approval of the resolution plan, which ceases the moratorium order and requires the resolution professional to forward all records to the Board.
+* Section 32 outlines the appeal process for an order approving the resolution plan.
+* Section 32A states that the liability of a corporate debtor for an offense committed prior to the commencement of the corporate insolvency resolution process ceases if the resolution plan results in a change in management or control of the corporate debtor. However, certain individuals involved in the commission of the offense continue to be liable.
+* Section 33 outlines the initiation of liquidation, which may be ordered by the Adjudicating Authority if a resolution plan is not received or is rejected. The section also outlines the process for making an application for a liquidation order if the resolution plan is contravened.
+* Section 34 outlines the appointment of a liquidator and the fee to be paid.
+
+These sections provide a framework for the resolution and liquidation of a corporate debtor under the Insolvency and Bankruptcy Code of India, 2016.
+The Insolvency and Bankruptcy Code, 2016 (hereafter referred to as the "Code") governs the process of insolvency and liquidation for corporate entities in India. This summary will focus on Sections 34, 35, 36, and 37 of the Code, which deal with the appointment, powers, and duties of a liquidator, as well as the composition of the liquidation estate.
+
+Section 34: Appointment of Liquidator
+
+Under Section 34, the Adjudicating Authority (i.e., the National Company Law Tribunal) appoints a liquidator to manage the liquidation process. The liquidator can be either the resolution professional who managed the corporate insolvency resolution process (CIRP) or another insolvency professional proposed by the Board for Insolvency and Bankruptcy of India. The appointed liquidator acts as the legal representative of the corporate debtor and has the power to manage its assets and affairs.
+
+Section 35: Powers and Duties of Liquidator
+
+Section 35 outlines the powers and duties of a liquidator during the liquidation process. The liquidator is responsible for:
+
+1. Verifying the claims of all creditors
+2. Taking custody or control of the corporate debtor's assets, property, effects, and actionable claims
+3. Evaluating the assets and property of the corporate debtor
+4. Protecting and preserving the assets and properties of the corporate debtor
+5. Carrying on the business of the corporate debtor for its beneficial liquidation
+6. Selling the immovable and movable property and actionable claims of the corporate debtor in liquidation by public auction or private contract
+7. Drawing, accepting, making, and endorsing any negotiable instruments in the name and on behalf of the corporate debtor
+8. Taking out letters of administration to any deceased contributory and doing any other act necessary for obtaining payment of any money due and payable from a contributory or his estate
+9. Obtaining professional assistance from any person or appointing any professional in discharge of his duties
+10. Inviting and settling claims of creditors and claimants and distributing proceeds in accordance with the provisions of the Code
+11. Instituting or defending any suit, prosecution, or other legal proceedings in the name of or on behalf of the corporate debtor
+12. Investigating the financial affairs of the corporate debtor to determine undervalued or preferential transactions
+13. Performing such other functions as may be specified by the Board
+
+The liquidator is also required to consult with any of the stakeholders entitled to a distribution of proceeds under Section 53, although such consultation shall not be binding on the liquidator.
+
+Section 36: Liquidation Estate
+
+Section 36 defines the liquidation estate, which comprises all assets owned by the corporate debtor, including encumbered assets, tangible and intangible assets, assets subject to the determination of ownership by the court or authority, any assets or their value recovered through proceedings for avoidance of transactions, and any other property belonging to or vested in the corporate debtor at the insolvency commencement date.
+
+However, certain assets are excluded from the liquidation estate, such as assets owned by a third party, assets in security collateral held by financial services providers, personal assets of shareholders or partners, assets of any Indian or foreign subsidiary of the corporate debtor, or any other assets specified by the Board.
+
+Section 37: Powers of Liquidator to Access Information
+
+Under Section 37, the liquidator has the power to access any information related to the corporate debtor from any person who may possess such information. This includes financial information, books of accounts, and other relevant documents. The liquidator can also summon any person to give evidence or produce any document, and such person is obligated to comply with the liquidator's summons. Failure to comply with the summons can result in penalties, including imprisonment.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016 (IBC) governs the insolvency resolution process for companies in India. Section 38 of the IBC deals with the submission and verification of claims by creditors. The liquidator has the power to access any information systems to admit and prove claims and identify the liquidation estate assets. Creditors may require the liquidator to provide financial information relating to the corporate debtor. The liquidator shall receive or collect the claims of creditors within 30 days from the commencement of the liquidation process. A financial creditor may submit a claim with an information utility, while an operational creditor may submit a claim in the specified form and manner along with supporting documents. A creditor may withdraw or vary his claim within 14 days of its submission. The liquidator shall verify the claims submitted under section 38 within the specified time and may require any creditor, corporate debtor, or any other person to produce any other document or evidence for verification. The liquidator may admit or reject the claim, in whole or in part, and communicate his decision to the creditor and corporate debtor within 7 days of such admission or rejection. The liquidator shall determine the value of claims admitted under section 40 in the manner specified by the Board. A creditor may appeal to the Adjudicating Authority against the decision of the liquidator accepting or rejecting the claims within 14 days of the receipt of such decision. Section 43 of the IBC deals with preferential transactions and the relevant time. Where the liquidator or the resolution professional is of the opinion that the corporate debtor has given a preference in such transactions, he may apply to the Adjudicating Authority for avoidance of preferential transactions. A corporate debtor shall be deemed to have given a preference if there is a transfer of property or an interest thereof for the benefit of a creditor, surety, or guarantor for or on account of an antecedent financial debt or operational debt or other liabilities owed by the corporate debtor, and the transfer has the effect of putting such creditor or a surety or a guarantor in a beneficial position than it would have been in the event of a distribution of assets being made in accordance with section 53. A preference shall not include the following transfers: (a) transfer made in the ordinary course of the business or financial affairs of the corporate debtor or the transferee; (b) any transfer creating a security interest in property acquired by the corporate debtor to the extent that such security interest secures new value and was given at the time of or after the signing of a security agreement that contains a description of such property as security interest and was used by corporate debtor to acquire such property, and such transfer was registered with an information utility on or before 30 days after the corporate debtor receives possession of such property. An order under this section shall not affect any interest in property which was acquired from a person other than the corporate debtor or any interest derived from such interest and was acquired in good faith and for value, and shall not require a person who received a benefit from the preferential transaction in good faith and for value to pay a sum to the liquidator or the resolution professional.
+Summary:
+
+The Insolvency and Bankruptcy Code of India contains provisions related to the avoidance of undervalued transactions. Section 45 states that if the liquidator or resolution professional determines that certain transactions were made during the relevant period (one year before the insolvency commencement date or two years before if it was with a related party) and were undervalued, they can make an application to the Adjudicating Authority to declare such transactions as void and reverse their effect. An undervalued transaction is defined as one where the corporate debtor makes a gift to a person or enters into a transaction with a person which involves the transfer of one or more assets by the corporate debtor for a consideration the value of which is significantly less than the value of the consideration provided by the corporate debtor, and such transaction has not taken place in the ordinary course of business of the corporate debtor. Section 46 states that the relevant period for avoidable transactions is one year before the insolvency commencement date for transactions with any person and two years before if it was with a related party. The Adjudicating Authority may require an independent expert to assess evidence relating to the value of the transactions mentioned in this section. Section 47 states that where an undervalued transaction has taken place and the liquidator or the resolution professional has not reported it to the Adjudicating Authority, a creditor, member or a partner of a corporate debtor may make an application to the Adjudicating Authority to declare such transactions void and reverse their effect. The order of the Adjudicating Authority under sub-section (1) of section 45 may provide for the vesting of any property transferred as part of the transaction in the corporate debtor, the release or discharge of any security interest granted by the corporate debtor, the payment of sums to the liquidator or resolution professional, or the payment of consideration for the transaction as may be determined by an independent expert. Section 49 states that where the corporate debtor has entered into an undervalued transaction deliberately for keeping assets beyond the reach of any person who is entitled to make a claim against the corporate debtor or in order to adversely affect the interests of such a person in relation to the claim, the Adjudicating Authority shall make an order restoring the position as it existed before such transaction and protecting the interests of persons who are victims of such transactions. Section 50 states that where the corporate debtor has been a party to an extortionate credit transaction involving the receipt of financial or operational debt during the period within two years preceding the insolvency commencement date, the liquidator or the resolution professional may make an application for avoidance of such transaction to the Adjudicating Authority if the terms of such transaction required exorbitant payments to be made by the corporate debtor. The Board may specify the circumstances in which a transactions which shall be covered under sub-section (1). The Adjudicating Authority, after examining the application, may set aside the whole or part of the debt created on account of the extortionate credit transaction, modify the terms of the transaction, require any person who is, or was, a party to the transaction to repay any amount received by such person, or require any security interest that was created as part of the extortionate credit transaction to be relinquished in favour of the liquidator or the resolution professional. Section 52 states that a secured creditor in the liquidation proceedings may relinquish its security interest to the liquidation estate and receive proceeds from the sale of assets by the liquidator or realize its security interest in the manner specified in this section. The secured creditor shall inform the liquidator of such security interest and identify the asset subject to such security interest to be realized. The liquidator shall verify such security interest and permit the secured creditor to realize only such security interest, the existence of which may be proved by the records of such security interest maintained by an information utility or by such other means as may be specified by the Board. A secured creditor may enforce, realize, settle, compromise or deal with the secured assets in accordance with such law as applicable to the security interest being realized and to the secured creditor and apply the proceeds to recover the debts due to it. If in the course of realizing a secured asset, any secured creditor faces resistance from the corporate debtor or any person connected therewith in taking possession of, selling or otherwise disposing of the security, the secured creditor may make an application to the Adjudicating Authority to facilitate the secured creditor to realize such security interest in accordance with law for the time being in force. The Adjudicating Authority, on the receipt of an application from a secured creditor under sub-section (5), may pass such order as may be necessary to permit a secured creditor to realize security interest in accordance with law for the time being in force. Where the enforcement of the security interest under sub-section (4) yields an amount by way of proceeds which is in excess of the debts due to the secured creditor, the secured creditor shall account to the liquidator for such surplus and tender to the liquidator any surplus funds received from the
+The Insolvency and Bankruptcy Code, 2016, is a law in India that provides a time-bound process for resolving insolvency and bankruptcy of individuals, companies, and partnership firms. The Code aims to consolidate and amend the existing laws relating to insolvency, bankruptcy, and winding up of companies, and to provide a unified and comprehensive legal framework for dealing with insolvency and bankruptcy matters in India.
+
+Under the Code, a financial creditor, operational creditor, or the corporate debtor itself can initiate insolvency proceedings against a defaulting corporate debtor. The Code provides for the appointment of an Interim Resolution Professional (IRP) or a Resolution Professional (RP) to manage the operations of the corporate debtor during the insolvency resolution process. The IRP/RP is responsible for inviting and evaluating resolution plans from potential resolution applicants, and for submitting a report to the Committee of Creditors (CoC) recommending the best resolution plan. The CoC, which consists of financial creditors, has the power to approve or reject the resolution plan.
+
+If a resolution plan is approved by the CoC, it is binding on all creditors and stakeholders of the corporate debtor. If no resolution plan is approved within the prescribed time limit, or if the resolution plan is rejected by the Adjudicating Authority (AA), the corporate debtor is moved into liquidation.
+
+During the liquidation process, the assets of the corporate debtor are sold to repay its debts. The Code prescribes an order of priority for the distribution of proceeds from the sale of assets. The proceeds are first used to pay the insolvency resolution process costs and the liquidation costs, followed by workmen's dues, debts owed to secured creditors, wages and unpaid dues owed to employees, financial debts owed to unsecured creditors, dues owed to the Central Government and State Government, any remaining debts and dues, preference shareholders, and finally, equity shareholders or partners.
+
+The Code also provides for the voluntary liquidation of a corporate person who is not in default and intends to liquidate itself. The voluntary liquidation process is initiated by a declaration from majority of the directors of the company, followed by a special resolution of the members of the company requiring the company to be liquidated voluntarily and appointing an insolvency professional to act as the liquidator.
+
+The Code aims to balance the interests of all stakeholders involved in the insolvency and bankruptcy process, while ensuring that the process is completed in a time-bound manner. It provides a framework for the efficient resolution of insolvency and bankruptcy cases, while also promoting entrepreneurship and innovation by providing a fresh start to debtors who are unable to repay their debts.
+Summary:
+The Insolvency and Bankruptcy Code, 2016 (IBC) is a law in India that governs the insolvency resolution and liquidation of corporate entities and personal guarantors. The IBC establishes the National Company Law Tribunal (NCLT) as the Adjudicating Authority for insolvency resolution and liquidation proceedings for corporate persons, including corporate debtors and personal guarantors. The NCLT has jurisdiction to entertain or dispose of any application or proceeding by or against a corporate debtor or corporate person, including claims by or against any of its subsidiaries situated in India, and any question of priorities or any question of law or facts arising out of or in relation to the insolvency resolution or liquidation proceedings of the corporate debtor or corporate person under this Code. The IBC also provides for appeals to the National Company Law Appellate Tribunal (NCLAT) and the Supreme Court. The NCLT and NCLAT are required to dispose of applications within the time limits specified in the IBC, and no injunction shall be granted by any court, tribunal, or authority in respect of any action taken or to be taken in pursuance of any power conferred on the NCLT or NCLAT under this Code. The IBC imposes penalties on persons who initiate insolvency resolution or liquidation proceedings fraudulently or with malicious intent, and provides for the liability of directors or partners of a corporate debtor who fail to exercise due diligence in minimizing potential loss to creditors.
+Summary:
+The Insolvency and Bankruptcy Code (IBC) of India includes provisions for offences and penalties related to corporate debtors. If an officer of a corporate debtor conceals property, makes false entries, or commits fraud, they can be punished with imprisonment and fines. The IBC also includes provisions for punishment for transactions defrauding creditors, misconduct during the corporate insolvency resolution process, falsification of books, wilful and material omissions from statements, and false representations to creditors. The code also provides for punishment for contravention of the moratorium or the orders of the Adjudicating Authority. The IBC aims to promote a culture of compliance and ethical business practices in India.
+Summary:
+
+Part III of the Insolvency and Bankruptcy Code, 2016, titled "Insolvency Resolution and Bankruptcy for Individuals and Partnership Firms," applies to matters relating to fresh start, insolvency, and bankruptcy of individuals and partnership firms where the amount of default is not less than one thousand rupees. The Central Government may specify a higher minimum amount of default.
+
+The document contains definitions of various terms used in this Part, including "Adjudicating Authority," "associate," "bankrupt," "bankruptcy," "bankruptcy debt," "bankruptcy commencement date," "bankruptcy order," "bankruptcy process," "bankruptcy trustee," "Chapter," "committee of creditors," "debtor," "discharge order," "excluded assets," "excluded debt," "firm," "immediate family," "partnership debt," "qualifying debt," and "repayment plan."
+
+The Part also includes provisions related to punishment for false information furnished in applications, non-disclosure of dispute or repayment of debt by operational creditors, and providing false information in applications made by corporate debtors.
+
+The punishment for false information furnished in applications is a fine not less than one lakh rupees but may extend to one crore rupees. The punishment for non-disclosure of dispute or repayment of debt by operational creditors is imprisonment for a term which shall not be less than one year but may extend to five years or with fine which shall not be less than one lakh rupees but may extend to one crore rupees, or with both. The punishment for providing false information in applications made by corporate debtors is imprisonment for a term which shall not be less than three years, but which may extend to five years or with fine which shall not be less than one lakh rupees, but which may extend to one crore rupees, or with both.
+
+Overall, this Part of the Insolvency and Bankruptcy Code, 2016, provides a framework for the resolution of insolvency and bankruptcy of individuals and partnership firms, and also includes provisions related to punishment for non-compliance with the provisions of this Part.
+Summary:
+
+The Insolvency and Bankruptcy Code (Second Amendment) Act, 2018, introduces a new Chapter II, Fresh Start Process, for individuals who are unable to pay their debts. The Fresh Start Process is designed to provide a debtor with a fresh start by discharging their qualifying debts.
+
+To be eligible for the Fresh Start Process, the debtor must meet certain conditions, including having a gross annual income of less than 60,000 rupees, owning assets worth less than 20,000 rupees, and having qualifying debts of less than 35,000 rupees. The debtor must also not be an undischarged bankrupt, own a dwelling unit, have a subsisting fresh start, insolvency resolution, or bankruptcy process, or have received a fresh start order under this Chapter in the preceding twelve months.
+
+To apply for a fresh start order, the debtor must file an application with the Adjudicating Authority, accompanied by a fee, and provide certain information, including a list of all debts, interest payable, security held, financial information, personal details, reasons for making the application, and details of any legal proceedings.
+
+Upon receiving the application, the Adjudicating Authority will direct the Board to nominate a resolution professional for the fresh start process. The resolution professional will examine the application and submit a report to the Adjudicating Authority, recommending acceptance or rejection of the application.
+
+The Adjudicating Authority may admit or reject the application within fourteen days of receiving the report. If the application is accepted, the moratorium period will commence, during which no legal action or proceedings can be initiated by the creditors. The debtor must not act as a director of any company, dispose of or alienate any of their assets, or enter into any financial or commercial transaction without informing the creditors. The debtor must also disclose the name under which they enter into business transactions, if it is different from the name in the application.
+
+In summary, the Fresh Start Process under the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018, provides a debtor with a fresh start by discharging their qualifying debts, subject to certain conditions and eligibility criteria. The process involves the appointment of a resolution professional, examination of the application, and admission or rejection of the application by the Adjudicating Authority. During the moratorium period, the debtor must comply with certain restrictions and disclosure requirements.
+Insolvency and Bankruptcy Code, 2016 (IBC)
+
+Chapter III: Insolvency Resolution Process
+
+Section 94: Application by debtor to initiate insolvency resolution process
+
+(1) A debtor who has committed a default may apply to the Adjudicating Authority for initiating the insolvency resolution process by submitting an application.
+
+(2) Where the debtor is a partner of a firm, such debtor shall not apply under this Chapter to the Adjudicating Authority in respect of the firm unless all or a majority of the partners of the firm file the application jointly.
+
+(3) An application under sub-section (1) shall be submitted only in respect of debts which are not excluded debts.
+
+(4) A debtor shall not be entitled to make an application under sub-section (1) if he is—
+
+(a) an undischarged bankrupt;
+
+(b) undergoing a fresh start process;
+
+(c) undergoing an insolvency resolution process under this Code; or
+
+(d) has been adjudged as an insolvent under the Companies Act, 2013.
+
+(5) An application under sub-section (1) shall contain the following details, namely:—
+
+(a) the name of the debtor, his contact details, and the nature of the business carried on by him;
+
+(b) the total debt of the debtor and the amount of default;
+
+(c) the particulars of the creditors, including their names, addresses, and the amounts due to them;
+
+(d) the particulars of the security interest, if any, in favour of any creditor;
+
+(e) the names and contact details of the resolution professional proposed to be appointed under section 95;
+
+(f) the list of assets and liabilities of the debtor, including their current valuation;
+
+(g) the cash flow statement of the debtor for the last two years;
+
+(h) the details of any litigation or legal proceedings initiated or pending against the debtor;
+
+(i) the names and contact details of the auditor and the legal adviser of the debtor; and
+
+(j) any other information that the debtor may consider relevant for the purposes of the insolvency resolution process.
+
+(6) The debtor shall submit the application under sub-section (1) with such fee as may be prescribed.
+
+(7) The Adjudicating Authority may require the debtor to submit any additional information or document that it deems necessary for the purposes of considering the application.
+
+Section 95: Appointment of interim resolution professional
+
+(1) The Adjudicating Authority shall, within fourteen days of the receipt of the application under section 94, by an order—
+
+(a) admit the application, if it is complete in all respects; or
+
+(b) reject the application, if it is incomplete or contains any deficiency.
+
+(2) Where the application is admitted under sub-section (1), the Adjudicating Authority shall, by the same order, appoint an interim resolution professional for carrying out the functions as specified in section 11.
+
+(3) The interim resolution professional shall, within seven days of his appointment, take charge of the assets of the debtor and conduct an initial assessment of the debtor's assets and liabilities.
+
+(4) The interim resolution professional shall, within ten days of his appointment, issue a public announcement inviting claims from the creditors.
+
+(5) The interim resolution professional shall constitute a committee of creditors within thirty days of his appointment.
+
+(6) The interim resolution professional shall submit a report to the Adjudicating Authority on the feasibility and viability of the insolvency resolution process within forty-five days of his appointment.
+
+(7) The interim resolution professional shall perform such other functions as may be specified by the Adjudicating Authority.
+
+Section 96: Moratorium
+
+(1) On the admission of an application under section 94, the Adjudicating Authority shall, by order, declare a moratorium for a period of one hundred and eighty days.
+
+(2) During the moratorium period—
+
+(a) no legal action shall be initiated or continued against the debtor or his property in respect of any debt or obligation;
+
+(b) the transfer or alienation of the debtor's assets shall be stayed;
+
+(c) the debtor shall not be allowed to dispose of or deal with any of his assets or any legal right or beneficial interest in them;
+
+(d) the debtor shall not be allowed to create any security interest in respect of his assets;
+
+(e) the creditor shall not be allowed to enforce any security interest created in respect of the debtor's assets;
+
+(f) the debtor shall not be allowed to make any payment to any creditor in respect of any debt or obligation; and
+
+(g) the debtor shall not be allowed to make any payment in respect of any outstanding amount to any financial creditor in respect of a financial debt.
+
+(3) The moratorium shall not apply to—
+
+(a) such transactions as may be specified by the Central Government in consultation with any financial sector regulator;
+
+(b) the recovery of any property by an owner or lessor where such property is in the possession of the debtor;
+
+(c) the creation or enforcement of any security interest in respect of any asset acquired after the commencement of the moratorium; and
+
+(d) the creation and enforcement of any security interest in respect of any asset other than an asset covered under clause (b) of sub-section (2), where such security interest is in favour of a financial creditor.
+
+Section 97: Meeting of committee of creditors
+
+(1) The interim resolution professional shall convene a meeting of the committee of creditors within seven days of his appointment.
+
+(2) At the meeting of the committee of creditors, the members shall—
+
+(a) consider the report submitted by the interim resolution professional under sub-section (6) of section 95;
+
+(b) approve the appointment of the resolution professional;
+
+(c) authorise the resolution professional to invite and consider resolution plans;
+
+(d) approve the form and manner of invitation of resolution plans;
+
+(e) approve the timelines for the submission of resolution plans;
+
+(f) consider the resolution plans submitted by the resolution applicants; and
+
+(g) approve or reject the resolution plans.
+
+(3) The resolution professional shall submit the resolution plans approved by the committee of creditors to the Adjudicating Authority for its approval.
+
+Section 98: Approval of resolution plan
+
+(1) The Adjudicating Authority shall approve a resolution plan if it provides for the payment of the debts of the debtor in full or such higher amount as may be agreed by the creditors.
+
+(2) The Adjudicating Authority may approve a resolution plan even if it provides for a lower payment to the creditors, if it is satisfied that such plan is in the best interest of the creditors and the debtor.
+
+(3) The Adjudicating Authority shall not approve a resolution plan if it provides for the payment of the debts of the debtor in full, but the debtor does not have sufficient assets to discharge such debts.
+
+(4) The Adjudicating Authority shall not approve a resolution plan if it is satisfied that the resolution applicant has not complied with the requirements of this Chapter.
+
+(5) The Adjudicating Authority shall communicate its decision on the approval or rejection of the resolution plan to the resolution professional within thirty days of the receipt of the resolution plan.
+
+Section 99: Effect of approval of resolution plan
+
+(1) On the approval of a resolution plan, the debtor shall be discharged from all his debts, except those specified in the resolution plan.
+
+(2) The resolution professional shall, within seven days of the approval of the resolution plan, submit a report to the Adjudicating Authority on the implementation of the resolution plan.
+
+(3) The Adjudicating Authority shall pass an order for the implementation of the resolution plan.
+
+(4) The resolution professional shall implement the resolution plan in accordance with the order passed by the Adjudicating Authority.
+
+Section 100: Fast track resolution process
+
+(1) The Adjudicating Authority may, on an application made by the debtor or the creditor, initiate a fast track resolution process if the following conditions are fulfilled, namely:—
+
+(a) the debtor is eligible to be admitted for a fast track resolution process under the rules made under this Code;
+
+(b) the debtor has not committed any default exceeding one crore rupees;
+
+(c) the debtor does not have any secured creditor, or the secured creditor has agreed to the fast track resolution process;
+
+(d) the debtor has not undergone a fresh start process or an insolvency resolution process under this Code in the last three years; and
+
+(e) the committee of creditors has approved the fast track resolution process.
+
+(2) The Adjudicating Authority shall, within fourteen days of the receipt of the application under sub-section (1), by an order—
+
+(a) admit the application, if it is complete in all respects; or
+
+(b) reject the application, if it is incomplete or contains any deficiency.
+
+(3) Where the application is admitted under sub-section (2), the Adjudicating Authority shall, by the same order, appoint an interim resolution professional for carrying out the functions as specified in section 11.
+
+(4) The interim resolution professional shall, within seven days of his appointment, take charge of the assets of the debtor and conduct an initial assessment of the debtor's assets and liabilities.
+
+(5) The interim resolution professional shall, within ten days of his appointment, issue a public announcement inviting claims from the creditors.
+
+(6) The interim resolution professional shall constitute a committee of creditors within thirty days of his appointment.
+
+(7) The interim resolution professional shall submit a report to the Adjudicating Authority on the feasibility and viability of the fast track resolution process within thirty days of his appointment.
+
+(8) The interim resolution professional shall perform such other functions as may be specified by the Adjudicating Authority.
+
+(9) The Adjudicating Authority may, on the request of the committee of creditors, extend the moratorium period for a further period of ninety days.
+
+(10) The Adjudicating Authority shall approve a resolution plan under the fast track resolution process if it provides for the payment of the debts of the debtor in full or such higher amount as may be agreed by the creditors.
+
+(11) The Adjudicating Authority may approve a resolution plan even if it provides for a lower payment to the creditors, if it is satisfied that such plan is in the best interest of the creditors and the debtor.
+
+(12) The Adjudicating Authority shall not approve a resolution plan if it provides for the payment of the debts of the debtor in full, but the debtor does not have sufficient assets to discharge such debts.
+
+(13) The Adjudicating Authority shall not approve a resolution plan if it is satisfied that the resolution applicant has not complied with the requirements of this Chapter.
+
+(14) The Adjudicating Authority shall communicate its decision on the approval or rejection of the resolution plan to the resolution professional within ten days of the receipt of the resolution plan.
+
+(15) On the approval of a resolution plan, the debtor shall be discharged from all his debts, except those specified in the resolution plan.
+
+(16) The resolution professional shall, within seven days of the approval of the resolution plan, submit a report to the Adjudicating Authority on the implementation of the resolution plan.
+
+(17) The Adjudicating Authority shall pass an order for the implementation of the resolution plan.
+
+(18) The resolution professional shall implement the resolution plan in accordance with the order passed by the Adjudicating Authority.
+
+Section 101: Liquidation
+
+(1) If a resolution plan is not approved under section 98 or section 100, or if the Adjudicating Authority is satisfied that the debtor has no assets to pay the debts owed by it, the Adjudicating Authority may pass an order for the liquidation of the debtor.
+
+(2) The Adjudicating Authority shall appoint a liquidator for carrying out the functions as specified in Chapter V.
+
+(3) The liquidator shall invite claims from the creditors and distribute the assets of the debtor in accordance with the provisions of Chapter V.
+
+(4) The liquidator shall submit a final report to the Adjudicating Authority on the completion of the liquidation process.
+
+(5) The Adjudicating Authority shall pass an order for the dissolution of the debtor on the receipt of the final report submitted by the liquidator.
+
+Section 102: Stay of proceedings
+
+(1) On the admission of an application under section 94 or section 100, the Adjudicating Authority shall, by order, declare a moratorium for a period of one hundred and eighty days.
+
+(2) During the moratorium period—
+
+(a) no legal action shall be initiated or continued against the debtor or his property in respect of any debt or obligation;
+
+(b) the transfer or alienation of the debtor's assets shall be stayed;
+
+(c) the debtor shall not be allowed to dispose of or deal with any of his assets or any legal right or beneficial interest in them;
+
+(d) the debtor shall not be allowed to create any security interest in respect of his assets;
+
+(e) the creditor shall not be allowed to enforce any security interest created in respect of the debtor's assets;
+
+(f) the debtor shall not be allowed to make any payment to any creditor in respect of any debt or obligation; and
+
+(g) the debtor shall not be allowed to make any payment in respect of any outstanding amount to any financial creditor in respect of a financial debt.
+
+(3) The moratorium shall not apply to—
+
+(a) such transactions as may be specified by the Central Government in consultation with any financial sector regulator;
+
+(b) the recovery of any property by an owner or lessor where such property is in the possession of the debtor;
+
+(c) the creation or enforcement of any security interest in respect of any asset acquired after the commencement of the moratorium; and
+
+(d) the creation and enforcement of any security interest in respect of any asset other than an asset covered under clause (b) of sub-section (2), where such security interest is in favour of a financial creditor.
+
+Section 103: Priority of payments
+
+(1) The liquidator shall distribute the assets of the debtor in the following order of priority, namely:—
+
+(a) the costs and expenses of the liquidation;
+
+(b) the debts due to secured creditors;
+
+(c) the debts due to unsecured creditors;
+
+(d) the debts due to operational creditors; and
+
+(e) the debts due to the shareholders or partners of the debtor.
+
+(2) The liquidator shall pay the debts mentioned in clause (b) of sub-section (1) in the following manner, namely:—
+
+(a) where a secured creditor has relinquished his security interest, the secured creditor shall be paid in accordance with the provisions of clause (c) of sub-section (1);
+
+(b) where a secured creditor has partially relinquished his security interest, the secured creditor shall be paid in the following manner, namely:—
+
+(i) the amount of the debt due to the secured creditor, as determined by the liquidator, for the relinquished portion of the security interest; and
+
+(ii) the value of the relinquished portion of the security interest, as estimated by the liquidator, for the unsecured portion of the debt due to the secured creditor;
+
+(c) where a secured creditor has not relinquished his security interest, the secured creditor shall be paid in the following manner, namely:—
+
+(i) the value of the security interest, as estimated by the liquidator, for the secured portion of the debt due to the secured creditor; and
+
+(ii) the amount of the debt due to the secured creditor, as determined by the liquidator, for the unsecured portion of the debt due to the secured creditor.
+
+(3) The liquidator shall pay the debts mentioned in clause (c) of sub-section (1) in the following manner, namely:—
+
+(a) the debts due to workmen, in respect of any amount that has become due and payable to them for the period of twenty-four months immediately preceding the liquidation commencement date;
+
+(b) the debts due to employees, other than workmen, in respect of any amount that has become due and payable to them for the period of twelve months immediately preceding the liquidation commencement date;
+
+(c) the debts due to any other creditor.
+
+(4) The liquidator shall pay the debts mentioned in clause (d) of sub-section (1) in the following manner, namely:—
+
+(a) the debts due to any person in respect of any tax or duty that has become due and payable to the Central Government or a State Government for the period of twenty-four months immediately preceding the liquidation commencement date;
+
+(b
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) is a law in India that provides for the resolution of insolvency and bankruptcy of individuals, companies, and partnership firms. This summary focuses on four sections of the IBC: Sections 94, 95, 96, and 97, which deal with the initiation of an insolvency resolution process and the appointment of a resolution professional.
+
+Section 94 outlines the process for a debtor to initiate an insolvency resolution process. The debtor must submit an application to the Adjudicating Authority (National Company Law Tribunal) along with the necessary documents and fees. The debtor is ineligible to apply if an application under this Chapter has been admitted in respect of the debtor during the preceding 12 months.
+
+Section 95 describes the process for a creditor to initiate an insolvency resolution process. A creditor may apply either by themselves, jointly with other creditors, or through a resolution professional to the Adjudicating Authority for initiating an insolvency resolution process against a debtor. The creditor must provide details and documents relating to the debt owed by the debtor, the failure by the debtor to pay the debt, and relevant evidence of such default or non-repayment of debt. The creditor must also provide a copy of the application to the debtor.
+
+Section 96 outlines the interim moratorium that comes into effect when an application is filed under Section 94 or 95. During the interim moratorium period, any legal action or proceeding pending in respect of any debt is stayed, and the creditors of the debtor shall not initiate any legal action or proceedings in respect of any debt. The interim moratorium operates against all the partners of the firm as on the date of the application.
+
+Section 97 describes the appointment of a resolution professional. If the application under Section 94 or 95 is filed through a resolution professional, the Adjudicating Authority shall direct the Insolvency and Bankruptcy Board of India (IBBI) to confirm that there are no disciplinary proceedings pending against the resolution professional. The IBBI shall confirm or reject the appointment of the resolution professional and nominate another resolution professional for the insolvency resolution process. Where an application under Section 94 or 95 is filed by the debtor or the creditor themselves, the Adjudicating Authority shall direct the IBBI to nominate a resolution professional for the insolvency resolution process. The IBBI shall nominate a resolution professional within ten days of receiving the direction issued by the Adjudicating Authority. The Adjudicating Authority shall appoint the resolution professional recommended by the IBBI.
+
+In summary, Sections 94, 95, 96, and 97 of the Insolvency and Bankruptcy Code, 2016, provide the framework for initiating an insolvency resolution process and appointing a resolution professional in India. The sections outline the eligibility criteria, application process, interim moratorium, and appointment of a resolution professional for debtors and creditors.
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) is a law in India that governs the insolvency and bankruptcy of individuals, companies, and partnership firms. The law provides a time-bound process for resolving insolvency, which involves the submission of an application by the debtor or the creditor to the Adjudicating Authority. The Authority may admit or reject the application, and if admitted, a moratorium period of 180 days begins, during which legal action against the debtor is stayed, and the debtor cannot transfer, alienate, encumber, or dispose of any of his assets. The Adjudicating Authority issues a public notice inviting claims from all creditors within 21 days, and the resolution professional prepares a list of creditors based on the information disclosed in the application and the claims received. The debtor, in consultation with the resolution professional, prepares a repayment plan containing a proposal to restructure his debts or affairs, which is submitted to the Adjudicating Authority along with the resolution professional's report. The Adjudicating Authority may summon a meeting of the creditors to consider the repayment plan, and the creditors may decide to approve, modify, or reject the plan. Secured creditors are entitled to participate and vote in the meetings of the creditors and may forfeit their right to enforce the security during the period of the repayment plan. The IBC aims to provide a time-bound process for resolving insolvency and protecting the interests of all stakeholders, including debtors, creditors, and employees.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016 (IBC) in India provides a framework for the resolution of insolvency and bankruptcy of individuals and partnership firms. This summary will focus on certain sections of the IBC that deal with the repayment plan for debtors and the bankruptcy order for individuals and partnership firms.
+
+Section 106 to Section 110 deal with the preparation and submission of a repayment plan by the debtor. The debtor may propose a repayment plan to the creditors, which must be approved by a majority of more than three-fourths in value of the creditors present in person or by proxy and voting on the resolution. The resolution professional prepares a report of the meeting of the creditors on the repayment plan, which contains details such as whether the repayment plan was approved or rejected, the resolutions which were proposed at the meeting and the decision on such resolutions, the list of the creditors who were present or represented at the meeting, and the voting records of each creditor for all meetings of the creditors, and such other information as the resolution professional thinks appropriate to make known to the Adjudicating Authority.
+
+Section 111 to Section 113 deal with the approval of the repayment plan by the creditors and the notice of decisions taken at the meeting of the creditors. The repayment plan or any modification to the repayment plan shall be approved by a majority of more than three-fourths in value of the creditors present in person or by proxy and voting on the resolution in a meeting of the creditors. The resolution professional shall provide a copy of the report of the meeting of creditors prepared under section 112 to the debtor, the creditors, including those who were not present at the meeting, and the Adjudicating Authority.
+
+Section 114 to Section 116 deal with the order of the Adjudicating Authority on the repayment plan and the implementation and supervision of the repayment plan. The Adjudicating Authority shall by an order approve or reject the repayment plan on the basis of the report of the meeting of the creditors submitted by the resolution professional under section 112. The order of the Adjudicating Authority approving the repayment plan may also provide for directions for implementing the repayment plan. The resolution professional appointed under section 97 or under section 98 shall supervise the implementation of the repayment plan.
+
+Section 117 to Section 119 deal with the completion of the repayment plan and the discharge order. The resolution professional shall within fourteen days of the completion of the repayment plan, forward to the persons who are bound by the repayment plan under section 115 and the Adjudicating Authority, the following documents, namely:—(a) a notice that the repayment plan has been fully implemented; and (b) a copy of a report by the resolution professional summarising all receipts and payments made in pursuance of the repayment plan and extent of the implementation of such plan as compared with the repayment plan approved by the meeting of the creditors.
+
+Chapter IV of the IBC deals with the bankruptcy order for individuals and partnership firms. An application for bankruptcy of a debtor may be made, by a creditor individually or jointly with other creditors or by a debtor, to the Adjudicating Authority in certain circumstances, such as where an order has been passed by an Adjudicating Authority under sub-section 4 of section 100 or where an order has been passed by an Adjudicating Authority under sub-section 2 of section 115 or where an order has been passed by an Adjudicating Authority under sub-section 3 of section 118. The application for bankruptcy shall be filed within a period of three months of the date of the order passed by the Adjudicating Authority under the sections referred to in sub-section (1). Where the debtor is a firm, the application under sub-section (1) may be filed by any of its partners.
+
+The IBC provides a comprehensive framework for the resolution of insolvency and bankruptcy of individuals and partnership firms in India. The repayment plan and the bankruptcy order are important aspects of this framework, and the sections discussed in this summary provide a detailed overview of the same.
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC) of India provides provisions for bankruptcy proceedings against debtors who are unable to repay their debts. The Code defines two types of bankruptcy applications - by the debtor (under Section 122) and by the creditor (under Section 123). The debtor's application requires the submission of a statement of affairs, while the creditor's application requires the submission of records of insolvency resolution process, a copy of the order permitting the creditor to apply for bankruptcy, details of debts owed by the debtor, and other prescribed information.
+
+An interim-moratorium is imposed on all actions against the debtor's property from the date of the application until the bankruptcy commencement date. During this period, no legal action or proceedings can be initiated against the debtor's property. If the application is made in relation to a firm, the interim-moratorium applies to all partners of the firm as on the date of the application.
+
+The Adjudicating Authority appoints an insolvency professional as the bankruptcy trustee, either proposed by the debtor or creditor, or nominated by the Board. The bankruptcy trustee is responsible for managing the debtor's estate and distributing it among the creditors. The bankruptcy order continues to have effect until the debtor is discharged under Section 138. The bankruptcy order does not affect the right of any secured creditor to realize or deal with his security interest.
+
+The bankrupt is required to submit a statement of financial position to the bankruptcy trustee within seven days from the bankruptcy commencement date. The Adjudicating Authority sends notices to the creditors mentioned in the statement of affairs submitted by the bankrupt or the application for bankruptcy submitted by the bankrupt. The Adjudicating Authority also issues a public notice inviting claims from creditors, which includes the last date for claim submission and other prescribed matters. The creditors register their claims with the bankruptcy trustee within the specified time frame.
+Summary:
+
+This document outlines various sections of the Indian Bankruptcy Code. Section 130 explains the process for creditors to submit their claims to the bankruptcy trustee within seven days of the publication of a public notice. The trustee then prepares a list of creditors based on information disclosed by the bankrupt and claims received. A meeting of creditors is summoned within twenty-one days from the bankruptcy commencement date, and the trustee decides the quorum for the meeting. The meeting conducts business, including the establishment of a committee of creditors, and the bankruptcy trustee records the minutes. Creditors are entitled to vote in respect of resolutions in the meeting of the creditors in accordance with the voting share assigned to them, and the resolution professional determines the voting share. A discharge order is passed on an application by the bankruptcy trustee under Section 138, which releases the bankrupt from all bankruptcy debts, except for certain debts incurred by means of fraud or breach of trust. The bankrupt is subject to disqualifications and restrictions under Sections 140 and 141, respectively, from the bankruptcy commencement date, which cease to have effect if the bankruptcy order is modified or recalled under Section 142 or if the bankrupt is discharged under Section 138.
+Summary:
+
+Chapter V of the Insolvency and Bankruptcy Code, 2016, deals with the administration and distribution of the estate of the bankrupt. The bankruptcy trustee is responsible for investigating the affairs of the bankrupt, realizing the estate of the bankrupt, and distributing the estate of the bankrupt. The bankrupt is required to assist the bankruptcy trustee by providing information, attending meetings, and giving notice of any increase in income or acquisition or devolution of property. The bankruptcy trustee has the power to hold property, make contracts, sue and be sued, enter into engagements, employ persons, execute powers of attorney, deeds or other instruments, and do any other act necessary for the exercise of his rights. The bankruptcy trustee may also sell any part of the estate of the bankrupt, and has the power to manage the property of the bankrupt, including the right to sue and be sued, and to distribute the estate of the bankrupt among the creditors. The bankruptcy trustee is required to comply with the code of conduct provided under section 208 of the Code. The fees for the conduct of the bankruptcy process are paid to the bankruptcy trustee from the distribution of the estate of the bankrupt in the manner provided in section 178. The bankruptcy trustee may be replaced by the committee of creditors or the Adjudicating Authority in certain circumstances, and the earlier bankruptcy trustee is required to deliver possession of the estate of the bankrupt to the new bankruptcy trustee on the date of his appointment. The bankruptcy trustee may resign if he intends to cease practising as an insolvency professional or there is a conflict of interest or change of personal circumstances which preclude the further discharge of his duties as a bankruptcy trustee. The Adjudicating Authority shall, within seven days of the acceptance of the resignation of the bankruptcy trustee, direct the Board for his replacement, and the Board shall recommend another bankruptcy trustee as a replacement within ten days of the direction of the Adjudicating Authority. The Adjudicating Authority shall appoint the bankruptcy trustee recommended by the Board within fourteen days of receiving the recommendation. The replaced bankruptcy trustee shall deliver possession of the estate of the bankrupt to the new bankruptcy trustee, and the new bankruptcy trustee shall give a notice of his appointment to the committee of creditors and the bankrupt within seven days of his appointment. The bankruptcy trustee who has resigned shall share all information with the new bankruptcy trustee in respect of the bankruptcy process and co-operate with the new bankruptcy trustee in such matters as may be required. The bankruptcy trustee who has completed the administration of the bankruptcy process shall be released of his duties with effect from the date on which the committee of creditors approves the report of the bankruptcy trustee. In the event of the occurrence of vacancy in the office of the bankruptcy trustee for any reason other than his replacement or resignation, the vacancy shall be filled in accordance with the provisions of section 147.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016 is a law in India that governs the insolvency and bankruptcy process for individuals and companies. The Code provides for the appointment of a bankruptcy trustee who takes control of the bankrupt's estate and manages the bankruptcy process. The bankruptcy trustee has the power to carry on the bankrupt's business, bring or defend legal actions, accept payments due in the future, mortgage or pledge property, make compromises or arrangements with creditors, and refer disputes to arbitration. The estate of the bankrupt includes all property belonging to or vested in the bankrupt at the bankruptcy commencement date, the capacity to exercise powers in or over property, and all property which is comprised in the estate by virtue of the provisions of the Code. The estate of the bankrupt does not include excluded assets, property held by the bankrupt on trust for any other person, sums due to workmen or employees from provident fund, pension fund and gratuity fund, and such assets as may be notified by the Central Government in consultation with any financial sector regulator. The bankruptcy trustee has the power to take possession and control of all property, books, papers and other records relating to the estate of the bankrupt or affairs of the bankrupt. Any disposition of property made by the debtor during the period between the date of filing of the application for bankruptcy and the bankruptcy commencement date is void. The bankruptcy trustee is entitled to claim for the estate of the bankrupt, any after-acquired property by giving a notice to the bankrupt. The bankruptcy trustee may disclaim any onerous property which forms a part of the estate of the bankrupt by giving notice to the bankrupt or any person interested in the onerous property. A notice of disclaimer under section 160 shall not be given in respect of the property which has been claimed for the estate of the bankrupt under section 155 without the permission of the committee of creditors. A notice of disclaimer under section 160 shall not affect the rights or liabilities of any other person, and any person who sustains a loss or damage in consequence of the operation of a disclaimer under this section shall be deemed to be a creditor of the bankrupt to the extent of the loss or damage.
+(a) Section 160 of the Insolvency and Bankruptcy Code, 2016, outlines the process for disclaiming onerous property by the bankruptcy trustee. Onerous property is defined as any property of the bankrupt which is unsaleable or not readily saleable or is such that it can be disposed of only at a price lower than its value or if it would cost more to preserve the property than it would realise if sold. The bankruptcy trustee may disclaim any onerous property, except for leasehold interests, which cannot be disclaimed under sub-section (1). If the bankruptcy trustee chooses to disclaim any onerous property, they must give notice in relation to that property under section 160.
+
+(b) Section 162 of the Insolvency and Bankruptcy Code, 2016, deals with the disclaimer of leasehold interests. The bankruptcy trustee is not entitled to disclaim any leasehold interest unless a notice of disclaimer has been served on every interested person and no application objecting to the disclaimer has been filed within 14 days of the date on which notice was served. If an application objecting to the disclaimer has been filed by the interested person, the Adjudicating Authority may direct that the disclaimer shall take effect, and may also make orders with respect to fixtures, improvements by tenant and other matters arising out of the lease as it may think fit.
+
+(c) Section 163 of the Insolvency and Bankruptcy Code, 2016, outlines the challenge against disclaimed property. An application challenging the disclaimer may be made by any person who claims an interest in the disclaimed property, any person who is under any liability in respect of the disclaimed property, or where the disclaimed property is a dwelling house, any person who on the date of application for bankruptcy was in occupation of or entitled to occupy that dwelling house. The Adjudicating Authority may on an application under sub-section (1) make an order for the vesting of the disclaimed property in, or for its delivery to any of the persons mentioned in sub-section (1). The Adjudicating Authority shall not make an order in favour of a person who has made an application under clause (b) of sub-section (1) except where it appears to the Adjudicating Authority that it would be just to do so for the purpose of compensating the person.
+
+(d) Section 164 of the Insolvency and Bankruptcy Code, 2016, deals with undervalued transactions. The bankruptcy trustee may apply to the Adjudicating Authority for an order under this section in respect of an undervalued transaction between a bankrupt and any person. The undervalued transaction should have been entered into during the period of two years ending on the filing of the application for bankruptcy and caused the bankruptcy process to be triggered. A transaction between a bankrupt and his associate entered into during the period of two years preceding the date of making of the application for bankruptcy shall be deemed to be an undervalued transaction under this section. On the application of the bankruptcy trustee, the Adjudicating Authority may pass an order declaring an undervalued transaction void, pass an order requiring any property transferred as a part of an undervalued transaction to be vested with the bankruptcy trustee as a part of the estate of the bankrupt, and pass any other order it thinks fit for restoring the position to what it would have been if the bankrupt had not entered into the undervalued transaction.
+
+(e) Section 165 of the Insolvency and Bankruptcy Code, 2016, deals with preference transactions. The bankruptcy trustee may apply to the Adjudicating Authority for an order under this section if a bankrupt has given a preference to any person. The transaction giving preference to an associate of the bankrupt should have been entered into by the bankrupt with the associate during the period of two years ending on the date of the application for bankruptcy. Any transaction giving preference not covered under sub-section (2) should have been entered into by the bankrupt during the period of six months ending on the date of the application for bankruptcy. The transaction giving preference should have caused the bankruptcy process to be triggered. On the application of the bankruptcy trustee, the Adjudicating Authority may pass an order declaring a transaction giving preference void, pass an order requiring any property transferred in respect of a transaction giving preference to be vested with the bankruptcy trustee as a part of the estate of the bankrupt, and pass any other order it thinks fit for restoring the position to what it would have been if the bankrupt had not entered into the transaction giving preference.
+
+(f) Section 166 of the Insolvency and Bankruptcy Code, 2016, deals with the effect of orders passed by the Adjudicating Authority under sections 164 and 165. An order passed by the Adjudicating Authority under sections 164 or 165 shall not give rise to a right against a person interested in the property which was acquired in an undervalued transaction or a transaction giving preference, whether or not he is the person with whom the bankrupt entered into such transaction. Any sum required to be paid to the bankruptcy trustee under sub-section (1) shall be included in the estate of the bankrupt.
+
+(g) Section 167 of the Insolvency and Bankruptcy Code, 2016, deals with extortionate credit transactions. On an application by the bankruptcy trustee, the Adjudicating Authority may make an order under this section in respect of extortionate credit transactions to which the bankrupt is or has been a party. The transactions should have been entered into by the bankrupt during the period of two years ending on the bankruptcy commencement date. An order of the Adjudicating Authority may set aside the whole or part of any debt created by the transaction, vary the terms of the transaction or vary the terms on which any security for the purposes of the transaction is held, require any person who has been paid by the bankrupt under any transaction, to pay a sum to the bankruptcy trustee, and require any person to surrender to the bankruptcy trustee any property which was acquired in an extortionate credit transaction.
+Summary:
+
+The Insolvency and Bankruptcy Code of India contains various sections that outline the procedures for bankruptcy proceedings. Section 167 deals with the estate of the bankrupt, which includes any property or rights of property that the bankrupt has an interest in at the bankruptcy commencement date. This includes any property held as security for the purposes of a transaction. Any sum paid or property surrendered to the bankruptcy trustee is also included in the estate of the bankrupt. An extortionate credit transaction is defined as a transaction for or involving the provision of credit to the bankrupt by any person on terms requiring exorbitant payments or which is unconscionable under the principles of law relating to contracts. However, debt extended by a person regulated for the provision of financial services in compliance with the law in force is not considered an extortionate credit transaction.
+
+Section 168 outlines the obligations under contracts, which applies where a contract has been entered into by the bankrupt with a person before the bankruptcy commencement date. Any party to the contract, other than the bankrupt, may apply to the Adjudicating Authority for an order discharging the obligations of the applicant or the bankrupt under the contract and payment of damages for non-performance of the contract. Any damages payable by the bankrupt shall be provable as a bankruptcy debt.
+
+Section 169 states that if a bankrupt dies, the bankruptcy proceedings shall continue as if he were alive.
+
+Section 170 deals with the administration of the estate of a deceased bankrupt. The provisions of Chapter V relating to the administration and distribution of the estate of the bankrupt shall apply to the administration of the estate of a deceased bankrupt. The bankruptcy trustee shall have regard to the claims by the legal representatives of the deceased bankrupt to payment of the proper funeral and testamentary expenses incurred by them. The claims shall rank equally to the secured creditors in the priority provided under section 178. If any surplus remains after payment in full of all the debts due from the deceased bankrupt, such surplus shall be paid to the legal representatives of the estate of the deceased bankrupt or dealt with in such manner as may be prescribed.
+
+Section 171 outlines the proof of debt. The bankruptcy trustee shall give notice to each of the creditors to submit proof of debt within fourteen days of preparing the list of creditors under section 132. The proof of debt shall require the creditor to give full particulars of debt, including the date on which the debt was contracted and the value at which that person assesses it. In case the creditor is a decree holder against the bankrupt, a copy of the decree shall be a valid proof of debt. Where a debt bears interest, that interest shall be provable as part of the debt except in so far as it is owed in respect of any period after the bankruptcy commencement date. The bankruptcy trustee shall estimate the value of any bankruptcy debt which does not have a specific value. A creditor may prove for a debt where payment would have become due at a date later than the bankruptcy commencement date as if it were owed presently and may receive dividends in a manner as may be prescribed.
+
+Section 172 deals with the proof of debt by secured creditors. Where a secured creditor realises his security, he may produce proof of the balance due to him. Where a secured creditor surrenders his security to the bankruptcy trustee for the general benefit of the creditors, he may produce proof of his whole claim.
+
+Section 173 outlines mutual credit and set-off. Where before the bankruptcy commencement date, there have been mutual dealings between the bankrupt and any creditor, the bankruptcy trustee shall take an account of what is due from each party to the other in respect of the mutual dealings and the sums due from one party shall be set-off against the sums due from the other. Sums due from the bankrupt to another party shall not be included in the account taken by the bankruptcy trustee under sub-section (1), if that other party had notice at the time they became due that an application for bankruptcy relating to the bankrupt was pending.
+
+Section 174 deals with the distribution of interim dividend. Whenever the bankruptcy trustee has sufficient funds in his hand, he may declare and distribute interim dividend among the creditors in respect of the bankruptcy debts which they have respectively proved. The bankruptcy trustee shall make provision for any bankruptcy debts which appear to him to be due to persons who, by reason of the distance of their place of residence, may not have had sufficient time to tender and establish their debts.
+
+Section 175 outlines the distribution of property. The bankruptcy trustee may, with the approval of the committee of creditors, divide in its existing form amongst the creditors, according to its estimated value, any property in its existing form which from its peculiar nature or other special circumstances cannot be readily or advantageously sold.
+
+Section 176 deals with the final dividend. Where the bankruptcy trustee has realised the entire estate of the bankrupt or so much of it as could be realised in the opinion of the bankruptcy trustee, he shall give notice of his intention to declare a final dividend or that no dividend or further dividend shall be declared. After the final date referred to in sub-section (2), the bankruptcy trustee shall defray any outstanding expenses of the bankruptcy out of the estate of the bankrupt and if he intends to declare a final dividend, declare and distribute that dividend among the creditors who have proved their debts, without regard to the claims of any other persons. If a surplus remains after payment in full with interest to all the creditors of the bankrupt and the payment of the expenses of the bankruptcy, the bankrupt shall be entitled to the surplus.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016 provides provisions for the insolvency resolution process of individuals and partnership firms. The Adjudicating Authority for individuals and partnership firms is the Debt Recovery Tribunal. No civil court or authority shall have jurisdiction to entertain any suit or proceedings in respect of any matter on which the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal has jurisdiction under this Code. An appeal from an order of the Debt Recovery Tribunal under this Code shall be filed within thirty days before the Debt Recovery Appellate Tribunal. Punishments are prescribed for false information, contravention of provisions, and false information, concealment, etc., by bankrupt.
+Summary:
+
+The Insolvency and Bankruptcy Board of India is established under Section 188 of the Insolvency and Bankruptcy Code, 2016. It is a corporate body with perpetual succession and a common seal, and can acquire, hold, and dispose of property, and contract, and can sue or be sued. The head office of the Board is located in the National Capital Region, and it may establish offices at other places in India. The Board consists of a Chairperson, three ex officio members from the Central Government, one member nominated by the Reserve Bank of India, and five other members nominated by the Central Government, of whom at least three shall be whole-time members. The Chairperson and other members of the Board are appointed for a term of five years or till they attain the age of sixty-five years, whichever is earlier, and are eligible for reappointment. The salaries and allowances payable to, and other terms and conditions of service of, the Chairperson and members (other than the ex officio members) shall be such as may be prescribed. The Central Government may remove a member from office if he is an undischarged bankrupt, has become physically or mentally incapable of acting as a member, has been convicted of an offence involving moral turpitude, or has abused his position as to render his continuation in office detrimental to the public interest. The Chairperson has powers of general superintendence and direction of the affairs of the Board, and may also exercise such other powers as may be delegated to him by the Board. The Board shall meet at such times and places, and observe such rules of procedure in regard to the transaction of business at its meetings (including quorum at such meetings) as may be determined by regulations. The Chairperson, or if, for any reason, the Chairperson is unable to attend any meeting of the Board, any other member chosen by the members present at the meeting, shall preside at the meeting. All questions which come up before any meeting of the Board shall be decided by a majority votes of the members present and voting, and, in the event of an equality of votes, the Chairperson, or in his absence, the person presiding, shall have a second or casting vote. Any member, who is a director of a company and who as such director has any direct or indirect pecuniary interest in any matter coming up for consideration at a meeting of the Board, shall, as soon as possible after relevant circumstances have come to his knowledge, disclose the nature of his interest at such meeting and such disclosure shall be recorded in the proceedings of the Board, and the member shall not take any part in any deliberation or decision of the Board with respect to that matter. No act or proceeding of the Board shall be invalid merely by reason of any vacancy in, or any defect in the constitution of, the Board, or any defect in the appointment of a member of the Board.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016, establishes the Insolvency and Bankruptcy Board of India (Board) to perform various functions, including registering insolvency professional agencies, insolvency professionals, and information utilities. The Board has the power to specify the minimum eligibility requirements for registration, levy fees, and specify standards for the functioning of these entities. The Board can also conduct inspections and investigations, monitor performance, and pass orders for compliance with the Code and regulations. The Board can appoint officers and employees, and their salaries and allowances are specified by regulations. The Central Government may designate any financial sector regulator to exercise the powers and functions of the Board until it is established. The Board can constitute advisory and executive committees or other committees as it deems fit. The Board must have regard to certain principles while registering insolvency professional agencies, such as promoting professional development, protecting the interests of debtors and creditors, and promoting good professional and ethical conduct. No person can carry on business as an insolvency professional agency without a valid certificate of registration from the Board. The relevant Adjudicating Authority may condone the delay in performing any act within the period specified under the Code.
+Summary:
+
+The Insolvency and Bankruptcy Code of India includes provisions related to insolvency professional agencies and information utilities.
+
+Under Section 201 of the Code, every application for registration of an insolvency professional agency must be made to the Board in a specified form, with specified particulars and fee. The Board may grant a certificate of registration to the applicant if the application conforms with all requirements, or reject it after giving the applicant an opportunity to be heard. The Board may also renew the certificate of registration from time to time. The Board may suspend or cancel the certificate of registration on specified grounds, such as obtaining registration by false statement or misrepresentation, failing to comply with regulations, or contravening provisions of the Act or rules or regulations made thereunder.
+
+Under Section 202, any insolvency professional agency aggrieved by the order of the Board may prefer an appeal to the National Company Law Appellate Tribunal.
+
+Under Section 203, the Board may specify regulations to ensure that every insolvency professional agency takes into account the objectives sought to be achieved under the Code. Such regulations may specify the setting up of a governing board of an insolvency professional agency, the minimum number of independent members to be on the governing board, and the number of insolvency professionals to be on the governing board.
+
+Under Section 204, an insolvency professional agency shall perform the following functions:
+
+* Grant membership to persons who fulfill all requirements set out in its bye-laws on payment of membership fee
+* Lay down standards of professional conduct for its members
+* Monitor the performance of its members
+* Safeguard the rights, privileges, and interests of insolvency professionals who are its members
+* Suspend or cancel the membership of insolvency professionals who are its members on the grounds set out in its bye-laws
+* Redress the grievances of consumers against insolvency professionals who are its members
+* Publish information about its functions, list of its members, performance of its members, and such other information as may be specified by regulations
+
+Under Section 205, every insolvency professional agency shall make bye-laws consistent with the model bye-laws specified by the Board under sub-section (2) of section 196.
+
+Under Chapter IV of the Code, no person shall render his services as an insolvency professional under the Code without being enrolled as a member of an insolvency professional agency and registered with the Board. The Board may specify the categories of professionals or persons possessing specified qualifications and experience in the field of finance, law, management, insolvency, or such other field, as it deems fit.
+
+Under Section 208, every insolvency professional shall abide by the following code of conduct:
+
+* Take reasonable care and diligence while performing his duties
+* Comply with all requirements and terms and conditions specified in the bye-laws of the insolvency professional agency of which he is a member
+* Allow the insolvency professional agency to inspect his records
+* Submit a copy of the records of every proceeding before the Adjudicating Authority to the Board as well as to the insolvency professional agency of which he is a member
+* Perform his functions in such manner and subject to such conditions as may be specified
+
+Under Chapter V of the Code, no person shall carry on its business as an information utility under the Code without a certificate of registration issued in that behalf by the Board. The Board may grant a certificate of registration to the applicant in such form and manner and subject to such terms and conditions as may be specified. The Board may renew the certificate of registration from time to time in such manner and on payment of such fee as may be specified by regulations. The Board may suspend or cancel the certificate of registration granted to an information utility on specified grounds, such as obtaining registration by false statement or misrepresentation, failing to comply with regulations, or contravening provisions of the Act or rules or regulations made thereunder.
+Summary:
+
+The Insolvency and Bankruptcy Code of India has established regulations for information utilities, which are organizations that collect, store, and disseminate financial information relevant to the insolvency resolution process. The Board governing these utilities has the authority to require the establishment of a governing board with independent members and to specify the services that these utilities must provide, including core services to any person who complies with the specified terms and conditions.
+
+Information utilities have certain obligations, such as creating and storing financial information in a universally accessible format, accepting electronic submissions of financial information, meeting minimum service quality standards, authenticating information received from various persons before storing it, providing access to stored financial information, publishing statistical information, and ensuring interoperability with other information utilities.
+
+Persons intending to submit financial information to an information utility must do so in the specified form and manner and pay any specified fees. Financial creditors must submit financial information and information relating to assets in relation to which any security interest has been created, while operational creditors may submit financial information. Persons who submit financial information to an information utility must not provide that information to any other person, except as specified.
+
+The Board has the authority to investigate insolvency professional agencies, insolvency professionals, or information utilities if there are reasonable grounds to believe that they have contravened any provisions of the Code or rules or regulations made or directions issued by the Board. The Board may impose penalties on insolvency professional agencies, insolvency professionals, or information utilities that have contravened any provisions of the Code or rules or regulations made or directions issued by the Board. The Board may also direct any person who has made unlawful gain or averted loss by indulging in any activity in contravention of this Code, or the rules or regulations made thereunder, to disgorge an amount equivalent to such unlawful gain or aversion of loss.
+
+The Central Government may make grants to the Board for the purposes of this Code, and there shall be a Fund to be called the Fund of the Insolvency and Bankruptcy Board, to which all grants, fees, and charges received by the Board under this Code shall be credited. The Board may make regulations to specify the procedure for claiming restitution, the period within which such restitution may be claimed, and the manner in which restitution of amount may be made.
+Summary:
+
+The Insolvency and Bankruptcy Code, 2016, establishes the Insolvency and Bankruptcy Board of India (IBBI) to oversee the insolvency resolution process in India. The Fund, created under Section 224 of the Code, is used for insolvency resolution, liquidation, and bankruptcy of persons. The Fund is credited with grants from the Central Government, deposits from persons, amounts received from other sources, and interest or other income earned from investments. A person who has contributed to the Fund can apply for withdrawal of funds for specific purposes during insolvency proceedings. The Central Government has the power to issue directions to the IBBI and to supersede the Board in certain circumstances. The Code also provides for the notification of financial service providers or categories of financial service providers for the purpose of their insolvency and liquidation proceedings. The IBBI is required to prepare and submit a budget and annual report to the Central Government. The members, officers, and employees of the IBBI are deemed to be public servants, and no legal proceedings can be initiated against them for actions taken in good faith under the Code. The Central Government may enter into agreements with foreign governments for the enforcement of the Code's provisions.
+Summary:
+
+The Insolvency and Bankruptcy Code of 2016 (IBC) is a law in India that governs the insolvency resolution process for companies and individuals. This summary will focus on certain provisions of the IBC related to Indian laws, including Acts, Articles, or other legal terms.
+
+Section 234 of the IBC allows for reciprocal arrangements with countries outside India for the purposes of insolvency resolution. If a resolution professional, liquidator, or bankruptcy trustee determines that assets of the corporate debtor or debtor, including a personal guarantor of a corporate debtor, are situated in a country outside India with which reciprocal arrangements have been made, they may make an application to the Adjudicating Authority for evidence or action relating to such assets. The Adjudicating Authority may then issue a letter of request to a court or authority in the foreign country.
+
+Section 235A of the IBC provides for punishment where no specific penalty or punishment is provided for contravention of the provisions of the Code or the rules or regulations made thereunder. The penalty for such contravention shall be a fine of not less than one lakh rupees but which may extend to two crore rupees.
+
+Section 236 of the IBC states that offences under the Code shall be tried by the Special Court established under Chapter XXVIII of the Companies Act, 2013. No court shall take cognizance of any offence punishable under this Act, save on a complaint made by the Board or the Central Government or any person authorized by the Central Government in this behalf. The provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a Special Court.
+
+Section 237 of the IBC provides that the High Court may exercise, so far as may be applicable, all the powers conferred by Chapters XXIX and XXX of the Code of Criminal Procedure, 1973 on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court.
+
+Section 238 of the IBC states that the provisions of this Code shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having effect by virtue of any such law.
+
+Section 238A of the IBC provides that the provisions of the Limitation Act, 1963 shall, as far as may be, apply to the proceedings or appeals before the Adjudicating Authority, the National Company Law Appellate Tribunal, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, as the case may be.
+
+Section 239 of the IBC provides that the Central Government may, by notification, make rules for carrying out the provisions of this Code. The rules may provide for matters such as the form, manner, and fee for making an application before the Adjudicating Authority for initiating corporate insolvency resolution process by financial creditor, operational creditor, or corporate applicant. The rules may also provide for the form and manner for making an application for fresh start order, bankruptcy by the debtor, and insolvency resolution process by the creditor.
+
+Section 240 of the IBC provides that the Board may, by notification, make regulations consistent with this Code and the rules made thereunder, to carry out the provisions of this Code.
+Summary:
+
+The document summarizes the regulations that can be made under the Insolvency and Bankruptcy Code, 2016. These regulations may cover various matters, including:
+
+1. The form and manner of accepting electronic submission of financial information.
+2. The persons to whom access to information stored with the information utility may be provided.
+3. The other information required for the purposes of the Code.
+4. The other costs under section 5(13)(e).
+5. The cost incurred by the liquidator during the period of liquidation.
+6. The other record or evidence of default and any other information required under section 7(3).
+7. The period under section 10(3)(a).
+8. The supply of essential goods or services to the corporate debtor under section 14(2).
+9. The circumstances in which supply of critical goods or services may be terminated, suspended or interrupted during the period of moratorium under section 14(2A).
+10. The manner of making public announcement under section 15(2).
+11. The last date for submission of claims under section 15(1)(c).
+12. The manner of taking action and the restrictions thereof under section 17(2)(b).
+13. The other persons under section 17(2)(d).
+14. The other matters under section 17(2)(d).
+15. The other matters under section 18(2)(a)(iv) and the other duties to be performed by the interim resolution professional.
+16. The number of creditors within a class of creditors under section 21(6A).
+17. The remuneration payable to authorised representative under section 21(6B).
+18. The manner of voting and determining the voting share in respect of financial debts under section 21(7).
+19. The persons who shall comprise the committee of creditors, the functions to be exercised such committee and the manner in which functions shall be exercised.
+20. The other electronic means by which the members of the committee of creditors may meet.
+21. The manner of assigning voting share to each creditor.
+22. The manner of conducting the meetings of the committee of creditors.
+23. The manner of appointing accountants, lawyers and other advisors.
+24. Other conditions under section 25(2)(h).
+25. The other actions under section 25(2)(k).
+26. The form and the manner in which an information memorandum shall be prepared by the resolution professional.
+27. The other matter pertaining to the corporate debtor.
+28. The manner of making payment of insolvency resolution process costs, the manner of payment of debts and the other requirements to which a resolution plan shall conform to.
+29. The fee for the conduct of the liquidation proceedings and proportion to the value of the liquidation estate assets.
+30. The manner of evaluating the assets and property of the corporate debtor, the manner of selling property in parcels, the manner of reporting progress of the liquidation process and the other functions to be performed.
+31. The manner of making the records available to other stakeholders.
+32. The other means under section 36(1)(a).
+33. The other assets under section 36(4)(e).
+34. The other source under section 37(1)(g).
+35. The manner of providing financial information relating to the corporate debtor.
+36. The form, the manner and the supporting documents to be submitted by operational creditor to prove the claim.
+37. The time within which the liquidator shall verify the claims.
+38. The manner of determining the value of claims.
+39. The manner of relinquishing security interest to the liquidation estate and receiving proceeds from the sale of assets by the liquidator.
+40. The other means under section 52(3)(b).
+41. The manner in which secured creditor shall be paid by the liquidator.
+42. The period and the manner of distribution of proceeds of sale.
+43. The other means under section 57(1)(a) and the other information under section 57(1)(b).
+44. The conditions and procedural requirements under section 59(2).
+45. The details and the documents required to be submitted under section 95(7).
+46. The other matters under clause (c) of section 105.
+47. The manner and form of proxy voting.
+48. The manner of assigning voting share to creditor.
+49. The manner and form of proxy voting.
+50. The fee to be charged.
+51. The appointment of other officers and employees, and the salaries and allowances payable to, and other terms and conditions of service of, such officers and employees of the Board.
+52. The other information required to be submitted by insolvency professional agencies, insolvency professionals and information utilities.
+53. The intervals in which the periodic study, research and audit of the functioning and performance of the insolvency professional agencies, insolvency professionals and information utilities under clause (r), and mechanism for disposal of assets under clause (t), of section 196.
+54. The place and the time for discovery and production of books of account and other documents.
+55. The other committees to be constituted by the Board and the other members of such committees.
+56. The other persons under clause (b) and clause (d) of section 200.
+57. The form and the manner of application for registration, the particulars to be contained therein and the fee it shall accompany.
+58. The form and manner of issuing a certificate of registration and the terms and conditions thereof.
+59. The manner of renewal of the certificate of registration and the fee therefor.
+60. The other ground under clause (d) of sub-section (5) of section 201.
+61. The form, the period and the manner of filing appeal to the National Company Law Appellate Tribunal.
+62. The number of independent members.
+63. The services to be provided by information utility and the terms and conditions.
+64. The form and manner of accepting electronic submissions of financial information.
+65. The minimum service quality standards.
+66. The information to be accessed and the manner of accessing such information.
+67. The statistical information to be published.
+68. The form, the fee and the manner for submitting or accessing information.
+69. The form and manner for submitting financial information.
+Summary:
+The Insolvency and Bankruptcy Code, 2016 (the "Code") includes provisions related to insolvency resolution, liquidation, and bankruptcy for individuals and companies in India. The Code establishes the Insolvency and Bankruptcy Board of India (IBBI) to regulate the insolvency resolution process. The Code also provides for the establishment of insolvency professional agencies (IPAs), insolvency professionals (IPs), and information utilities (IUs) to facilitate the insolvency resolution process.
+
+The Code includes several sections related to rules and regulations, including:
+
+* Section 240A, which provides for the application of the Code to micro, small, and medium enterprises (MSMEs), excluding certain provisions of the Code from applying to resolution applicants in MSME cases.
+* Section 241, which requires that every rule and regulation made under the Code be laid before each House of Parliament for a total period of thirty days.
+* Section 242, which grants the Central Government the power to remove difficulties in implementing the Code.
+* Section 243, which repeals the Presidency Towns Insolvency Act, 1909 and the Provincial Insolvency Act, 1920, and provides for the continuation of certain proceedings and actions taken under the repealed enactments.
+
+The Code also includes transitional provisions, including:
+
+* Section 244, which grants the Central Government the power to exercise the powers and functions of the IBBI or a designated financial sector regulator until the Board is constituted or a financial sector regulator is designated.
+* Section 245, which grants the Central Government the power to make regulations providing for the recognition of insolvency professionals, insolvency professional agencies, and information utilities under the Code.
+
+The Code includes several schedules that amend various other acts, including:
+
+* The Indian Partnership Act, 1932
+* The Central Excise Act, 1944
+* The Income-tax Act, 1961
+* The Customs Act, 1962
+* The Recovery of Debts due to Banks and Financial Institutions Act, 1993
+* The Finance Act, 1994
+* The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002
+* The Sick Industrial Companies (Special Provisions) Repeal Act, 2003
+* The Payment and Settlement Systems Act, 2007
+* The Limited Liability Partnership Act, 2008
+* The Companies Act, 2013.
+Summary:
+The document summarizes several amendments to various Indian laws, including the Indian Partnership Act, 1932, the Central Excise Act, 1944, the Income-Tax Act, 1961, the Customs Act, 1962, the Recovery of Debts Due to Banks and Financial Institutions Act, 1993, the Finance Act, 1994, the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, the Sick Industrial Companies (Special Provisions) Repeal Act, 2003, the Payment and Settlement Systems Act, 2007, the Limited Liability Partnership Act, 2008, and the Companies Act, 2013. The amendments relate to the Insolvency and Bankruptcy Code, 2016, and aim to streamline and clarify various provisions related to insolvency and bankruptcy proceedings in India. The amendments include changes to the definition of certain terms, the substitution of certain provisions, and the insertion of new sections and sub-sections. The amendments also provide for the establishment of Debts Recovery Tribunals and Debt Recovery Appellate Tribunals to exercise jurisdiction, powers, and authority to entertain and decide applications and appeals under Part III of the Insolvency and Bankruptcy Code, 2016. The amendments also provide for the treatment of certain schemes as approved resolution plans under the Insolvency and Bankruptcy Code, 2016.
+Summary:
+
+The document summarizes amendments made to the Companies Act, 2013, through the Companies (Amendment) Act, 2019. The amendments aim to streamline the winding up process of companies and align it with the Insolvency and Bankruptcy Code, 2016. Key amendments include:
+
+1. Defining "workmen's dues" to include wages, holiday remuneration, compensation, and welfare fund contributions.
+2. Prioritizing workmen's dues and a portion of secured creditor debts over other debts in winding up.
+3. Providing a 30-day deadline for paying workmen's dues from the sale of assets.
+4. Allowing the Tribunal to entertain any claim, question, or application related to winding up.
+5. Clarifying the jurisdiction of the Tribunal in winding up proceedings.
+6. Omission of sections related to voluntary winding up and preferential payments.
+7. Substituting provisions related to the appointment of provisional liquidators and Company Liquidators with provisions from the Insolvency and Bankruptcy Code, 2016.
+
+These amendments aim to provide a more efficient and effective winding up process for companies, ensuring the payment of workmen's dues and secured creditor debts in a timely manner.
+Summary:
+This document pertains to amendments in the Companies Act, 2013, specifically focusing on provisions related to winding up of companies. Some of the key changes include:
+
+1. Secured creditors of a company are now defined as those to whom the amount due bears to the value of the security the same proportion as the amount of workmen's dues bears to the aggregate of the amount of workmen's dues and the amount of debts due to secured creditors.
+2. Sections 326 and 327 of the Act shall not be applicable in the event of liquidation under the Insolvency and Bankruptcy Code, 2016.
+3. The expression "relevant date" in the context of a company being wound up by the Tribunal now means the date of appointment or first appointment of a provisional liquidator, or if no such appointment was made, the date of the winding up order, unless the company had commenced to be wound up voluntarily before that date under the Insolvency and Bankruptcy Code, 2016.
+4. Any transfer of property, movable or immovable, or any delivery of goods, made by a company not being a transfer or delivery made in the ordinary course of its business or in favour of a purchaser or encumbrancer in good faith and for valuable consideration, if made within a period of one year before the presentation of a petition for winding up by the Tribunal under this Act, shall be void against the Company Liquidator.
+5. In the case of a winding up by the Tribunal, any disposition of the property including actionable claims, of the company and any transfer of shares in the company or alteration in the status of its members, made after the commencement of the winding up shall, unless the Tribunal otherwise orders, be void.
+6. The Company Liquidator may, with the sanction of the Tribunal, when the company is being wound up by the Tribunal, pay any class of creditors in full, make any compromise or arrangement with creditors or persons claiming to be creditors, or having or alleging themselves to have any claim, present or future, certain or contingent, against the company, or whereby the company may be rendered liable; or compromise any call or liability to call, debt, and liability capable of resulting in a debt, and any claim, present or future, certain or contingent, ascertained or sounding only in damages, subsisting or alleged to subsist between the company and a contributory or alleged contributory or other debtor or person apprehending liability to the company, and all questions in any way relating to or affecting the assets or liabilities or the winding up of the company, on such terms as may be agreed, and take any security for the discharge of any such call, debt, liability or claim, and give a complete discharge in respect thereof.
+7. When the affairs of a company have been completely wound up and it is about to be dissolved, the books and papers of such company and those of the Company Liquidator may be disposed of in such manner as the Tribunal directs.
+8. If the winding up of a company is not concluded within one year after its commencement, the Company Liquidator shall, unless he is exempted from so doing, either wholly or in part by the Central Government, within two months of the expiry of such year and thereafter until the winding up is concluded, at intervals of not more than one year or at such shorter intervals, if any, as may be prescribed, file a statement in such form containing such particulars as may be prescribed, duly audited, by a person qualified to act as auditor of the company, with respect to the proceedings in, and position of, the liquidation, with the Tribunal.
+9. The winding up of a company by the Tribunal under this Act shall be deemed to commence at the time of the presentation of the petition for the winding up.
+10. The provisions of this Act or of the Insolvency and Bankruptcy Code, 2016, as the case may be, shall apply to the winding up of a company under this Act.
+11. The Tribunal may, in any proceedings for winding up of a company under this Act or in any proceedings under the Insolvency and Bankruptcy Code, 2016, in order to take into custody or under its control all property, books of account or other documents, request, in writing, the Chief Metropolitan Magistrate, Chief Judicial Magistrate or the District Collector within whose jurisdiction any such property, books of account or other documents of such company under this Act or of corporate persons under the said Code, are situated or found, to take possession thereof, and the Chief Metropolitan Magistrate, Chief Judicial Magistrate or the District Collector, as the case may be, shall, on such request being made to him, take possession of such property, books of account or other documents and cause the same to be entrusted to the Tribunal or other persons authorized by it.
+12. On a date specified by the Central Government, all matters, proceedings or cases pending before the Board of Company Law Administration (Company Law Board) constituted under sub-section (1) of section 10E of the Companies Act, 1956, shall stand transferred to the Tribunal and the Tribunal shall dispose of such matters, proceedings or cases in accordance with the provisions of this Act. Any person aggrieved by any decision or order of the Company Law Board made before such date may file an appeal to the High Court within sixty days from the date of communication of the decision or order of the Company Law Board to him on any question of law arising out of such order. All proceedings under the Companies Act, 1956, including proceedings relating to arbitration, compromise, arrangements and reconstruction and winding up of companies, pending immediately before such date before any District Court or High Court, shall stand transferred to the Tribunal and the Tribunal may proceed to deal with such proceedings from the stage before their transfer. Only such proceedings relating to the winding up of companies shall be transferred to the Tribunal that are at a stage as may be prescribed by the Central Government.
+Summary:
+
+The document contains amendments to the Companies Act, 2013, specifically pertaining to Indian laws. The amendments cover various sections and schedules of the Act, and include changes to the text of the Act as well as the addition of new provisions.
+
+One of the key amendments is in section 434, which deals with the transfer of certain matters to the National Company Law Tribunal (NCLT). The section has been amended to include the transfer of all matters, proceedings or cases pending before the Company Law Board or the courts to the Tribunal.
+
+Another significant amendment is in section 468, which deals with rules for winding up of a company by the Tribunal. The section has been amended to provide more detailed rules on the mode of proceedings, holding of meetings, reduction of capital, applications to the Tribunal, and other related matters.
+
+Schedule V of the Act, which deals with the remuneration of directors, has also been amended. A new clause (b) has been added to Part II, Section III of the Schedule, which allows a company to pay remuneration up to two times the amount permissible under section II in certain circumstances.
+
+The Twelfth Schedule of the Act, which lists the Acts for the purposes of clause (d) of section 29A, has been amended to include several new Acts. These include the Foreign Trade (Development and Regulation) Act, 1922, the Reserve Bank of India Act, 1934, the Central Excise Act, 1944, and several others.
+
+The document also includes various notifications and orders issued by the government, which provide further details on the implementation of the amendments. These notifications and orders cover a range of topics, including the appointment of adjudicating authorities, the fees for filing applications, and the rules for corporate social responsibility.
+
+Overall, the document contains a number of important amendments to the Companies Act, 2013, which will have significant implications for companies operating in India. It is essential for stakeholders to be aware of these changes and their impact on their operations.
+Summary:
+
+The Insolvency and Bankruptcy Code (IBC), 2016 has undergone several amendments since its inception, with the most recent ones being the Insolvency and Bankruptcy Code (Amendment) Act, 2018, Insolvency and Bankruptcy Code (Second Amendment) Act, 2018, Insolvency and Bankruptcy Code (Amendment) Act, 2019, and Insolvency and Bankruptcy Code (Amendment) Act, 2020.
+
+The amendments made by the Insolvency and Bankruptcy Code (Amendment) Act, 2018 include:
+
+* Section 12 has been amended to provide that the interim resolution professional (IRP) shall not continue for more than thirty days from the date of his appointment.
+* Section 13 has been amended to specify that the IRP shall conduct the entire corporate insolvency resolution process.
+* Section 14 has been amended to provide that the minimum voting threshold for the committee of creditors to approve a resolution plan has been reduced from seventy-five percent to fifty-one percent.
+* Section 15 has been amended to include a definition of "related party".
+* Section 16 has been amended to provide that the IRP may appoint additional professionals to assist in the corporate insolvency resolution process.
+* Section 18 has been amended to provide that the committee of creditors may approve a resolution plan even if it does not provide for the repayment of the whole or part of the debt.
+* Section 19 has been inserted to provide that the IRP may initiate liquidation proceedings if a resolution plan is not approved within the prescribed time limit.
+
+The amendments made by the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018 include:
+
+* Section 21 has been amended to provide that the minimum voting threshold for the committee of creditors to approve a resolution plan has been reduced from seventy-five percent to fifty-one percent.
+* Section 22 has been amended to provide that the corporate debtor shall continue to manage its affairs during the corporate insolvency resolution process.
+* Section 23 has been amended to provide that the corporate debtor shall provide all necessary information to the IRP.
+* Section 24 has been amended to provide that the IRP shall have the power to investigate the affairs of the corporate debtor.
+
+The amendments made by the Insolvency and Bankruptcy Code (Amendment) Act, 2019 include:
+
+* Section 25 has been amended to provide that the IRP shall submit a report to the Adjudicating Authority (AA) within fourteen days of his appointment.
+* Section 26 has been amended to provide that the AA may direct the IRP to conduct the corporate insolvency resolution process in a particular manner.
+* Section 27 has been inserted to provide that the IRP shall submit a final report to the AA within thirty days of the approval of a resolution plan.
+* Section 28 has been amended to provide that the corporate debtor shall be liable to pay interest on the debt during the corporate insolvency resolution process.
+* Section 29 has been amended to provide that the IRP shall have the power to sell the assets of the corporate debtor.
+
+The amendments made by the Insolvency and Bankruptcy Code (Amendment) Act, 2020 include:
+
+* Section 30 has been amended to provide that the IRP shall have the power to initiate liquidation proceedings against the corporate debtor.
+* Section 31 has been amended to provide that the IRP shall have the power to sell the assets of the corporate debtor.
+* Section 32 has been amended to provide that the IRP shall have the power to initiate recovery proceedings against the corporate debtor.
+* Section 33 has been amended to provide that the AA shall have the power to approve or reject a resolution plan.
+* Section 34 has been amended to provide that the AA shall have the power to approve or reject a liquidation plan.
+* Section 35 has been inserted to provide that the AA shall have the power to approve or reject a compromise or arrangement between the corporate debtor and its creditors.
+* Section 36 has been amended to provide that the AA shall have the power to approve or reject a fast-track resolution plan.
+* Section 37 has been inserted to provide that the AA shall have the power to approve or reject a pre-packaged insolvency resolution process.
+* Section 38 has been inserted to provide that the AA shall have the power to approve or reject a voluntary liquidation plan.
+
+In summary, the Insolvency and Bankruptcy Code (IBC), 2016 has been amended several times since its inception to provide greater clarity and flexibility in the corporate insolvency resolution process. The amendments have also sought to balance the interests of various stakeholders, including creditors, shareholders, and the corporate debtor.

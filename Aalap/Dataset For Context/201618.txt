@@ -1,0 +1,21 @@
+Summary:
+
+THE AADHAAR (TARGETED DELIVERY OF FINANCIAL AND OTHER SUBSIDIES, BENEFITS AND SERVICES) ACT, 2016 is an Act to provide for, as a good governance, efficient, transparent, and targeted delivery of subsidies, benefits and services, the expenditure for which is incurred from the Consolidated Fund of India, or the Consolidated Fund of the State, to individuals residing in India through assigning of unique identity numbers to such individuals and for matters connected therewith or incidental thereto.
+
+The Act consists of 59 sections divided into 8 chapters. Chapter I is the preliminary chapter, which includes the short title, extent, and commencement of the Act. It also includes the definitions of various terms used in the Act.
+
+Chapter II deals with enrolment. It includes the provision for obtaining an Aadhaar number by submitting demographic information and biometric information through the process of enrolment. The Authority is responsible for issuing an Aadhaar number to individuals after verifying the information.
+
+Chapter III deals with authentication. The Authority is responsible for performing authentication of the Aadhaar number of an Aadhaar number holder submitted by any requesting entity, in relation to his biometric information or demographic information. The requesting entity is required to obtain the consent of an individual before collecting his identity information for the purposes of authentication.
+
+Chapter IV deals with the Unique Identification Authority of India. It includes the establishment, composition, qualifications, term of office, and other conditions of service of the Chairperson and Members of the Authority.
+
+Chapter V deals with grants, accounts, and audit and annual report. It includes provisions related to grants by the Central Government, the fund, accounts and audit, and returns and annual report.
+
+Chapter VI deals with the protection of information. It includes provisions related to the security and confidentiality of information, restriction on sharing information, and access to own information and records of requests for authentication.
+
+Chapter VII deals with offences and penalties. It includes various offences and penalties related to impersonation at the time of enrolment, impersonation of Aadhaar number holder by changing demographic information or biometric information, impersonation, disclosing identity information, unauthorized access to the Central Identities Data Repository, tampering with data in the Central Identities Data Repository, unauthorized use by requesting entity or offline verification-seeking entity, non-compliance with intimation requirements, general penalty, offences by companies, act to apply for offence or contravention committed outside India, power to investigate offences, penalties not to interfere with other punishments, and cognizance of offences.
+
+Chapter VIII deals with miscellaneous provisions. It includes provisions related to power of Central Government to supersede Authority, members, officers, etc., to be public servants, power of Central Government to issue directions, exemption from tax on income, delegation, protection of action taken in good faith, power of Central Government to make rules, power of Authority to make regulations, laying of rules and regulations before Parliament, application of other laws not barred, savings, power to remove difficulties, and savings.
+
+The Act also includes a schedule that lists the provisions of other laws that are superseded by this Act.

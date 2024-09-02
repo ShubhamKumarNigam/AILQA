@@ -1,0 +1,148 @@
+THE EMPLOYEE’S COMPENSATION ACT, 1923:
+
+Title: THE EMPLOYEE’S COMPENSATION ACT, 1923
+Act ID: ACT No. 8 OF 1923
+Enactment Date: [5th March, 1923]
+
+This Act, known as the Employee’s Compensation Act of 1923, aims to provide for the payment of compensation by certain classes of employers to their employees for injuries resulting from accidents that occur during the course of employment. The Act is divided into two chapters.
+
+Chapter I: Preliminary
+
+This chapter contains the short title, extent, and commencement of the Act. It also includes definitions of key terms used throughout the Act, such as "commissioner," "compensation," "dependant," "employee," "employer," "managing agent," "minor," "partial disablement," "prescribed," "qualified medical practitioner," "seaman," "total disablement," and "wages." The chapter also includes an explanation of what is considered to be a hazardous occupation and the powers of the central and state governments to add classes of persons employed in such occupations to the Act's scope.
+
+Chapter II: Employee's Compensation
+
+This chapter outlines the employer's liability for compensation in the event of an accident that results in personal injury to an employee. The employer is liable to pay compensation in accordance with the provisions of this chapter, except in cases where the injury does not result in total or partial disablement for a period exceeding three days or is directly attributable to the employee's drunkenness, disobedience, or removal of safety guards.
+
+The chapter also covers occupational diseases and how they are deemed to be injuries by accident within the meaning of this section. The contracting of the disease is considered an injury by accident if the employee is employed in any employment specified in Schedules III A, B, or C and contracts a disease specified therein as an occupational disease peculiar to that employment.
+
+In summary, THE EMPLOYEE’S COMPENSATION ACT, 1923 is a law in India that provides for the payment of compensation by certain classes of employers to their employees for injuries resulting from accidents that occur during the course of employment. The Act includes definitions of key terms, outlines the employer's liability for compensation, and covers occupational diseases.
+Summary:
+
+The Employees' Compensation Act, 1923, outlines the rules and regulations for providing compensation to employees who suffer injuries or contract occupational diseases during their employment. According to Section 3(1), if an employee contracts a disease specified in Schedule III during a continuous period of service, and it is proved that the disease arose out of and in the course of the employment, it shall be deemed to be an injury by accident. Furthermore, if an employee contracts an occupational disease peculiar to the employment after the cessation of service, and it is proved that the disease arose out of the employment, it shall also be deemed to be an injury by accident. If an employee is employed in any employment specified in Part C of Schedule III and contracts an occupational disease peculiar to that employment, all such employers shall be liable for the payment of compensation in such proportion as the Commissioner may deem just. The Central or State Government may add any description of employment to the employments specified in Schedule III and specify the diseases which shall be deemed to be occupational diseases peculiar to those employments. No compensation shall be payable to an employee in respect of any disease unless the disease is directly attributable to a specific injury by accident arising out of and in the course of his employment. The amount of compensation payable is specified in Section 4 and depends on the nature and extent of the injury or disease. The compensation shall be paid as soon as it falls due, and in cases where the employer does not accept the liability for compensation, he shall be bound to make provisional payment based on the extent of liability which he accepts. The employer shall also deposit a sum of money with the Commissioner for payment of the funeral expenses of the employee in case of his death.
+This document appears to be a section of an Indian law related to compensation for employees who have suffered injuries or death in the course of their employment. The law outlines the method for calculating monthly wages, the review process for half-monthly payments, the commutation of half-monthly payments, and the distribution of compensation.
+
+The law specifies that in order to calculate monthly wages, the employer must take into account the total wages earned by the employee in the last twelve months of continuous service preceding the accident. If the continuous period of service is less than one month, the monthly wages shall be calculated as the average monthly amount earned by a similar employee employed on the same work by the same employer, or if there is no such employee, by a similar employee employed on similar work in the same locality. In other cases, the monthly wages shall be calculated as thirty times the total wages earned in the last continuous period of service immediately preceding the accident, divided by the number of days comprising such period.
+
+The law also provides for the review of half-monthly payments, which may be continued, increased, decreased, or ended, or converted to a lump sum if the accident has resulted in permanent disablement. Any right to receive half-monthly payments may be redeemed by the payment of a lump sum by agreement between the parties or determined by the Commissioner.
+
+In the case of an employee's death, no payment of compensation shall be made except by deposit with the Commissioner, and any such payment made directly by the employer shall not be deemed to be a payment of compensation. The Commissioner may, if necessary, cause notice to be published or served on each dependant, calling upon them to appear before him for determining the distribution of the compensation. The Commissioner may also invest, apply, or otherwise deal with any lump sum deposited for the benefit of a woman or a person under a legal disability.
+
+The law also specifies that no claim for compensation shall be entertained by a Commissioner unless notice of the accident has been given in the manner provided as soon as practicable after the happening thereof and unless the claim is preferred before him within two years of the occurrence of the accident or in case of death, within two years from the date of death.
+
+In summary, this document outlines the Indian laws related to the calculation and distribution of compensation for employees who have suffered injuries or death in the course of their employment. The laws provide for the review and commutation of half-monthly payments, and specify the method for calculating monthly wages and the notice and claim requirements for compensation.
+Summary:
+
+The document outlines various provisions related to Indian labor laws, specifically focusing on the Employees' Compensation Act, 1923. The Act provides for compensation to employees in case of injury, disablement, or death caused by accidents arising out of and in the course of employment.
+
+The Act specifies the time limits for giving notice of accidents, the form and content of such notices, and the persons to whom they should be served. Employers are required to maintain a notice-book at their premises, which should be accessible to injured employees and their representatives.
+
+The Act also empowers the Commissioner to require employers to submit statements regarding fatal accidents and to report any accidents resulting in death or serious bodily injury to the Commissioner.
+
+Under the Act, employees are required to submit themselves for medical examination by a qualified medical practitioner if offered by the employer. Refusal to do so can result in suspension of the employee's right to compensation.
+
+The Act also provides for liability in case of contracting, where a principal is liable to pay compensation to any employee employed by a contractor for the execution of work that is ordinarily part of the principal's trade or business.
+
+In summary, the Employees' Compensation Act, 1923 provides for compensation to employees in case of injury, disablement, or death caused by accidents arising out of and in the course of employment. The Act specifies the time limits for giving notice of accidents, the form and content of such notices, and the persons to whom they should be served. The Act also empowers the Commissioner to require employers to submit statements regarding fatal accidents and to report any accidents resulting in death or serious bodily injury to the Commissioner. Employees are required to submit themselves for medical examination by a qualified medical practitioner if offered by the employer. The Act also provides for liability in case of contracting.
+Summary:
+
+The Indian Workmen's Compensation Act of 1923 outlines the responsibilities of employers and contractors in the event of an employee's injury or death. Under the Act, an employer is liable to pay compensation to an employee who suffers an injury in the course of their employment, with the amount of compensation determined by the employee's wages. If the principal is liable to pay compensation, they may be indemnified by the contractor or any other person from whom the employee could have recovered compensation. An employee may also recover compensation from the contractor instead of the principal. This section does not apply if the accident occurred elsewhere than on, in or about the premises on which the principal has undertaken or usually undertakes to execute the work.
+
+If an employee has recovered compensation in respect of any injury caused under circumstances creating a legal liability of some person other than the person by whom the compensation was paid to pay damages in respect thereof, the person by whom the compensation was paid and any person who has been called on to pay an indemnity under section 12 shall be entitled to be indemnified by the person so liable to pay damages as aforesaid.
+
+If an employer has entered into a contract with insurers in respect of any liability under this Act to any employee and becomes insolvent, the rights of the employer against the insurers as respects that liability shall be transferred to and vest in the employee. The insurers shall have the same rights and remedies and be subject to the same liabilities as if they were the employer, so, however, that the insurers shall not be under any greater liability to the employee than they would have been under to the employer.
+
+Where an employer transfers his assets before any amount due in respect of any compensation, the liability where for accrued before the date of the transfer, has been paid, such amount shall be a first charge on that part of the assets so transferred as consists of immovable property.
+
+This Act shall apply in the case of employees who are masters of ships or seamen subject to certain modifications. The notice of the accident and the claim for compensation may be served on the master of the ship as if he were the employer, but where the accident happened and the disablement commenced on board the ship it shall not be necessary for any seaman to give any notice of the accident. In the case of the death of a master or seaman, the claim for compensation shall be made within one year after the news of the death has been received by the claimant or, where the ship has been or is deemed to have been lost with all hands, within eighteen months of the date on which the ship was, or is deemed to have been, so lost.
+Summary:
+
+The Workmen's Compensation Act, 1923, applies to employees who are captains or other members of the crew of aircrafts, with certain modifications. Notice of an accident and claim for compensation may be served on the captain of the aircraft as if he were the employer, but where the accident happened and the disablement commenced on board the aircraft, it is not necessary for any member of the crew to give notice of the accident. In the case of the death of the captain or other member of the crew, the claim for compensation must be made within one year after the news of the death has been received by the claimant. Where an injured captain or other member of the crew is discharged or left behind in any part of India or in any other country, any depositions taken by any Judge or Magistrate in that part, or by any Consular Officer in the foreign country, and transmitted by the person by whom they are taken to the Central Government or any State Government, shall be admissible in evidence.
+
+The Act also applies to employees who are persons recruited by companies registered in India and working as such abroad, and persons sent for work abroad along with motor vehicles registered under the Motor Vehicles, Act, 1988 as drivers, helpers, mechanics, cleaners or other employees. The notice of the accident and the claim for compensation may be served on the local agent of the company, or the local agent of the owner of the motor vehicle, in the country of accident. In the case of death of the employee in respect of whom the provisions of this section shall apply, the claim for compensation shall be made within one year after the news of the death has been received by the claimant. Where an injured employee is discharged or left behind in any part of India or in any other country, any depositions taken by any Judge or Magistrate in that part, or by any Consular Officer in the foreign country, and transmitted by the person by whom they are taken to the Central Government or any State Government, shall be admissible in evidence.
+
+Employers are required to send a correct return specifying the number of injuries in respect of which compensation has been paid by the employer during the previous year and the amount of such compensation together with such other particulars as to the compensation as the State Government may direct. Any contract or agreement whereby an employee relinquishes any right of compensation from the employer for personal injury arising out of or in the course of the employment is null and void. Every employer shall immediately at the time of employment of an employee, inform the employee of his rights to compensation under this Act, in writing as well as through electronic means, in English or Hindi or in the official language of the area of employment, as may be understood by the employee.
+
+If any question arises in any proceedings under this Act as to the liability of any person to pay compensation or as to the amount or duration of compensation, the question shall, in default of agreement, be settled by a Commissioner. No Civil Court shall have jurisdiction to settle, decide or deal with any question which is by or under this Act required to be settled, decided or dealt with by a Commissioner or to enforce any liability incurred under this Act. The State Government may appoint any person to be a Commissioner for Workmen’s Compensation for such area as may be specified in the notification. Every Commissioner shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code.
+Summary:
+
+The document summarizes the Employees' Compensation Act, 1923, specifically focusing on Indian laws related to compensation for employees. The Act defines a public servant under the Indian Penal Code (45 of 1860) and outlines the venue of proceedings and transfer for matters related to compensation. Commissioners have the power to enforce the attendance of witnesses, compelling the production of documents, and enforcing oaths. The Act also specifies the procedure for recording evidence, time limits for disposal of cases, and costs. Commissioners may submit questions of law to the High Court for decision. Additionally, the Act requires the registration of agreements related to compensation in a register maintained by the Commissioner. The Act seeks to provide compensation to employees who suffer injury or death due to accidents arising out of and in the course of their employment. The Act also provides for the appointment of Commissioners to hear and determine claims for compensation. The Act also specifies the form of application for compensation and the particulars required for making a claim. The Act also provides for the power of Commissioner to require further deposit in cases of fatal accidents.
+Summary:
+
+The Employee's Compensation Act, 1923 is a law in India that provides compensation to employees who suffer injury or illness as a result of their work. The Act requires employers to register agreements for the payment of compensation, and failure to do so can result in the employer being liable to pay the full amount of compensation due under the Act. The Act also allows for appeals to the High Court in certain cases, and sets out the procedures for the recovery of unpaid compensation. The State Government has the power to make rules to carry out the purposes of the Act, including rules regarding the intervals at which and the conditions subject to which an application for review may be made, the procedure to be followed by Commissioners in the disposal of cases, and the maintenance of registers and records of proceedings before Commissioners. The Act also allows for the transfer of money paid as compensation to foreign countries, and provides for the distribution and administration of such money in India. Every rule made by the Central Government under the Act must be laid before Parliament. The Act includes a schedule that lists injuries deemed to result in permanent total disablement, along with the percentage of loss of earning capacity for each injury.
+Summary:
+The document provides a list of injuries and the percentage of loss of earning capacity that each injury is deemed to result in, according to Indian laws. The list includes amputation cases for both upper and lower limbs, with different percentages assigned based on the location and extent of the amputation. Other injuries include loss of vision, loss of fingers or toes, and loss of use of a limb. The list also includes a note that complete and permanent loss of use of any limb or member is equivalent to the loss of that limb or member.
+
+The document also includes a schedule of persons who are included in the definition of "employees" under Indian laws. This schedule lists various types of employment, such as those working in railways, mines, or the Indian Posts and Telegraphs Department, and those employed in the construction, maintenance, or demolition of buildings, dams, roads, or other structures. The schedule also includes those employed in the service of a fire brigade or in operations for winning natural petroleum or natural gas, and those employed in occupations involving blasting operations or the use of explosives.
+The document summarizes the Factors for Working out the Lump Sum Equivalent of Compensation Amount in Case of Permanent Disablement and Death, as per Schedule IV of the Workmen's Compensation Act, 1923. The Act provides for compensation to workmen and their dependents in case of injury, disability, or death arising out of and in the course of employment.
+
+Schedule IV lays down the factors for calculating the lump sum equivalent of compensation amount in case of permanent disablement and death. The factors are based on the age and monthly wages of the workman, and the degree of permanent disablement or death.
+
+The factors are as follows:
+
+1. In case of permanent total disablement or death, the lump sum equivalent of compensation amount is calculated by multiplying the monthly wages of the workman by a factor determined by his age and degree of disablement or death.
+2. The factors for permanent total disablement or death are as follows:
+
+a. For workmen up to 15 years of age - 120
+b. For workmen between 16 and 25 years of age - 100
+c. For workmen between 26 and 35 years of age - 80
+d. For workmen between 36 and 45 years of age - 60
+e. For workmen between 46 and 55 years of age - 40
+f. For workmen above 55 years of age - 20
+
+3. In case of permanent partial disablement, the lump sum equivalent of compensation amount is calculated by multiplying the monthly wages of the workman by a factor determined by his age, degree of disablement, and the percentage of loss of earning capacity.
+4. The factors for permanent partial disablement are as follows:
+
+a. For workmen up to 15 years of age - 120
+b. For workmen between 16 and 25 years of age - 100
+c. For workmen between 26 and 35 years of age - 80
+d. For workmen between 36 and 45 years of age - 60
+e. For workmen between 46 and 55 years of age - 40
+f. For workmen above 55 years of age - 20
+
+5. The percentage of loss of earning capacity is determined based on the nature of the injury or illness and the medical evidence.
+
+The Schedule also provides for the calculation of compensation amount in case of death of a workman, which is payable to his dependents. The compensation amount is calculated based on the monthly wages of the workman, his age, and the number of dependents.
+
+In summary, Schedule IV of the Workmen's Compensation Act, 1923 provides for the factors for working out the lump sum equivalent of compensation amount in case of permanent disablement and death of a workman. The factors are based on the age and monthly wages of the workman, and the degree of permanent disablement or death. The Schedule also provides for the calculation of compensation amount in case of death of a workman, which is payable to his dependents.
+Summary:
+
+The Workmen's Compensation Act, 1923 is a law in India that provides for the payment of compensation to workmen in case of injury, disability, or death arising out of and in the course of employment. The Act applies to all factories, mines, and other establishments where workmen are employed. The Act has been extended to various states and territories in India, including Goa, Daman and Diu, Dadra and Nagar Haveli, Pondicherry, and Laccadive, Minicoy and Amindivi Islands.
+
+The Act defines a "workman" as any person employed in any factory or establishment to do any manual, skilled, technical, operational, clerical, or supervisory work for hire or reward, excluding apprentices under the Apprentices Act, 1961. The Act applies to all workmen, regardless of their gender, age, or nationality.
+
+Under the Act, employers are required to pay compensation to workmen who suffer injury, disability, or death in the course of their employment. The amount of compensation payable depends on the nature of the injury, the degree of disability, and the age of the workman. The Act provides for a schedule of compensation rates for various types of injuries and disabilities. The rates are periodically revised to account for changes in the cost of living and other factors.
+
+The Act provides for the appointment of a Commissioner to hear and determine claims for compensation. The Commissioner has the power to summon witnesses, examine documents, and make awards of compensation. The Act also provides for appeals against the decisions of the Commissioner.
+
+The Act contains provisions for the payment of interim relief to workmen who are unable to work due to injury or disability. The Act also provides for the payment of medical expenses and other related costs.
+
+The Act contains provisions for the recovery of compensation from employers who fail to pay compensation. The Act also provides for the establishment of a Central Employees' Insurance Fund to provide for the payment of compensation to workmen in case of default by employers.
+
+The Act contains provisions for the review and revision of compensation rates. The Act also provides for the appointment of Medical Boards to assess the degree of disability suffered by workmen.
+
+The Act contains provisions for the registration of agreements between employers and workmen regarding compensation. The Act also provides for the enforcement of such agreements.
+
+The Act contains provisions for the settlement of disputes between employers and workmen regarding compensation. The Act also provides for the appointment of conciliation officers to facilitate the settlement of disputes.
+
+The Act contains provisions for the appointment of Inspectors to enforce the provisions of the Act. The Act also provides for penalties for non-compliance with the provisions of the Act.
+
+The Act contains provisions for the exemption of certain establishments from the provisions of the Act. The Act also provides for the grant of certificates of exemption to such establishments.
+
+The Act contains provisions for the amendment of the Act by the Central Government. The Act also provides for the repeal of certain provisions of the Act.
+
+In summary, the Workmen's Compensation Act, 1923 is a law in India that provides for the payment of compensation to workmen in case of injury, disability, or death arising out of and in the course of employment. The Act contains provisions for the determination of compensation, the appointment of a Commissioner to hear and determine claims for compensation, the payment of interim relief, the recovery of compensation from defaulting employers, the review and revision of compensation rates, the registration of agreements, the settlement of disputes, the appointment of Inspectors, and the amendment and repeal of certain provisions of the Act.
+Summary:
+
+The document appears to be an amendment to a law or act, with various sections and subsections being added, substituted, or omitted. The amendment affects various aspects of the law, including definitions, compensation, and the application of the law to different regions and types of employment.
+
+Some of the key changes include:
+
+* The substitution of the term "workman" with a new definition in several sections (sections 2(1)(n), 2(s), 16, 17, 22, and 33).
+* The addition of new sections and subsections, such as sections 31A, 35A, and 35B, and the substitution of existing sections with new ones (sections 32, 33, and 35).
+* The omission of certain words, phrases, and clauses, such as the words "local" and "otherwise than in a clerical capacity," and clauses (b), (i), and (xviii).
+* The renumbering of certain sections and schedules.
+
+The amendment also appears to affect the application of the law to different regions, including the addition of new clauses for the application of the law to Part B States and the omission of certain words and phrases related to the application of the law to Part A States, Part B States, and Part C States.
+
+Overall, the document is a complex amendment to a law or act, with various changes affecting different aspects of the law. It is written in legal language and includes technical terms and references to other sections and schedules of the law.

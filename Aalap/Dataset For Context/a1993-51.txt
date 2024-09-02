@@ -1,0 +1,53 @@
+Summary:
+
+THE RECOVERY OF DEBTS DUE TO BANKS AND FINANCIAL INSTITUTIONS ACT, 1993
+
+Act Title: THE RECOVERY OF DEBTS DUE TO BANKS AND FINANCIAL INSTITUTIONS ACT, 1993
+Act ID: ACT NO. 51 OF 1993
+Enactment Date: [27th August, 1993.]
+
+This Act establishes Tribunals for expeditious adjudication and recovery of debts due to banks and financial institutions, insolvency resolution, and bankruptcy of individuals and partnership firms. The Act applies to the whole of India except the State of Jammu and Kashmir. The provisions of this Act do not apply where the amount of debt due to any bank or financial institution or to a consortium of banks or financial institutions is less than ten lakh rupees or such other amount, being not less than one lakh rupees, as the Central Government may specify.
+
+Chapter I: Preliminary
+
+Chapter II: Establishment of Tribunal and Appellate Tribunal
+
+Chapter III: Jurisdiction, Powers and Authority of Tribunals
+
+Chapter IV: Procedure of Tribunals
+
+Chapter V: Miscellaneous
+
+Key Definitions:
+
+* Appellate Tribunal: An Appellate Tribunal established under sub-section (1) of section 8 to exercise jurisdiction, powers and authority to entertain appeals against any order made, or deemed to have been made, by a Tribunal under this Act.
+* Tribunal: The Tribunal established under sub-section (1) of section 3 to exercise the jurisdiction, powers and authority conferred on such Tribunal by or under this Act.
+* Debt: Any liability (inclusive of interest) which is claimed as due from any person by a bank or a financial institution or by a consortium of banks or financial institutions during the course of any business activity undertaken by the bank or the financial institution or the consortium under any law for the time being in force, in cash or otherwise, whether secured or unsecured, or assigned, or whether payable under a decree or order of any civil court or any arbitration award or otherwise or under a mortgage and subsisting on, and legally recoverable on, the date of the application.
+* Financial Institution: A public financial institution within the meaning of section 4A of the Companies Act, 1956, the securitisation company or reconstruction company which has obtained a certificate of registration under sub-section (4) of section 3 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, a debenture trustee registered with the Board and appointed for secured debt securities, or such other institution as the Central Government may specify.
+* Presiding Officer: The Presiding Officer of the Debts Recovery Tribunal appointed under sub-section (1) of section 4.
+* Recovery Officer: A Recovery Officer appointed by the Central Government for each Tribunal under sub-section (1) of section 7.
+* Property: Immovable property, movable property, any debt or any right to receive payment of money, whether secured or unsecured, receivables, whether existing or future, intangible assets, being know-how, patent, copyright, trade mark, licence, franchise or any other business or commercial right of similar nature.
+
+Key Provisions:
+
+* Establishment of Tribunals and Appellate Tribunals by the Central Government to exercise jurisdiction, powers and authority to entertain and decide applications from banks and financial institutions for recovery of debts due to such banks and financial institutions, and to entertain appeals against any order made, or deemed to have been made, by a Tribunal under this Act.
+* Jurisdiction, powers and authority of Tribunals to entertain and decide applications from banks and financial institutions for recovery of debts due to such banks and financial institutions, and to entertain appeals against any order made, or deemed to have been made, by a Tribunal under this Act.
+* Procedure of Tribunals, including the power to regulate their own procedure, the powers of a civil court under the Code of Civil Procedure, 1908, while trying a suit, and the power to summon and enforce the attendance of any person and examine him on oath, require the discovery and production of documents, receive evidence on affidavits, issue commissions for the examination of witnesses or documents, review its decisions, dismiss an application for default or decide it ex parte, set aside any order of dismissal of any application for default or any order passed by it ex parte, and any other matter which may be prescribed.
+* Appeal to the Appellate Tribunal against any order made, or deemed to have been made, by a Tribunal under this Act.
+* Power of the Tribunal and the Appellate Tribunal to regulate their own procedure, including the places at which they shall have their sittings.
+* Right to legal representation and Presenting Officers for banks and financial institutions and defendants.
+* Limitation provisions of the Limitation Act, 1963 to apply to an application made to a Tribunal.
+* Modes of recovery of debts, including attachment and sale of the movable or immovable property of the defendant, taking possession of property over which security interest is created or any other property of the defendant and appointing a receiver for such property and to sell the same, arrest of the defendant and his detention in prison, appointing a receiver for the management of the movable or immovable properties of the defendant, and any other mode of recovery as may be prescribed by the Central Government.
+* Validity of certificate and amendment thereof.
+* Stay of proceedings under certificate and amendment or withdrawal thereof.
+* Other modes of recovery, including requiring any person from whom money is due or may become due to the defendant or to any person who holds or may subsequently hold money for or on account of the defendant to pay to the Recovery Officer either forthwith upon the money becoming due or being held or within the time specified in the notice (not being before the money becomes due or is held) so much of the money as is sufficient to pay the amount of debt due from the defendant or the whole of the money when it is equal to or less than that amount.
+* Application of certain provisions of the Income-tax Act, 1961, including the provisions of the Second and Third Schedules to the Income-tax Act, 1961, and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time, to the amount of debt due under this Act.
+* Appeal against the order of the Recovery Officer to the Tribunal.
+* Power of Tribunal to issue certificate of recovery in case of decree or order.
+* Priority to secured creditors in payment of debt due and payable to them by sale of assets over which security interest is created, to have priority and to be paid in priority over all other debts and Government dues including revenues, taxes, cesses and rates due to the Central Government, State Government or local authority.
+* Chairperson, Presiding Officer and staff of Appellate Tribunal and Tribunal to be public servants within the meaning of section 21 of the Indian Penal Code, 1860.
+* Protection of action taken in good faith.
+* Act to have overriding effect.
+* Power to remove difficulties.
+* Power to make rules.
+* Repeal and saving.

@@ -1,0 +1,13 @@
+Summary:
+
+The Central Electricity Regulatory Commission (Power System Development Fund) Regulations, 2019 outlines the rules for the creation and management of the Power System Development Fund (PSDF). The PSDF is a fund that is constituted to receive and manage various charges and fees related to the power system, including congestion charges, deviation settlement charges, reactive energy charges, and additional transmission charges. These funds are collected by various agencies and transferred to the PSDF on a monthly basis.
+
+The PSDF is utilized for funding projects and schemes that are necessary for the creation of infrastructure for the power system. This includes the creation of transmission systems of strategic importance, installation of shunt capacitors and other reactive energy generators, installation of protection schemes, and renovation and modernization of transmission and distribution systems. Funds from the PSDF may also be utilized for projects proposed by distribution utilities that are incidental to the inter-State transmission system and have a bearing on grid safety and security.
+
+The National Load Despatch Centre (NLDC) is designated as the Nodal Agency for the implementation of the projects or schemes under these regulations. The Nodal Agency is responsible for keeping a record of business transacted out of PSDF, preparing procedures for preparation of Budget, Accounting and Audit, preparing Annual Report of PSDF, and performing such other functions as may be assigned to it by the Central Government.
+
+The Central Government may frame procedures or guidelines for application, processing, sanction, disbursal, appraisal and monitoring of funds from PSDF. The Nodal Agency is authorized to recommend the proposal to the Monitoring Committee if project activities are covered under the scope of the Guidelines and these Regulations. The project entity is responsible for the execution as well as Operation & Maintenance of the projects or schemes during its useful life.
+
+The Nodal Agency is required to prepare an Annual Report of the PSDF and submit the same to the Central Government and the Commission. The Annual Report is also laid on the table of both Houses of Parliament through the Ministry of Power.
+
+These regulations repeal the Central Electricity Regulatory Commission (Power System Development Fund) Regulations 2014, with savings for anything done or any action taken or purported to have been done or taken under the repealed regulations.

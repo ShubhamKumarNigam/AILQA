@@ -1,0 +1,33 @@
+Summary:
+
+THE BILATERAL NETTING OF QUALIFIED FINANCIAL CONTRACTS ACT, 2020
+
+This Act, enacted on September 28, 2020, aims to ensure financial stability and promote competitiveness in Indian financial markets by providing enforceability of bilateral netting of qualified financial contracts.
+
+Chapter I: Preliminary
+
+* Short title and commencement: This Act may be called the Bilateral Netting of Qualified Financial Contracts Act, 2020, and will come into force on a date appointed by the Central Government.
+* Definitions: Key terms are defined, including "administration," "administration practitioner," "authority," "banking institution," "close-out netting," "collateral," "collateral arrangement," "insolvent party," "margin," "netting," "netting agreement," "non-insolvent party," "notification," "qualified financial contract," "qualified financial market participant," "Schedule," and "title transfer collateral arrangement."
+
+Chapter II: Applicability of Act
+
+* Applicability of Act: The provisions of this Act apply to qualified financial contracts entered into on a bilateral basis between qualified financial market participants, where at least one of the participants is an entity regulated by an authority specified in the First Schedule.
+* Powers of authority: The relevant authority may designate any bilateral agreement or contract or transaction as a qualified financial contract and specify any entity regulated by it as a qualified financial market participant to deal in qualified financial contracts.
+
+Chapter III: Enforceability of Netting
+
+* Enforceability of netting: Netting of qualified financial contracts is enforceable under a netting agreement or otherwise in accordance with the provisions of section 6.
+* Close-out netting of a qualified financial contract is enforceable against an insolvent party and any guarantor or other person providing collateral or security for a party.
+* Close-out netting is applicable and not affected by any stay, injunction, avoidance, moratorium, or other order of a court, tribunal, or authority.
+
+Chapter IV: Invocation of Close-Out Netting
+
+* Invocation of close-out netting: Close-out netting may be commenced by a notice given by one party to the other upon the occurrence of an event of default or termination event.
+* The parties to a qualified financial contract must reduce all obligations to a single net amount.
+* Realisation, appropriation, or liquidation of collateral under a collateral arrangement can take effect without prior notice to any party, person, or entity.
+
+Chapter V: Miscellaneous
+
+* Power to amend Schedules: The Central Government may add to or amend the First Schedule or the Second Schedule by notification.
+* Provisions of this Act override other laws: The provisions of this Act have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having effect by virtue of any such law.
+* Power to remove difficulties: If any difficulty arises in giving effect to the provisions of this Act, the Central Government may make provisions for removing the difficulty.

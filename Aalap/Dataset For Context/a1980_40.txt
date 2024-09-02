@@ -1,0 +1,143 @@
+Summary:
+
+THE BANKING COMPANIES (ACQUISITION AND TRANSFER OF UNDERTAKINGS) ACT, 1980
+
+This Act provides for the acquisition and transfer of the undertakings of certain banking companies in order to control the heights of the economy, meet the needs of the development of the economy, serve better the needs of the people, and promote the welfare of the people. The Act specifies the banks that are to be acquired and transferred, the amount to be given to each bank, and the terms and conditions of the transfer. The Act also provides for the management of the corresponding new banks, including the appointment of the first Board of Directors and the Custodian. The Act also includes provisions for the closure of accounts and disposal of profits, the rights and obligations of shareholders, the transfer of unpaid or unclaimed dividends, and the indemnity of officers and employees. The Act also includes provisions for the protection of fidelity and secrecy, the powers and duties of the Custodian, and the dissolution of the corresponding new banks.
+
+Chapter I: Preliminary
+
+* The Act may be called the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980.
+* The Act shall be deemed to have come into force on the 15th day of April, 1980.
+* Definitions:
+	+ Banking company: does not include a foreign company.
+	+ Corresponding new bank: means the body corporate specified against an existing bank in column 2 of the First Schedule.
+	+ Custodian: means the person who becomes, or is appointed, a Custodian under section 7.
+	+ Existing bank: means a banking company specified in column 1 of the First Schedule, being a company the total of the demand and time liabilities in India of which, as shown in the return as on the 14th day of March, 1980, furnished to the Reserve Bank under section 42 of the Reserve Bank of India Act, 1934, amounts to not less than rupees two hundred crores.
+	+ Words and expressions used herein and not defined but defined in the Banking Regulation Act, 1949, have the meanings respectively assigned to them in that Act.
+
+Chapter II: Transfer of the Undertakings of Existing Banks and Share Capital of the Corresponding New Banks
+
+* Establishment of corresponding new banks and business thereof.
+	+ On the commencement of this Act, there shall be constituted such corresponding new banks as are specified in column 2 of the First Schedule.
+	+ The paid-up capital of every corresponding new bank constituted under sub-section (1) shall, until any provision is made in this behalf in any scheme made under section 9, be equal to the paid-up capital of the existing bank in relation to which it is the corresponding new bank.
+	+ The authorised capital of every corresponding new bank shall be three thousand crores of rupees divided into three hundred crores of fully paid-up shares of ten rupees each.
+	+ The corresponding new bank may reduce the nominal or face value of the shares, and divide the authorised capital into such denomination as it may decide with the prior approval of the Reserve Bank.
+	+ The Central Government may in consultation with the Reserve Bank and by notification in the Official Gazette increase or reduce the authorised capital as it deems fit so however that the shares shall be fully paid-up shares.
+	+ The paid-up capital of every corresponding new bank constituted under sub-section (1) may from time to time be increased by:
+	
+	
+	  * such amounts as the Board of Directors of the corresponding new bank may, after consultation with the Reserve Bank and with the previous sanction of the Central Government, transfer from the reserve fund established by such bank to such paid-up capital;
+	  * such amounts as the Central Government may, after consultation with the Reserve Bank, contribute to such paid-up capital;
+	  * such amounts as the Board of Directors of the corresponding new bank may, after consultation with the Reserve Bank and with the previous sanction of the Central Government, raise by public issue or rights issue or by issue of bonus shares or preferential allotment or private placement, of equity shares or preference shares in accordance with the procedure as may be prescribed, so, however, that the Central Government shall, at all times hold not less than fifty-one per cent. of the paid-up capital consisting of equity shares of each corresponding new bank.
+	
+	
+	  * Provided that the issue of preference shares shall be in accordance with the guidelines framed by the Reserve Bank specifying the class of preference shares, the extent of issue of each class of such preference shares (whether perpetual or irredeemable or redeemable) and the terms and conditions subject to which, each class of preference shares may be issued.
+	
+	
+	  * Notwithstanding anything contained in sub-section (2), the paid-up capital of a corresponding new bank constituted under sub-section (1) may, from time to time and before any paid-up capital is raised by public issue or rights issue or by issue of bonus shares or preferential allotment or private placement under clause (c) of sub-section (2B), be reduced by:
+	
+	
+	  * the Central Government, after consultation with the Reserve Bank, by cancelling any paid-up capital which is lost, or is unrepresented by available assets;
+	  * the Board of Directors, after consultation with the Reserve Bank and with the previous sanction of the Central Government, by paying off any paid-up capital which is in excess of the wants of the corresponding new banks.
+	
+	
+	  * Provided that in a case where such capital is lost, or is unrepresented by available assets because of amalgamation of another corresponding new bank or a corresponding new bank as defined in clause (d) of section 2 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970) with the corresponding new bank, such reduction may be done, either prospectively or retrospectively, but not from a date earlier than the date of such amalgamation.
+	
+	
+	  * A corresponding new bank may, from time to time and after any paid-up capital has been raised by public issue or rights issue or by issue of bonus shares or preferential allotment or private placement under clause (c) of sub-section (2B), by resolution passed at an annual general meeting of the shareholders entitled to vote, voting in person, or, where proxies are allowed, by proxy, and the votes cast in favour of the resolution are not less than three times the number of the votes, if any, cast against the resolution by the shareholders so entitled and voting reduce its paid-up capital in any way.
+	
+	
+	  * Without prejudice to the generality of the foregoing power, the paid-up capital may be reduced by:
+	
+	
+	  * extinguishing or reducing the liability on any of its shares in respect of share capital not paid-up;
+	  * either with or without extinguishing or reducing liability on any of its paid-up shares, cancelling any paid-up capital which is lost, or is unrepresented by available assets; or
+	  * either with or without extinguishing or reducing liability on any of its paid-up shares, paying off any paid-up share capital which is in excess of the wants of the corresponding new bank.
+	
+	
+	  * Notwithstanding anything contained in sub-section (2BB) or sub-section (2BBA), the paid-up capital of a corresponding new bank shall not be reduced at any time so as to render it below twenty-five per cent. of the paid-up capital of that bank as on the date of commencement of the Banking Companies (Acquisition and Transfer of Undertakings) Amendment Act, 1995 (8 of 1995).
+	
+	
+	  * The entire paid-up capital of a corresponding new bank, except the paid-up capital raised from public by public issue or rights issue or by issue of bonus shares or preferential allotment or private placement under clause (c) of sub-section (2B), shall stand vested in, and allotted to, the Central Government.
+	
+	
+	  * The shares of every corresponding new bank not held by the Central Government shall be freely transferable.
+	
+	
+	  * Provided that no individual or company resident outside India or any company incorporated under any law not in force in India or any branch of such company, whether resident outside India or not, shall at any time hold or acquire by transfer or otherwise shares of the corresponding new bank so that such investment in aggregate exceeds the percentage, not being more than twenty per cent. of the paid-up capital, as may be specified by the Central Government by notification in the Official Gazette.
+	
+	
+	  * Explanation.—For the purposes of this clause, “company” means any body corporate and includes a firm or other association of individuals.
+	
+	
+	  * No shareholder of the corresponding new bank, other than the Central Government, shall be entitled to exercise voting rights in respect of any shares held by him in excess of 3[ten per cent.] of the total voting rights of all the shareholders of the corresponding new bank.
+	
+	
+	  * Provided that the shareholder holding any preference share capital in the corresponding new bank shall, in respect of such capital, have a right to vote only on resolutions placed before such corresponding new bank which directly affects the rights attached to his preference shares.
+	
+	
+	  * Provided further that no preference shareholder, other than the Central Government, shall be entitled to exercise voting rights in respect of preference shares held by him in excess of ten per cent. of the total voting rights of all the shareholders holding preference share capital only.
+	
+	
+	  * Every corresponding new bank shall keep at its head office a register, in one or more books, of the shareholders (in this Act referred to as the register) and shall enter therein the following particulars:
+	
+	
+	  * the names, addresses and occupations, if any, of the shareholders and a statement of the shares held by each shareholder, distinguishing each share by its denoting number;
+	  * the date on which each person is so entered as a share holder;
+	  * the date on which any person ceases to be a share-holder; and
+	  * such other particulars as may be prescribed.
+	
+	
+	  * Notwithstanding anything contained in sub-section (2F), it shall be lawful for every corresponding new bank to keep the register in computer floppies or diskettes subject to such safeguards as may be prescribed.
+	
+	
+	  * Notwithstanding anything contained in sub-section (2F), no notice of any trust, express, implied or constructive, shall be entered on the register, or be receivable, by the corresponding new bank.
+	
+	
+	  * The register of benificial owners maintained by a depository under section 11 of the Depositories Act, 1996, shall be deemed to be a register of shareholders for the purposes of this act.
+	
+	
+	  * Explanation.—For the purposes of section 3, section 3A and this section, the expressions “benificial owner”, “depository” and “registered owner” shall have the meanings respectively assigned to them in clauses (a), (e) and (j) of sub-section (1) of section 2 of the Depositories Act, 1996.
+	
+	
+	  * On the commencement of this Act, the undertaking of every existing bank shall be transferred to, and shall vest in, the corresponding new bank.
+	
+	
+	  * (1) The undertaking of each existing bank shall be deemed to include all assets, rights, powers, authorities and privileges and all property, movable and immovable, cash balances, reserve funds, investments and all other rights and interests in, or arising out of, such property as were immediately before the commencement of this Act in the ownership, possession, power or control of the existing bank in relation to the undertaking, whether within or without India, and all books of accounts, registers, records and all other documents of whatever nature relating thereto and shall also be deemed to include all borrowings, liabilities and obligations of whatever kind then subsisting of the existing bank in relation to the undertaking.
+	
+	
+	  * If, according to the laws of any country outside India, the provisions of this Act by themselves are not effective to transfer or vest any asset or liability situated in that country which forms part of the undertaking of an existing bank to, or in, the corresponding new bank, the affairs of the existing bank in relation to such asset or liability shall, on and from the commencement of this Act, stand entrusted to the chief executive officer for the time being of the corresponding new bank, and the chief executive officer may exercise all powers and do all such acts and things as may be exercised or done by the existing bank for the purpose of effectively transferring such assets and discharging such liabilities.
+	
+	
+	  * The chief executive officer of the corresponding new bank shall, in exercise of the powers conferred on him by sub-section (2), take all such steps as may be required by the laws of any such country outside India for the purpose of effecting such transfer or vesting, and may either himself or through any person authorised by him in this behalf realise any asset and discharge any liability of the existing bank.
+	
+	
+	  * Unless otherwise expressly provided by this Act, all contracts, deeds, bonds, agreements, powers of attorney, grants of legal representation and other instruments of whatever nature subsisting or having effect immediately before the commencement of this Act and to which the existing bank is a party or which are in favour of the existing bank shall be of as full force and effect against or in favour of the corresponding new bank, and may be enforced or acted upon as fully and effectually as if in the place of the existing bank the corresponding new bank had been a party thereto or as if they had been issued in favour of the corresponding new bank.
+	
+	
+	  * If, immediately before the commencement of this Act, any suit, appeal or other proceeding of whatever nature in relation to any business of the undertaking which has been transferred under section 4, is pending by or against the existing bank, the same shall not abate, be discontinued or be in any way, prejudicially affected by reason of the transfer of the undertaking of the existing bank or of anything contained in this Act but the suit, appeal or other proceeding may be continued, prosecuted and enforced by or against the corresponding new bank.
+	
+	
+	  * Nothing in this Act shall be construed as applying to the assets, rights, powers, authorities and privileges and property, movable and immovable, cash balances and investments in any country outside India (and other rights and interests in, or arising out of, such property) and borrowings, liabilities and obligations of whatever kind subsisting immediately before the commencement of this Act, of any existing bank operating in that country if, under the laws in force in that country, it is not permissible for a banking company, owned or controlled by Government, to carry on the business of banking there.
+
+Chapter III: Payment of Amount
+
+* Payment of amount.
+	+ Every existing bank shall be given by the Central Government such amount in respect of the transfer, under section 4, to the corresponding new bank of the undertaking of the existing bank as is specified against each such bank in the Second Schedule.
+	+ The amount referred to in sub-section (1) shall be given to every existing bank, at its option,:
+	
+	
+	  * in cash (to be paid by cheque drawn on the Reserve Bank) in three equal annual instalments, the amount of each instalment carrying interest at the rate of five and a half per cent. per annum from the commencement of this Act; or
+	  * in saleable or otherwise transferable promissory notes or stock certificates of the Central Government issued and repayable at par, and maturing at the end of:
+	
+	
+	  * ten years from the commencement of this Act and carrying interest from such commencement at the rate of six per cent. per annum, or
+	  * thirty years from the commencement of this Act and carrying interest from such commencement at the rate of seven per cent. per annum; or
+	  * partly in cash (to be paid by cheque drawn on the Reserve Bank) and partly in such number of securities specified in sub-clause (i) or sub-clause (ii), or both, of clause (b), as may be required by the existing bank; or
+	  * partly in such number of securities specified in sub-clause (i) of clause (b) and partly in such number of securities specified in sub-clause (ii) of that clause, as may be required by the existing bank.
+	
+	
+	  * The first of the three equal annual instalments referred to in clause (a) of sub-section (2) shall be paid, and the securities referred to in clause (b) of that sub-section shall be issued, within sixty days from the date of receipt by the Central Government of the option referred to in that sub-section, or where no such option has been exercised, from the latest date before which such option ought to have been exercised.
+	
+	
+	  * The option referred to in sub-section (2) shall be exercised by every existing bank before the expiry of a period of three months from the

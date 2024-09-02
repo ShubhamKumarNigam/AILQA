@@ -1,0 +1,13 @@
+Summary:
+
+The Export of Service Rules, 2005, defines the export of taxable services under the Finance Act, 1994. These rules came into force on March 15, 2005. The document provides the definitions of "Act," "input," and "input service" as per the CENVAT Credit Rules, 2004.
+
+The rules specify the conditions for export of taxable services. Export of taxable services can be classified into three categories:
+
+1. Taxable services provided in relation to an immovable property situated outside India, as specified in sub-clauses (d), (p), (q), (v), (zzq), (zzza), (zzzb), (zzzc), (zzzh), (zzzr), [(zzzy), (zzzz) and (zzzza)].
+2. Taxable services performed outside India, as specified in sub-clauses (a), (f), (h), (i), (j), (l), (m), (n), (o), (s), (t), (u), (w), (x), (y), (z), (zb), (zc), (zi), (zj), (zn), (zo), (zq), (zr), (zt), (zu), (zv), (zw), (zza), (zzc), (zzd), (zzf), (zzg), (zzh), (zzi), (zzl), (zzm), (zzn), (zzo), (zzp), (zzs), (zzt), (zzv), (zzw), (zzx), (zzy), (zzzd), (zzze), [(zzzf), (zzzp), (zzzzg), (zzzzh) and (zzzzi)].
+3. Taxable services provided to a recipient located outside India, as specified in clause (105) of section 65 of the Act, but excluding sub-clauses (zzzo) and (zzzv).
+
+The rules also specify the conditions for rebate of service tax paid on such taxable service or service tax or duty paid on input services or inputs, as the case may be, used in providing such taxable service. The rebate shall be subject to such conditions or limitations, if any, and fulfilment of such procedure, as may be specified in the notification.
+
+In summary, the Export of Service Rules, 2005, defines the export of taxable services and specifies the conditions for rebate of service tax paid on such taxable service.

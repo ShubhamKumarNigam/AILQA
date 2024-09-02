@@ -1,0 +1,21 @@
+Summary:
+
+THE DISTURBED AREAS (SPECIAL COURTS) ACT, 1976, is an Act that aims to provide for the speedy trial of certain offences committed in disturbed areas. The Act defines key terms such as "Code," "disturbed area," "period of disturbance," "scheduled offence," "Special Court," and refers to the Code of Criminal Procedure, 1973 for the meaning of other undefined terms.
+
+Under Section 3, the State Government may declare an area as a disturbed area if there is extensive disturbance of public peace and tranquility due to differences or disputes between members of different religious, racial, language, regional groups, castes, or communities. The State Government may specify the period during which the area shall be a disturbed area, and such period may be extended if necessary.
+
+Section 4 deals with the constitution of Special Courts, which may be constituted by the State Government for the purpose of providing speedy trial of scheduled offences committed in disturbed areas. A Special Court shall consist of a single judge appointed by the High Court upon a request made by the State Government. A person shall not be qualified for appointment as a judge of a Special Court unless they are qualified for appointment as a judge of a High Court or have been a Sessions Judge or an Additional Sessions Judge for at least one year.
+
+Section 5 states that a scheduled offence committed in any disturbed area during the period of disturbance shall be triable only by the Special Court constituted in or in relation to the disturbed area in which the offence has been committed. When trying any scheduled offence, a Special Court may also try any offence other than the scheduled offence with which the accused may be charged at the same trial if the offence is connected with the scheduled offence.
+
+Section 6 deals with the procedure and powers of Special Courts. Every scheduled offence shall be cognizable, and a Special Court may take cognizance of any scheduled offence upon its being committed to it under section 209 of the Code or upon a police report of the facts together with a certificate from the public prosecutor. Where a scheduled offence is an offence triable exclusively by a Court of Session under the Code, a Special Court shall have all the powers of a Court of Session and shall try such offence as if it were a Court of Session.
+
+Section 7 deals with the power to transfer cases to regular courts. Where, after taking cognizance of any offence, a Special Court is of opinion that the offence is not a scheduled offence, it shall transfer the case for trial to any court having jurisdiction under the Code.
+
+Section 8 deals with appeal and revision, and the High Court may exercise all the powers conferred by Chapters XXIX and XXX of the Code on a High Court, as if a Special Court is a Court of Session trying cases within the local limits of the jurisdiction of the High Court.
+
+Section 9 states that the provisions of this Act shall have effect notwithstanding anything contained in the Code or any other law, but save as expressly provided in this Act, the provisions of the Code shall apply to the proceedings before a Special Court.
+
+The Schedule to the Act lists the scheduled offences under various provisions of the Indian Penal Code, the Arms Act, and the Indian Explosives Act.
+
+The Act applies to the whole of India, except the State of Jammu and Kashmir, and came into force on 15th August 1976.

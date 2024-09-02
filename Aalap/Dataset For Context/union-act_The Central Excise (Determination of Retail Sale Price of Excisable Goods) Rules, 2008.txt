@@ -1,0 +1,9 @@
+Summary:
+
+The Central Excise (Determination of Retail Sale Price of Excisable Goods) Rules, 2008, were created to determine the retail sale price of excisable goods under the Central Excise Act, 1944. These rules define the retail sale price, and explain the process for ascertaining the retail sale price of excisable goods when the manufacturer fails to declare it or declares an incorrect price.
+
+If the manufacturer removes excisable goods without declaring the retail sale price or declares an incorrect price, the retail sale price can be ascertained by looking at the declared retail sale price of identical goods removed within one month before or after the removal of the goods. If the retail sale price cannot be ascertained in this way, enquiries can be conducted in the retail market where the goods have been sold. The highest retail sale price determined through these enquiries is taken as the retail sale price of all such goods.
+
+If the manufacturer alters or tampers with the retail sale price declared on the package after removal from the place of manufacture, resulting in an increase in the retail sale price, the increased retail sale price is taken as the retail sale price of all goods removed during a period of one month before and after the date of removal.
+
+If the retail sale price cannot be ascertained under these rules, it can be determined in accordance with the principles and provisions of section 4A of the Act and the rules mentioned therein.

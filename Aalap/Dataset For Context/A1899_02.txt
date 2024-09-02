@@ -1,0 +1,576 @@
+Summary:
+
+The Indian Stamp Act, 1899, is an Act to consolidate and amend the law relating to stamps. The Act extends to the whole of India, except for the territories which, immediately before the 1st November, 1956, were comprised in Part B States (excluding the State of Jammu and Kashmir). The Act defines various terms related to stamps, such as allotment list, banker, bill of exchange, bill of exchange payable on demand, bill of lading, bond, chargeable, cheque, clearance list, clearing corporation, conveyance, debenture, depository, duly stamped, executed and execution, impressed stamp, India, instrument, instrument of partition, issue, lease, marketable security, market value, mortgage-deed, paper, policy of insurance, policy of group insurance, power of attorney, proper instrument, receipt, registered document, revenue-stamp, sale, stamp, stamp-duty, transfer, and trust. These definitions are crucial for understanding the various provisions and requirements of the Act related to stamp duty and the use of stamps on various documents.
+Summary:
+The document outlines various legal terms and definitions related to Indian laws, including specific acts, articles, and other legal concepts. Here are some key points:
+
+1. Employees' State Insurance Act, 1948:
+- Section 2(1)(b): Defines "employment" as any kind of work done by an employee for an employer, whether or not it is skilled, manual, supervisory, technical, operational, designative, or clerical in nature.
+- Section 2(1)(g): Defines "employee" as any person employed for wages or remuneration in or in connection with any work of an employer, and includes an apprentice, but does not include a member of the employer's family.
+- Section 2(9): Defines "factory" as any premises where ten or more persons are employed to work with or without power, and the work involves manual labor using machinery.
+
+2. Sea-insurance policy:
+- Section 2(19): Defines "policy of sea-insurance" or "sea-policy" as any insurance made on any ship or vessel, machinery, tackle, or furniture of any ship or vessel, or on any goods, merchandise, or property of any description on board of any ship or vessel, or upon the freight of or any other interest which may be lawfully insured in or relating to any ship or vessel.
+
+3. Power-of-attorney:
+- Section 2(21): Defines "power-of-attorney" as any instrument empowering a specified person to act for and in the name of the person executing it.
+
+4. Promissory note:
+- Section 2(22): Defines "promissory note" as a promissory note as defined by the Negotiable Instruments Act, 1881 (XXVI of 1881), and includes a note promising payment of any sum of money out of any particular fund which may or may not be available, or upon any condition or contingency which may or may not be performed or happen.
+
+5. Receipt:
+- Section 2(23): Defines "receipt" as any note, memorandum, or writing acknowledging the receipt of money, bill of exchange, cheque, promissory note, or other moveable property in satisfaction of a debt, or acknowledging the satisfaction or discharge of any debt or demand, or any part of a debt or demand.
+
+6. Securities:
+- Section 2(23A): Defines "securities" as securities as defined in clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956), a derivative as defined in clause (a) of section 45U of the Reserve Bank of India Act, 1934 (2 of 1934), a certificate of deposit, commercial usance bill, commercial paper, repo on corporate bonds and such other debt instrument of original or initial maturity up to one year as the Reserve Bank of India may specify from time to time, and any other instrument declared by the Central Government to be securities for the purposes of this Act.
+
+7. Settlement:
+- Section 2(24): Defines "settlement" as any non-testamentary disposition, in writing, of moveable or immovable property made in consideration of marriage, for the purpose of distributing property of the settler among his family or those for whom he desires to provide, or for the purpose of providing for some person dependent on him, or for any religious or charitable purpose, and includes an agreement in writing to make such a disposition.
+
+8. Soldier:
+- Section 2(25): Defines "soldier" as any person below the rank of non-commissioned officer who is enrolled under the Indian Army Act, 1911 (8 of 1911).
+
+9. Stamp:
+- Section 2(26): Defines "stamp" as any mark, seal, or endorsement by any agency or person duly authorized by the State Government, and includes an adhesive or impressed stamp, for the purposes of duty chargeable under this Act.
+
+10. Stock exchange:
+- Section 2(27): Defines "stock exchange" as a recognized stock exchange as defined in clause (f) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956), and includes such other platform for trading or reporting a deal in securities as may be specified by the Central Government.
+
+11. State amendments:
+- The document also includes state amendments to the Indian Stamp Act, 1899, such as those made by the Assam Act 10 of 1968 and the Himachal Pradesh Act 4 of 1953.
+Summary:
+This document relates to the Indian Stamp (Odisha Amendment) Act, 2013, which amends the Indian Stamp Act, 1899. The amendment introduces provisions related to the calculation of stamp duty for mining leases. The stamp duty is calculated based on the sum total of the quantity of mineral permitted for extraction, year-wise, in the approved mining plan or mining scheme, whichever is higher. In case of enhancement of production level, the lessee is required to deposit the differential stamp duty before such enhancement is carried out. In case of surrender or prohibition of mining lease, the lessee is entitled to a refund of stamp duty, subject to certain conditions. The amendment also introduces provisions related to the renewal of mining leases and the payment of stamp duty in such cases. The amendment also includes provisions related to the calculation of stamp duty for instruments relating to several distinct matters and instruments coming within several descriptions in Schedule I.
+Summary:
+
+This document summarizes various sections of the Indian Stamp Act, 1899, which governs the imposition and payment of stamp duty on various legal instruments and transactions in India. The summary includes:
+
+* Section 3: Definitions of various terms used in the Act.
+* Section 6: Imposition of duty on policies of sea-insurance.
+* Section 7: Policies of sea-insurance.
+* Section 8: Bonds, debentures or other securities issued on loans under Act XI of 1879.
+* Section 8A: Securities dealt in depository not liable to stamp-duty.
+* Section 8B: Corporatisation and demutualisation schemes and related instruments not liable to duty.
+* Section 8C: Negotiable warehouse receipts not liable to stamp-duty.
+* Section 8D: Agreement or document for assignment of receivables not liable to stamp-duty.
+* Section 8E: Conversion of a branch of any bank into a wholly owned subsidiary of bank or transfer of shareholding of a bank to a holding company of bank not liable to duty.
+* Section 8F: Agreement or document for transfer or assignment of rights or interest in financial assets not liable to stamp-duty.
+* Section 9: Power to reduce, remit or compound duties.
+
+The summary aims to provide a clear and straightforward explanation of these legal concepts, avoiding abbreviations and shorthand.
+Summary:
+
+The Indian Stamp Act, 1899, governs the payment of stamp duty on various transactions and documents in India. The Act provides for the collection of stamp duty on instruments of transaction in stock exchanges and depositories. These instruments include sale of securities, transfer of securities, and allotment of securities. The stamp duty is to be collected on behalf of the State Government by the stock exchange or a clearing corporation authorized by it or the depository from the relevant party involved in the transaction. The rate of stamp duty is specified in Schedule I of the Act. No stamp duty is chargeable in respect of instruments of transaction in stock exchanges and depositories established in any International Financial Services Centre set up under the Special Economic Zones Act, 2005. From the date of commencement of this Part, no stamp duty is charged or collected by the State Government on any note or memorandum or any other document, electronic or otherwise, associated with the transactions mentioned in sub-section (1). The stock exchange or a clearing corporation authorized by it or the depository, as the case may be, shall transfer the stamp duty collected to the State Government where the residence of the buyer is located or to the State Government having the registered office of the trading member or broker of such buyer. Every stock exchange or the clearing corporation authorized by it and depository shall submit to the Government details of the transactions in such manner as the Central Government may, by rules, provide. When any issue of securities is made by an issuer otherwise than through a stock exchange or depository, the stamp duty on each such issue is payable by the issuer at the place where its registered office is located on the total market value of the securities so issued at the rate specified in Schedule I. When any sale or transfer or reissue of securities for consideration is made otherwise than through a stock exchange or depository, the stamp duty on each such sale or transfer or reissue is payable by the seller or transferor or issuer, as the case may be, on the consideration amount specified in such instrument at the rate specified in Schedule I. The payment of stamp duty is to be indicated on the instrument by means of stamps or in cash or by way of Demand Draft or by Pay Order in certain circumstances.
+Summary:
+
+The Indian Stamp Act outlines the rules and regulations related to the stamping of legal documents in India. This summary outlines the following sections of the Act:
+
+* Section 13: This section mandates that every instrument chargeable with duty must have an impressed stamp on its face, which cannot be used for or applied to any other instrument.
+* Section 14: This section states that no second instrument chargeable with duty can be written upon a piece of stamped paper upon which an instrument chargeable with duty has already been written.
+* Section 15: This section deems any instrument written in contravention of Section 13 or 14 to be unstamped.
+* Section 16: This section requires that where the duty with which an instrument is chargeable or its exemption from duty depends on the duty actually paid in respect of another instrument, the payment of such last-mentioned duty must be denoted upon such first-mentioned instrument by endorsement under the hand of the Collector or in such other manner as prescribed.
+* Section 17: This section mandates that all instruments chargeable with duty and executed by any person in India must be stamped before or at the time of execution.
+* Section 18: This section permits every instrument chargeable with duty executed only out of India, and not being a bill of exchange or promissory note, to be stamped within three months after it has been first received in India.
+* Section 19: This section requires the first holder in India of any bill of exchange payable otherwise than on demand, or promissory note drawn or made out of India, to affix the proper stamp and cancel the same before presenting it for acceptance or payment, or endorsing, transferring or otherwise negotiating it in India.
+* Section 20: This section requires the calculation of duty on the value of money in the currency of India according to the current rate of exchange on the day of the date of the instrument, in case an instrument is chargeable with ad valorem duty in respect of any money expressed in any currency other than that of India.
+* Section 21: This section requires the calculation of duty on the market value of stock or security, in case an instrument is chargeable with ad valorem duty in respect of any stock or of any marketable or other security.
+* Section 22: This section presumes an instrument to be duly stamped if it contains a statement of current rate of exchange or average price, as the case may require, and is stamped in accordance with such statement.
+* Section 23: This section states that where interest is expressly made payable by the terms of an instrument, such instrument shall not be chargeable with duty higher than that with which it would have been chargeable had no mention of interest been made therein.
+* Section 23A: This section states that certain instruments connected with mortgages of marketable securities shall be chargeable as agreements.
+* Section 24: This section states that where any property is transferred to any person in consideration, wholly or in part, of any debt due to him, or subject either certainly or contingently to the payment or transfer of any money or stock, such debt, money or stock is to be deemed the whole or part, as the case may be, of the consideration in respect whereof the transfer is chargeable with ad valorem duty.
+Summary:
+
+The Indian Stamp Act, 1899, outlines the rules and regulations related to stamp duty, which is a tax imposed on legal documents. The Act defines the value of the subject matter for different types of instruments, such as annuities or periodical payments, and specifies that the consideration and all other relevant facts and circumstances must be fully and truly set forth in the instrument.
+
+Section 24 of the Act deals with the stamp duty payable on the transfer of property. The amount of stamp duty payable is determined based on the value of the consideration or the market value of the property, whichever is higher. If the stamp duty has already been paid on a mortgage, and the property is later sold to the mortgagee, the stamp duty payable on the sale is reduced by the amount already paid for the mortgage.
+
+Section 25 deals with the valuation of annuities or other sums payable periodically. The amount secured by such an instrument or the consideration for such a conveyance is deemed to be the total amount payable during a specific period, depending on whether the sum is payable for a definite period, in perpetuity, or for an indefinite time terminable with a life in being.
+
+Section 26 deals with situations where the value of the subject matter of an instrument is indeterminate. In such cases, the amount claimable under the instrument is limited to the highest amount for which the stamp used would have been sufficient.
+
+Section 27 specifies that the consideration and all other relevant facts and circumstances affecting the chargeability of an instrument with duty or the amount of duty must be fully and truly set forth in the instrument.
+
+Section 28 deals with the stamp duty payable on the transfer of property where the property is conveyed in separate parts by different instruments. The consideration is apportioned in such a manner as the parties think fit, provided that a distinct consideration for each separate part is set forth in the conveyance relating thereto. Each conveyance is chargeable with ad valorem duty in respect of such distinct consideration.
+
+The Act also contains provisions for state amendments, such as those made by Assam, Himachal Pradesh, and Orissa, which modify the provisions of the Act to suit the specific needs of each state.
+Summary:
+
+The Indian Stamp Act of 1899 outlines the rules and regulations regarding the payment of stamp duty in India. Stamp duty is a tax that is levied on various legal documents, such as contracts, deeds, and agreements. The Act specifies the rates of stamp duty for different types of instruments, as well as the parties responsible for paying the duty. It also provides for the adjudication of disputes regarding stamp duty by the Collector.
+
+The Act includes provisions for the payment of stamp duty on the sale of property. If a property is sold in parts to different sub-purchasers, each conveyance of a part sold to a sub-purchaser is chargeable with ad valorem duty in respect of the consideration paid by such sub-purchaser, without regard to the amount or value of the original consideration. The conveyance of the residue of such property to the original purchaser is chargeable with ad valorem duty in respect only of the excess of the original consideration over the aggregate of the considerations paid by the sub-purchasers.
+
+The Act also includes provisions for the payment of stamp duty on the transfer of securities. The buyer of a security through a stock exchange is responsible for paying the stamp duty, while the seller of a security otherwise than through a stock exchange is responsible for paying the stamp duty. The transferor of a security through a depository is responsible for paying the stamp duty, while the transferor of a security otherwise than through a stock exchange or depository is responsible for paying the stamp duty. The issuer of a security is responsible for paying the stamp duty when the security is issued, whether through a stock exchange, a depository, or otherwise.
+
+The Act includes provisions for the adjudication of disputes regarding stamp duty. If a person is unsure about the duty with which an instrument is chargeable, they can apply to the Collector for an opinion. The Collector will determine the duty with which the instrument is chargeable, and may require the person to furnish an abstract of the instrument and evidence regarding the facts and circumstances affecting the chargeability of the instrument with duty. The Collector's decision is final and binding, unless it is appealed to a higher authority.
+Summary:
+The document discusses Indian laws related to the stamping of instruments. The Indian Stamp Act of 1899 is the primary law governing this area. The Act requires that certain instruments, such as contracts, bills of exchange, and promissory notes, be stamped with a stamp of the required value and description. The document explains the procedure for examining and impounding instruments that are not duly stamped, as well as the consequences for using such instruments in evidence or for registration.
+
+The Act also provides for the certification of instruments by the Collector under Section 32. The Collector may certify that the full duty has been paid if the instrument is already fully stamped or if the duty determined by the Collector has been paid. If the instrument is not chargeable with duty, the Collector will certify that it is not so chargeable. Any instrument upon which an endorsement has been made under this section shall be deemed to be duly stamped or not chargeable with duty, as the case may be, and may be received in evidence or otherwise acted upon and registered.
+
+The document also includes amendments to the Indian Stamp Act made by various states. For example, the Orissa Amendment of Section 31 increases the maximum amount of duty that may be charged from five rupees to twenty rupees and the minimum amount of duty from fifty naye paise to five rupees. The Himachal Pradesh Amendment of Section 32 adds a new clause (d) to the proviso, which provides that any instrument chargeable with duty under clause (bb) of the first proviso to section 3 as amended by the Indian Stamp (Himachal Pradesh Amendment) Act, 1952, and brought to the Collector after the expiration of three months from the date on which it is first received in Himachal Pradesh, may not be endorsed.
+
+The document also includes provisions related to instruments not duly stamped. Section 33 requires that every person having authority to receive evidence or in charge of a public office, except an officer of police, before whom any instrument chargeable with duty is produced or comes in the performance of his functions, shall impound the same if it appears to him that such instrument is not duly stamped. The section also provides for the examination of instruments in order to ascertain whether they are stamped with the required stamp.
+
+Section 35 provides that no instrument chargeable with duty shall be admitted in evidence for any purpose by any person having authority to receive evidence, or shall be acted upon, registered, or authenticated by any such person or by any public officer, unless such instrument is duly stamped. However, the section provides for the admission of instruments in evidence on payment of the duty or penalty.
+
+Section 37 allows for the certification of instruments that bear a stamp of sufficient amount but of improper description. The section provides that any instrument so certified shall then be deemed to have been duly stamped as from the date of its execution.
+
+The document also includes provisions related to the refund of penalties paid under Section 38, sub-section (1), and the sending of instruments impounded under Section 33 to the Collector.
+Summary:
+
+The Indian Stamp Act of 1899 outlines the rules and regulations regarding the payment of stamp duty on legal documents. Section 40 of the Act gives the Collector the power to stamp instruments that have been impounded due to not being duly stamped, and to charge a penalty for the omission. The Collector may refund the penalty if they deem the instrument to be duly stamped or not chargeable with duty. Section 41 states that if an instrument is unduly stamped due to accident, mistake, or urgent necessity, the person may bring it to the Collector's attention within one year of execution and pay the proper duty. Section 42 states that when the duty and penalty have been paid, the instrument may be endorsed and admitted as evidence. Section 43 states that taking proceedings or paying a penalty under this Chapter does not bar prosecution for an offence against the Stamp-law. Section 44 states that a person who pays the duty or penalty may recover the amount from the person who was bound to bear the expense of providing the proper stamp. Section 45 allows for the refund of penalty or excess duty in certain cases. Section 46 states that the person sending an instrument under Section 38 is not liable for loss, destruction, or damage during transmission. Section 47 allows the payer to stamp bills and promissory notes received unstamped. Section 47-A, which is a state amendment, allows the Registering Officer to refer an instrument to the Collector for determination of the market value or consideration if they have reason to believe it has not been truly set forth in the instrument. The Collector may then determine the market value or consideration and the duty payable, and the deficient amount of duty is payable by the person liable to pay the duty.
+Summary:
+
+The document outlines the Indian Stamp Act and its amendments, specifically focusing on the State of Tripura, Orissa, and Himachal Pradesh. The Act provides provisions for determining the market value of any property transferred and the proper duty payable thereon. The Collector has the power to call for an instrument for examination and determination of the market value and duty payable. If the original document is not produced, a certified copy of the entries of the document can be called for. The Collector's order can be appealed to the District Judge within 30 days from the date of the order. The document also outlines the amendments made to the Act by the States of Orissa and Himachal Pradesh, including changes to the time limit for the Collector to call for an instrument and the substitution of certain sub-sections. The Tripura amendment includes provisions for the Collector to determine the market value of the property and the proper duty payable thereon if the Registering Officer has reason to believe that the value of the property is lower than the market value and proper duty has not been paid. The amendment also provides for an appeal to the appellate authority.
+Summary:
+The document summarizes various sections of the Indian Stamp Act, 1899, specifically focusing on the recovery of duties and penalties, allowances for stamps in certain cases, and the repayment of stamps not required for use.
+
+Section 48 of the Act authorizes the Collector to recover all duties, penalties, and other sums required to be paid under this Chapter by distress and sale of the movable property of the person from whom the same are due, or by any other process for the time being in force for the recovery of arrears of land-revenue.
+
+The document also includes a State Amendment made by Orissa, which states that no certificate or endorsement under this Act, in respect of any instrument chargeable in the State of Orissa with a higher rate of duty under this Act, for the time being in force as amended from time to time by the Orissa Acts, shall be received in evidence or be in any way valid in respect of the payment of duty on such instrument or in respect of the chargeability of such instrument with duty unless the duty chargeable under the Orissa Act has been paid on such instrument.
+
+Chapter V of the Act deals with allowances for stamps in certain cases. Section 49 of the Act allows the Collector to make allowance for impressed stamps spoiled in specific cases, subject to rules made by the State Government. The spoiled stamp must fall under one of the categories mentioned in the section, such as a stamp on a paper inadvertently and undesignedly spoiled before any instrument is executed, or a stamp on a document that is written out but not signed or executed by any party.
+
+Section 50 of the Act specifies the periods within which an application for relief under section 49 must be made. The application must be made within two months of the date of the instrument in the case of clause (d)(5), within six months after the stamp has been spoiled in the case of a stamped paper on which no instrument has been executed, and within six months after the date of the instrument or, if it is not dated, within six months after the execution thereof by the person by whom it was first or alone executed in the case of a stamped paper in which an instrument has been executed.
+
+Section 51 of the Act allows the Chief Controlling Revenue-authority or the Collector (if empowered by the Chief Controlling Revenue-authority) to make allowance for stamped papers used for printed forms of instruments by any banker or by any incorporated company or other body corporate, if for any sufficient reason such forms have ceased to be required by the said banker, company, or body corporate, provided that the duty in respect of such stamped papers has been duly paid.
+
+Section 52 of the Act allows the Collector to make allowance for stamps misused or rendered useless in specific cases. The Collector may cancel and allow as spoiled the stamp so misused or rendered useless if the person applies within six months after the date of the instrument and the instrument is re-stamped with the proper duty.
+
+Section 53 of the Act specifies how allowance for spoiled or misused stamps is to be made. The Collector may give in lieu of the spoiled or misused stamps other stamps of the same description and value, stamps of any other description to the same amount in value, or the same value in money, deducting ten nayepaise for each rupee or fraction of a rupee.
+
+Finally, Section 54 of the Act deals with allowance for stamps not required for use. When any person is possessed of a stamp or stamps that have not been spoiled or rendered unfit or useless for the purpose intended, but for which he has no immediate use, the Collector shall repay to such person the value of such stamp or stamps in money, deducting ten nayepaise for each rupee or portion of a rupee, upon such person delivering up the same to be cancelled and proving to the Collector's satisfaction that the stamp or stamps are not required for use.
+Summary:
+
+The Indian Stamp Act of 1899 sets forth provisions for the use of stamps on various documents and instruments. The Act specifies the types of stamps that are valid, as well as the procedures for repaying the value of stamps under certain circumstances.
+
+Section 54 of the Act outlines the conditions under which a person can receive repayment for stamps that have been purchased but not used. These conditions include the bona fide intention to use the stamps, payment of the full price, and purchase within six months of delivery. The Act also provides for repayment of the value of stamps in denominations other than annas, as well as for refunds of "Refugee Relief" stamps.
+
+Section 55 of the Act allows for repayment of the value of stamps on renewed debentures, provided that the original debenture is produced and cancelled.
+
+Under Section 56 of the Act, the powers of a Collector to assess and charge duty on instruments are subject to the control of the Chief Controlling Revenue-authority. If a Collector feels doubt as to the amount of duty with which an instrument is chargeable, they may refer the case to the Chief Controlling Revenue-authority for decision.
+
+Section 57 of the Act allows the Chief Controlling Revenue-authority to refer cases to the High Court for decision. The case shall be decided by not less than three Judges of the High Court, and the opinion of the majority shall prevail.
+
+Section 58 of the Act allows the High Court to call for further particulars as to the case stated, if it is not satisfied with the statements contained in the case.
+
+Under Section 59 of the Act, the High Court shall decide the questions raised in the case and deliver its judgment containing the grounds on which the decision is founded.
+
+Section 60 of the Act allows other Courts to refer cases to the High Court, and such Courts shall deal with the case as if it had been referred under Section 57.
+
+Section 61 of the Act allows the Court to revise certain decisions of Courts regarding the sufficiency of stamps. The Court may take such order into consideration and determine the amount of duty with which the instrument is chargeable. The Collector may prosecute any person for an offence against the Stamp-law, provided that no such prosecution shall be instituted where the amount (including duty and penalty) which was payable in respect of the instrument under section 35 has been paid.
+
+Section 62 of the Act states that any person who executes or signs an instrument that is not duly stamped shall be punished with fine. If the instrument is not stamped at all, the person shall be punished with imprisonment or fine, or both.
+Summary:
+
+The document summarizes various sections of Indian laws related to the use and non-payment of stamp duty on financial instruments. The sections outline penalties for various offences, including drawing, making, issuing, endorsing, transferring, or signing bills of exchange or promissory notes without proper stamping. The document also includes penalties for not collecting or transferring stamp duty within the specified time, submitting false details, failing to cancel adhesive stamps, and not making out or delivering duly stamped policies of insurance. The penalties range from fines to imprisonment, depending on the severity of the offence. The document also specifies the jurisdiction of Magistrates and the place of trial for such offences. Additionally, the document includes provisions for the inspection of financial records and the seizure of documents in certain cases. The document also includes state amendments to some sections.
+Summary:
+
+The document to summarize is related to the Indian Stamp Act, 1899, and its amendments in the state of Orissa. The Act outlines the rules and regulations for stamp duty on various instruments, such as acknowledgment of debt, administration-bond, adoption-deed, affidavit, and advocate. The Act also provides for the delegation of certain powers to the Chief Controlling Revenue-authority and subordinate Revenue-authority. The Orissa Amendment of Section 73 substitutes the Industrial Finance Corporation of India with other public financial institutions notified under Section 4-A of the Companies Act, 1956. Section 73A provides the power of the Central Government to make rules for carrying out the provisions of Part AA of Chapter II, including the manner of collection of stamp-duty and transfer of stamp-duty to the State Government. Section 73B authorizes the Securities and Exchange Board of India and the Reserve Bank of India to issue instructions, circulars, or guidelines for carrying out the provisions of Part AA of Chapter II and the rules made thereunder. Section 74 allows the State Government to make rules for regulating the supply and sale of stamps and stamped papers, the persons by whom alone such sale is to be conducted, and the duties and remuneration of such persons. Section 75 permits the State Government to make rules to carry out generally the purposes of this Act and prescribe fines for breach thereof. Section 76 requires all rules made under this Act to be published in the Official Gazette and have effect as if enacted by this Act. Section 76A delegates certain powers conferred on the State Government and the Chief Controlling Revenue-authority to the subordinate Revenue-authority. Section 77 saves the duties chargeable under any enactment for the time being in force relating to court-fee. The Orissa Amendment of Section 77-A deems all stamps in denominations of annas four or multiples thereof to be stamps of the value of twenty-five nayepaise or, as the case may be, multiples thereof and valid for all the purposes of this Act. The Orissa Repeal of section 77-A omits Section 77-A of the Indian Stamp Act, 1899. Section 78 requires every State Government to make provision for the sale of translations of this Act in the principal vernacular languages of the territories administered by it at a price not exceeding twenty-five nayepaise per copy. The Assam Amendment substitutes section 78 with a new section that rounds off the total amount of duty payable or of allowance to be made under this Act to the next rupee.
+Summary:
+
+The document outlines the Indian Stamp Act of 1899, which specifies the stamp duty for various legal instruments. The Act defines the term "instrument" as any document by which any right or liability is, or purports to be, created, transferred, limited, extended, extinguished, or recorded. The document provides a list of instruments, along with their proper stamp duty, which includes agreements, memorandums, appointments, appraisements, apprenticeship deeds, articles of association, articles of clerkship, awards, bills of exchange, bonds, bills of lading, bottomry bonds, cancellations, certificates of sale, charges, conveyances, and many more.
+
+The Act also provides exemptions for certain instruments, such as an agreement for the sale of goods or merchandise exclusively, not being a chargeable under No. 43, made in the form of tenders to the Central Government for or relating to any loan, and made by any writing not being a will.
+
+The Act further categorizes instruments based on their purpose and value. For example, the stamp duty for an agreement or memorandum of agreement relating to the sale of a bill of exchange or government security is one anna, subject to a maximum of ten rupees. Similarly, the stamp duty for an agreement relating to the deposit of title-deeds or instruments constituting or being evidence of the title to any property, or the pawn or pledge of movable property, is eight annas if not otherwise provided for.
+
+In summary, the Indian Stamp Act of 1899 provides a comprehensive list of legal instruments, along with their proper stamp duty and exemptions. The Act aims to regulate the use of legal instruments by specifying the stamp duty required for each instrument, based on its purpose and value.
+Summary:
+
+The document outlines the stamp duty rates for various legal instruments in India. The rates are determined based on the nature and value of the transaction. Some of the key instruments and their corresponding stamp duty rates include:
+
+1. Purchase-money only document: Two annas (0: 3)
+2. Certificate or other document evidencing the right or title to shares, scrip, or stock in a company: One rupee
+3. Charter-party: Ten rupees
+4. Composition-deed: Two rupees
+5. Conveyance: The stamp duty rate for conveyance varies based on the amount or value of the consideration for the conveyance. For example, if the consideration is up to Rs. 50, the stamp duty is eight annas (0: 8), and if the consideration is between Rs. 50 and Rs. 100, the stamp duty is one rupee (1: 1). The stamp duty increases progressively with the value of the consideration.
+6. Copy or extract certified by a public officer: Eight annas (0: 8) if the original was not chargeable with duty or if the duty with which it was chargeable does not exceed one rupee, and one rupee (1: 1) in any other case.
+7. Counterpart or duplicate of any instrument chargeable with duty: One rupee (1: 1) if the duty with which the original instrument is chargeable does not exceed one rupee, and the same duty as the original instrument in any other case.
+8. Customs bond: The stamp duty for customs bond varies based on the amount. For example, if the amount does not exceed Rs. 1,000, the stamp duty is five rupees (5: 5), and in any other case, the stamp duty is ten rupees (10: 10).
+9. Debenture: The stamp duty for debenture is 0.005% (0.005) in case of issue of debenture and 0.0001% (0.0001) in case of transfer and re-issue of debenture.
+10. Delivery order in respect of goods: Two rupees (2: 2)
+11. Exchange of property: The stamp duty for exchange of property is the same as the stamp duty for conveyance.
+12. Entry as an advocate, vakil, or attorney on the roll of any High Court: Exemption from stamp duty
+13. Further charge: The stamp duty for further charge is the same as the stamp duty for conveyance.
+14. Gift: The stamp duty for gift is the same as the stamp duty for conveyance.
+15. Indemnity-bond: The stamp duty for indemnity-bond is the same as the stamp duty for bond.
+16. Lease: The stamp duty for lease varies based on the amount or value of the rent. For example, if the rent is fixed and no premium is paid, the stamp duty is the same as the stamp duty for conveyance. If the lease is granted for a fine or premium or for money advanced, the stamp duty is the same as the stamp duty for conveyance.
+
+In summary, the document provides a comprehensive list of legal instruments and their corresponding stamp duty rates in India. The stamp duty rates are determined based on the nature and value of the transaction. The document also includes provisions for exemptions and variations in stamp duty rates for certain types of instruments.
+Summary:
+The given document is a table listing various legal instruments and their proper stamp duties as per the Indian Stamp Act of 1899. The table includes the name of the instrument, a brief description, and the amount of stamp duty required. Some instruments have exemptions, and those are also mentioned in the table.
+
+The table includes various types of leases, loans, licenses, agreements, deeds, mortgages, protests, orders, partitions, policies of insurance, and other legal instruments. For example, a lease executed by a cultivator for the purposes of cultivation without the payment or delivery of any fine or premium, when a definite term is expressed and such term does not exceed one year, or when the average annual rent reserved does not exceed one hundred rupees, is exempted from stamp duty. Similarly, a letter of allotment in respect of a loan to be raised by any company or proposed company is subject to a stamp duty of two annas.
+
+The table also includes various types of mortgages, such as mortgage deed, agreement relating to deposit of title-deeds, pawn or pledge, bottomry bond, mortgage of a crop, respondentia bond, and security bond. The stamp duty for these instruments varies depending on the amount secured and the type of mortgage.
+
+Further, the table includes policies of insurance, such as sea insurance, fire-insurance and other classes of insurance, accident and sickness insurance, insurance by way of indemnity against liability to pay damages on account of accidents to workmen employed by or under the insurer or against liability to pay compensation under the Workmen's Compensation Act, 1923 (8 of 1923), and life insurance or group insurance. The stamp duty for these instruments varies depending on the sum insured, the amount payable as premium, and the type of insurance.
+
+In conclusion, the given document provides a comprehensive list of legal instruments and their proper stamp duties as per the Indian Stamp Act of 1899. The table includes various types of leases, loans, licenses, agreements, deeds, mortgages, protests, orders, partitions, policies of insurance, and other legal instruments. The stamp duty for these instruments varies depending on the type of instrument, the amount secured, the sum insured, the amount payable as premium, and other factors.
+Summary:
+The document provides information on the Indian Stamp Act, 1899, which outlines the stamp duty rates for various legal instruments. The Act includes definitions of legal terms such as Power-of-Attorney, Promissory Note, Proxy, and Receipt, among others. The document also specifies the proper stamp-duty for each instrument and provides exemptions for certain cases.
+
+In the context of Indian laws, the document includes information on life insurance policies, specifically those granted by the Director-General of Post Offices in accordance with rules for Postal Life-Insurance. The stamp duty for these policies is exempted by one-quarter of the duty payable in respect of the original insurance.
+
+The document also includes information on Re-insurance by an Insurance Company, which is defined as the indemnity or guarantee against the payment on the original insurance of a certain part of the sum insured. The stamp duty for this is not less than Division A or Division B of this Article, with an additional duty of ten nayepaise or more than one rupee.
+
+The document further includes information on Power-of-Attorney, which is defined as the authority given to a person to act for another person in legal or financial matters. The stamp duty for a Power-of-Attorney varies depending on the purpose and number of persons authorized.
+
+The document also includes information on Promissory Notes, which are legal instruments that contain a promise to pay a certain sum of money on demand or at a specified date. The stamp duty for a Promissory Note depends on whether it is payable on demand or otherwise, and the amount or value of the note.
+
+Finally, the document includes information on Protest of Bill or Note, which is a declaration in writing made by a Notary Public or other person lawfully acting as such, attesting the dishonour of a bill of exchange or promissory note. The stamp duty for a Protest of Bill or Note is one rupee.
+Summary:
+
+The document summarizes the stamp duty rates for various legal instruments in India under the Bombay Irrigation Act, 1879, the Indian Companies Act, 1882, the Indian Stamp Act, 1899, and the Indian Succession Act, 1925.
+
+The stamp duty rates for instruments related to land and property include:
+
+* Instruments of settlement, including deeds of dower, are charged with a duty equal to the amount or value of the property settled.
+* Revocation of settlements is charged with a duty not exceeding ten rupees.
+* Transfer of any interest secured by a bond, mortgage-deed, or policy of insurance is charged with a duty of five rupees if the duty on such instrument does not exceed five rupees, and in any other case, the duty is fifteen rupees.
+* Transfer of trust-property without consideration is charged with a duty of five rupees or such smaller amount as may be chargeable under clauses (a) to (c) of this Article.
+* Surrender of lease is charged with a duty of five rupees if the duty with which the lease is chargeable does not exceed five rupees, and in any other case, the duty is not specified in the document.
+* Transfer (whether with or without consideration) of any interest secured by a bond, mortgage-deed, or policy of insurance is charged with a duty of five rupees if the duty on such instrument does not exceed five rupees, and in any other case, the duty is fifteen rupees.
+* Transfer of property under the Administrator General's Act, 1874, section 31, is charged with a duty of five rupees.
+* Transfer of trust-property without consideration from one trustee to another trustee or from a trustee to a beneficiary is charged with a duty of five rupees or such smaller amount as may be chargeable under clauses (a) to (c) of this Article.
+
+The stamp duty rates for instruments related to companies and shares include:
+
+* Share warrants to bearer issued under the Indian Companies Act, 1882, are charged with a duty of one and a half times the duty under the Conveyance (No. 23) for a consideration equal to the nominal amount of the shares specified in the warrant.
+* Scrip is charged with a duty of one anna.
+* Shipping orders for or relating to the conveyance of goods on board of any vessel are charged with a duty of four annas.
+* Transfer of lease by way of assignment and not by way of under-lease is charged with the same duty as a Conveyance (No. 23) for a consideration equal to the amount of the consideration for the transfer.
+
+The stamp duty rates for instruments related to trusts include:
+
+* Declaration of trust of, or concerning, any sum equal to the amount or value of the property when made by any writing not being a will is charged with a duty not exceeding fifteen rupees.
+* Revocation of trust of, or concerning, any property when made by any instrument other than a will is charged with a duty not exceeding ten rupees.
+
+The stamp duty rates for instruments related to other legal matters include:
+
+* Warrant for goods is charged with a duty of four annas.
+* Instruments related to the Indian Copyright Act, 1957, are exempted from stamp duty.
+* Co-partnership deed is charged with a duty under partnership (No. 46).
+
+The document also provides for certain exemptions and state amendments to the stamp duty rates.
+Summary:
+
+The document presents a table of stamp duties for various legal instruments in India, as per the Indian Stamp Act, 1899. The table outlines the proper stamp duty for each instrument, which is the amount of stamp duty that must be paid when executing a legal document. The table includes various types of instruments, such as bonds, conveyances, leases, and memorandums of association. The stamp duty varies depending on the type of instrument, the value or amount secured, and the term of the instrument. For example, the stamp duty for a bond is different from that of a conveyance or a lease. Similarly, the stamp duty for a lease varies depending on the term of the lease and whether a fine or premium is paid. The table also includes provisions for exemptions and reduced stamp duties for certain types of instruments, such as leases granted to cultivators for the purpose of cultivation without the payment of any fine or premium. Overall, the table provides a comprehensive guide to the stamp duties that must be paid for various legal instruments in India.
+Summary:
+
+The document outlines various Indian laws related to stamp duty on various types of instruments or documents. The following are the key points:
+
+1. Stamp duty on a mortgage deed:
+a. When possession of the mortgaged property is given or agreed to be given, the stamp duty is equal to the market value of the amount secured by the deed.
+b. When possession is not given or agreed to be given, the stamp duty is the same as for a bond for the amount secured by the deed.
+c. When a collateral or auxiliary security is given, the stamp duty is three rupees for every sum secured not exceeding Rs. 1,000 and four rupees for every Rs. 1,000 or part thereof in excess of Rs. 1,000.
+2. Exemptions:
+a. Instruments executed by persons taking advances under the Land Improvement Loans Act, 1983 or the Agriculturists Loans Act, 1884, or by their sureties as security for the repayment of such advances.
+b. Letter of hypothecation accompanying a bill of exchange.
+c. Notarial Act, that is to say, instrument, endorsement, note attestation certificate or entry not being a protest made or signed by a Notary Public in the execution of the duties of his office or by any other person lawfully acting as notary public.
+d. Note or Memorandum sent by a Broker or Agent to his Principal intimating the purchase or sale on account of such principal.
+e. Note of Protest by the Master of Ship.
+3. Partition-Instrument of:
+a. The same duty as a Bond (No. 15) for the amount or the value of the separated share or shares of the property.
+b. When an instrument of partition containing an agreement to divide property in severalty is executed and a partition is effected in pursuance of such agreement, the duty chargeable upon the instrument effecting such partition shall be reduced by the amount of duty paid in respect of the first instrument, but shall not be less than three rupees and thirty paise.
+4. Partnership-Instrument of:
+a. Where the capital of the partnership does not exceed Rs. 1,000, the stamp duty is the same as the Bond (No. 15).
+b. In any other case, the stamp duty is Rupees one hundred.
+5. Power of Attorney:
+a. When executed for the sole purpose of procuring the registration of one or more documents in relation to a single transaction or for admitting execution of one or more such documents, the stamp duty is Fifteen rupees.
+b. When required in suit or proceedings under the Presidency Small Cause Courts Act, 1882, the stamp duty is Fifty rupees.
+c. When authorising one person or more to act in a single transaction other than the case mentioned in clause (a), the stamp duty is One hundred rupees.
+6. Settlement:
+a. Instrument of (including a deed of dower), the stamp duty is the same as a conveyance (No. 23).
+b. Revocation of, or concerning, any property when made by instrument, any other than a will, the stamp duty is the same as a Bond (No. 15) for a sum equal to the amount or value of the property concerned, as set forth in the instrument, but not exceeding thirty rupees.
+7. Transfer of Lease by way of assignment and not by conveyance (No. 23) for a market value equal to the amount of the market value for the transfer.
+8. Exemptions:
+a. Transfer of any lease exempt from duty.
+
+The document also includes a table of stamp duty rates for various types of instruments, such as Administration Bond, Adoption-Deed, Affidavit, Agreement or Memorandum of Agreement, Agreement relating to Deposit of Title Deeds, Pawn or Pledge, and so on. The rates of stamp duty vary depending on the type of instrument and its value.
+Summary:
+The document discusses various Indian laws related to stamp duty on legal instruments. It explains the distinction between a transaction of hypothecation and a transaction of pledge, with hypothecation not requiring possession of goods to pass on to the creditor. An agreement of hypothecation is covered by Cl. (e) of Art. 5 of Schedule-I to the Stamp Act and requires a stamp of Rs. 11.50. A deed of pawn or pledge requires the possession of goods to pass on to the pawnee, and the mischief of Art. 6(2) of Schedule-I to the Stamp Act does not apply to a deed where the possession of hypothecated goods remains with the debtor. The document also discusses other legal instruments such as appointment in execution of a power, appraisement or valuation, apprenticeship-deed, articles of association of a company, articles of clerkship, award, bill of exchange, bill of lading, bond, cancellation, certificate of sale, certificate or other document, charter party, cheque, composition-deed, conveyance, conveyance in the nature of part performance, copy or extract, counterpart or duplicate, customs-bonds, debenture, declaration of any trust, deed of family settlement, deed of guarantee, deed of indemnity, deed of lease, deed of mortgage, deed of partnership, deed of settlement, deed of service, deed of trust, draft agreement, draft conveyance, letter of attorney, letter of administration, memorandum of association of a company, mortgage-deed, notice, power of attorney, proxy, receipt, release, rule, sale, settlement, and surrender of lease, among others. Each legal instrument has a specified rate of stamp duty, with some exemptions provided for certain instruments. The document also provides comments on some legal concepts, such as the distinction between a case of retirement and that of dissolution in the context of a partnership and the difference between a transfer and a release in the context of conveyance of property.
+Summary:
+
+The document provided is a list of legal instruments and their corresponding stamp duty rates in India. The list includes various types of legal documents, such as agreements, bonds, deeds, leases, licenses, memorandums, mortgages, policies, powers of attorney, promissory notes, protests, receipts, and releases.
+
+Some of the key legal concepts mentioned in the document are:
+
+* Trust: The document refers to Trust (No. 64) and Trust (No. 6), which indicate that trusts are legal entities that can hold and manage property for the benefit of others.
+* Dissolution of Partnership: The document mentions Partnership (No. 46), indicating that partnerships are legal relationships between two or more individuals who agree to carry on a business together for profit.
+* Divorce: The document includes Divorce, Instrument of (No. 36), which suggests that divorce is a legal process that requires a formal instrument to dissolve a marriage.
+* Entry as an Advocate, Vakil or Attorney: The document mentions Entry as an Advocate, Vakil or Attorney on the roll of the High Court (No. 37), indicating that lawyers must be registered with the High Court to practice law.
+* Gift: The document includes Gift, Instrument of (No. 33), which suggests that gifts of property are legal transactions that require a formal instrument.
+* Lease: The document mentions Lease (No. 43), which indicates that leases are legal agreements that grant the right to use and occupy property for a specified period of time.
+* Memorandum of Association: The document includes Memorandum of Association of a Company (No. 39), which suggests that companies are legal entities that require a formal memorandum of association to define their purpose, scope, and powers.
+* Mortgage: The document mentions Mortgage-Deed (No. 40), indicating that mortgages are legal transactions that involve the transfer of an interest in property as security for a loan.
+* Partition: The document includes Partition (No. 45), which suggests that partition is a legal process that divides property among co-owners.
+
+The document also provides specific stamp duty rates for each type of legal instrument, which vary depending on the value of the property or transaction involved. The rates range from 0.05% to 6% of the value of the property or transaction, with a minimum and maximum amount specified for each instrument. The document also includes exemptions for certain types of legal instruments and explanations for specific provisions.
+Summary:
+
+The document provided is a table listing various instruments and their corresponding stamp duty rates according to the Indian Stamp Act. The table is divided into articles, each describing a specific type of instrument. Some articles include exemptions from stamp duty or comments on the instrument's legal implications.
+
+Article 56 pertains to a release deed, which contains 0.05% of the market value of the released property, subject to a minimum of rupees one hundred and a maximum of rupees one thousand and duty rounded off to the nearest rupees ten. However, a release deed cannot transfer title but can only feed title, meaning it can only enlarge the right of a person who already has title to the estate.
+
+Article 57 pertains to a security-bond or mortgage deed, which contains 0.05% of the secured amount, subject to the same minimum and maximum as a release deed. This article also includes exemptions for bonds executed for securing loans on cargo laden or to be laden on a ship, or for guaranteeing that the local income derived from private subscriptions to a charitable dispensary or hospital or any other object of public utility, shall not be less than a specified sum per mensem.
+
+Article 58 pertains to a settlement, which contains 0.05% of the market value of the settled property, subject to the same minimum and maximum as a release deed. This article includes an exemption for deeds of dower executed on the occasion of a marriage between Muhammadans.
+
+Article 59 pertains to share warrants, which contain the same duty as payable on a mortgage deed with possession for the amount equal to the nominal amount of the shares specified in the warrant. This article includes exemptions for shares warrant when issued by a company in pursuance of the Companies Act, 1956, section 114, to have effect only upon payment, as composition for that duty, to the Collector of stamp-revenue of one-and-a-half percentum of the whole subscribed capital of the company or if any company which has paid the said duty or composition in full, subsequently issues an addition to its subscribed capital-one-and-a-half percentum of the additional capital so issued.
+
+Article 60 pertains to a ten rupees shipping order, which contains ten rupees. This article includes an exemption for surrender of lease when such lease is exempted from duty.
+
+Article 61 pertains to transfer, which contains the same duty as levied by this Act for transfer of shares in an incorporated company or other body corporate, debentures, being marketable securities, bond, mortgage-deed or policy of insurance, property under the Administrator General's Act, 1913, Section 25, or any trust-property without consideration from one trustee to another trustee, or from a trustee to a beneficiary. This article includes exemptions for transfers by endorsement of a bill of exchange, cheque or promissory note, a bill of lading, delivery order, warrant for goods, or other mercantile document of title to goods, a policy of insurance, or securities of the Central Government.
+
+Article 62 pertains to transfer of lease, which contains the same amount of such transfer. This article includes an exemption for transfer of any lease exempt from duty.
+
+Article 64 pertains to trust, which contains two hundred rupees when made by any writing not being a Will, and fifty rupees when made by any instrument other than a Will. This article includes comments on religious or charitable endowments, which do not fall within the purview of the Trusts Act, and accordingly, Article 64 cannot be pressed into service in cases which deal with charitable trusts.
+
+The table also includes an amendment to Schedule I-A to the principal Act, which increases the stamp duty rates for certain articles.
+Summary:
+
+The document summarizes amendments to the Indian Stamp Act, 1899. The following are some of the key changes:
+
+* The stamp duty for a Bottomry Bond, which is an instrument where the master of a sea-going ship borrows money on the security of the ship, is now the same as that for a Bond.
+* The stamp duty for a Certificate or Other Document evidencing the right or title to shares, scrip, or stock in a company or body corporate is now one rupee.
+* The stamp duty for a Conveyance, which is the transfer of ownership of property, has been revised. In the case of movable property, the stamp duty is four per centum of the amount or value of the consideration as set forth in the instrument. In the case of immovable property, the stamp duty is eight per centum of the amount or value of the consideration for the conveyance as set forth in the instrument or the market value of the property, whichever is higher.
+* The stamp duty for a Multi-unit house or unit of apartment/flat/portion of a multistoried building or part of such structure has also been revised. The stamp duty is three per centum of the amount if the amount or value of the consideration for such conveyance as set forth in the instrument or the market value of the property, whichever is higher, does not exceed rupees 5 lakhs. If the amount or value of the consideration exceeds rupees 5 lakhs but does not exceed rupees 15 lakhs, the stamp duty is four per centum of the amount. If the amount or value of the consideration exceeds rupees 15 lakhs, the stamp duty is seven per centum of the amount.
+* The stamp duty for a Letter of Allotment of Shares in any company or proposed company, or in respect of any loan to be raised by any company or proposed company, is now one rupee.
+* The stamp duty for an Agreement to Sell any immovable property or a Power of Attorney has been revised. If the possession of such property is transferred before, at, or after the execution of such agreement or power of attorney, it will be deemed to be a conveyance and the stamp duty on such agreement or power of attorney will be adjusted towards the total amount of duty chargeable on the conveyance.
+* Exemptions have been provided for the Assignment of Copyright under the Copyright Act, 1957, and Co-partnership deed.
+* The stamp duty for various other instruments, such as a Lease, a Release, a Power of Attorney, etc., has also been revised.
+
+It is important to note that these amendments to the Indian Stamp Act, 1899, will come into force on a date to be notified by the Central Government. It is also important to consult the relevant authorities for the most up-to-date information on stamp duty rates and exemptions.
+Summary:
+
+The document contains amendments to the Indian Stamp Act, 1899, specifically in relation to the state of Odisha. The amendments include changes to the proper stamp duty for various instruments, exemptions from surcharges, and the repeal of certain acts.
+
+In Schedule 1-A of the Act, there are several amendments to articles and clauses. For example, in Article 23, the explanation and provisos have been substituted with a new explanation that deems an agreement to sell involving delivery of possession of immovable property or a power of attorney as a conveyance, subject to market value of the property. Additionally, in Article 48, the proper stamp duty against clauses (a), (b), (c), (d), and (e) have been substituted with new amounts. Clause (g) has been substituted with a new clause (g) and (h) has been added.
+
+The document also includes the repeal of the Orissa Additional Stamp Duty Act, 1970, and the exemption of surcharges on stamp duties for certain instruments.
+
+Overall, the document is focused on amending the Indian Stamp Act, 1899, as it applies to Odisha, with changes to stamp duties, exemptions, and the repeal of certain acts.
+Summary:
+
+The Indian Stamp Act, 1899 outlines the stamp duty that must be paid on various legal instruments and documents. The Act includes definitions for various legal terms, such as "apprenticeship deed," which is defined as any writing relating to the service or tuition of an apprentice, clerk, or servant placed with a master to learn a profession, trade, or employment, not being articles of clerkship. The Act also defines "articles of association of a company" as the articles of any association not formed for profit and registered under section 25 of the Companies Act, 1956.
+
+The Act specifies the stamp duty for various legal instruments, such as awards, bonds, conveyances, and counterparts. For example, the stamp duty for a bond not being a debenture and not being otherwise provided for by this Act or by the Court Fees Act, 1870 is as follows: where the amount or value secured does not exceed Rs. 10, the stamp duty is 32 naye paise; where it exceeds Rs. 10 and does not exceed Rs. 50, the stamp duty is 44 naye paise; where it exceeds Rs. 50 and does not exceed Rs.100, the stamp duty is 44 naye paise; and so on, with the stamp duty increasing for each additional Rs. 1,000 or part thereof in excess of Rs. 5,000.
+
+The Act also includes exemptions from stamp duty for certain instruments, such as apprenticeship deeds executed by a Magistrate under the Apprentices Act, 1850 or by which a person is apprenticed by or at the charge of any public charity. The Act also exempts articles of any association not formed for profit and registered under section 25 of the Companies Act, 1956 from stamp duty.
+
+It is important to note that the stamp duty rates and exemptions listed in the Indian Stamp Act, 1899 may have been updated or amended since the Act's original enactment. It is always a good idea to consult the most recent version of the Act or seek legal advice to ensure compliance with the current stamp duty requirements.
+Summary:
+In this document, various legal terms and instruments related to Indian laws are defined and explained. Here are some of the key terms:
+
+1. Partnership: A legal form of business operation between two or more individuals who share management and profits.
+2. Divorce: The dissolution of a marriage through a legal process, which may involve the execution of an instrument of divorce.
+3. Dower: A provision made by a Muslim husband for his wife in the event of his death, usually in the form of property or maintenance.
+4. Duplicate: A copy of a legal instrument, such as a contract or deed.
+5. Exchange of Property: The transfer of ownership of property from one party to another in exchange for other property of equal value.
+6. Extract: A copy of a document or record, such as a court judgment or company registration.
+7. Further Charge: A legal instrument that imposes an additional charge or liability on mortgaged property, subject to certain conditions and considerations.
+8. Gift: A legal instrument that transfers ownership of property from one party to another without consideration, except for nominal consideration.
+9. Indemnity Bond: A legal instrument that provides a guarantee or assurance against loss or damage to another party.
+10. Lease: A legal agreement between a property owner (lessor) and a tenant (lessee) that grants the tenant the right to use the property for a specified period and amount of rent.
+11. Letter of Guarantee: A legal instrument that guarantees the performance or fulfillment of an obligation by one party to another.
+12. Letter of Licence: A legal agreement between a debtor and creditor that suspends the creditor's claims for a specified period, allowing the debtor to carry on business at their own discretion.
+13. Memorandum of Association of a Company: A legal document that sets out the objectives, scope, and powers of a company, accompanied by articles of association under the Companies Act, 1956.
+14. Mortgage-Deed: A legal instrument that creates a security interest in property for the repayment of a debt or loan, subject to certain conditions and considerations.
+15. Notarial Act: A legal instrument that is executed or signed by a Notary Public or other authorized person in the performance of their official duties.
+16. Partition: A legal process that divides jointly-owned property among co-owners, usually through a legal instrument of partition.
+
+These definitions and explanations provide a general overview of the legal terms and instruments discussed in the document. However, it is important to note that these definitions may vary depending on the specific context and jurisdiction in which they are applied. Therefore, it is recommended to consult relevant legal authorities or professionals for more detailed guidance and advice.
+Summary:
+
+The document outlines various provisions related to Indian laws, specifically focusing on the stamp duty payable on certain instruments.
+
+1. Partition:
+	* Where a partition is effected in pursuance of an agreement, the duty chargeable on the instrument effecting such a partition shall be reduced by the amount of duty paid in respect of the first instrument but shall not be less than one rupee and thirty-eight naye paise.
+	* Where land is held on Revenue Settlement for a period not exceeding thirty years and paying the full assessment, the value for the purpose of duty shall be calculated at not more than five times the annual revenue.
+	* Where a final order for effecting a partition passed by any Revenue authority or any Civil Court, or an award by an arbitrator directing a partition, is stamped with the stamp required for an instrument of partition, in pursuance of such order or award is subsequently executed, the duty on such instrument shall not exceed one rupee and thirty-eight naye paise.
+2. Partnership:
+	* The instrument of partnership shall be charged with duty as follows:
+		+ If the capital of the partnership does not exceed Rs. 500, the duty shall be one rupee and thirty-eight naye paise.
+		+ In any other case, the duty shall be thirty-seven rupees and fifty naye paise.
+3. Dissolution of Partnership:
+	* The instrument containing the dissolution of a partnership shall be charged with duty as follows:
+		+ If the total amount of capital does not exceed Rs. 500, the duty shall be one rupee and thirty-eight naye paise.
+		+ In any other case, the duty shall be eighteen rupees and seventy-five naye paise.
+4. Pawn or Pledge:
+	* An agreement relating to the deposit of title-deeds as pawn or pledge shall be charged with duty as follows:
+		+ If the value of the property does not exceed Rs. 1,000, the duty shall be two rupees and eight-two naye paise.
+		+ In any other case, the duty shall be twenty-eight rupees and twelve naye paise.
+5. Power of Attorney:
+	* A power of attorney, not being a proxy, shall be charged with duty as follows:
+		+ When executed for the sole purpose of procuring the registration of one or more documents in relation to a single transaction or for admitting execution of one or more such documents, the duty shall be one rupee and thirty-eight naye paise.
+		+ When required in suits or proceedings under the Presidency Small Cause Courts paise Act, 1882, the duty shall be one rupee and thirty-eight naye paise.
+		+ When authorizing one person or more to act in a single transaction other than the case mentioned in clause (a), the duty shall be two rupees and eight-two naye paise.
+		+ When authorizing not more than five persons to act jointly and severally in more than one transaction or generally, the duty shall be fourteen rupees and six naye paise.
+		+ When authorizing more than five but not more than ten persons to act jointly and severally in more than one transaction or generally, the duty shall be twenty-eight rupees and twelve naye paise.
+		+ When given for consideration and authorizing the attorney to sell any immovable property, the duty shall be the same as a conveyance for the amount of such consideration.
+		+ In any other case, the duty shall be two rupees and eighty-two naye paise for each person authorized.
+6. Protest of Bill or Note:
+	* A protest of bill or note shall be charged with duty of three rupees and seventy-five naye paise.
+7. Protest by the Master of a Ship:
+	* A protest by the master of a ship shall be charged with duty of three rupees and seventy-five naye paise.
+8. Reconveyance of Mortgaged Property:
+	* The duty on a reconveyance of mortgaged property shall be as follows:
+		+ If the consideration for which the property was mortgaged does not exceed Rs. 1,000, the duty shall be the same as a conveyance for the amount of such consideration.
+		+ In any other case, the duty shall be twenty-eight rupees and twelve naye paise.
+9. Release:
+	* A release shall be charged with duty as follows:
+		+ If the amount or value of the claim does not exceed Rs. 1,000, the duty shall be the same as a bottomry bond for such amount or value as set forth in the release.
+		+ In any other case, the duty shall be fourteen rupees and six naye paise.
+10. Respondentia Bond:
+	* A respondentia bond shall be charged with duty of the same amount as a bottomry bond for the amount of the loan secured.
+11. Revocation of Any Trust or Settlement:
+	* The revocation of any trust or settlement shall be charged with duty as follows:
+		+ If the amount or value of the property concerned does not exceed twenty-eight rupees and twelve naye paise, the duty shall be the same as a bottomry bond for such amount or value as set forth in the instrument of revocation.
+		+ In any other case, the duty shall not exceed forty-two rupees and twenty naye paise.
+12. Security Bond or Mortgage Deed:
+	* A security bond or mortgage deed executed by way of security for the due execution of an office or to account for money or other property received by virtue thereof, or executed by a surety to secure the due performance of a contract, shall be charged with duty as follows:
+		+ When the amount secured does not exceed Rs. 1,000, the duty shall be the same as a bottomry bond for the amount secured.
+		+ In any other case, the duty shall be fourteen rupees and six naye paise.
+13. Exemptions:
+	* The following instruments are exempted from duty:
+		+ Instruments executed by headmen nominated under rules framed in accordance with the Bengal Irrigation Act, 1876, section 99 for the due performance of their duties under that Act.
+		+ Instruments executed by any person for the purpose of guaranteeing that the local income derived from private subscriptions to a charitable dispensary or hospital or any other subject or public utility shall not be less than a specified sum per mensem.
+		+ Instruments executed by persons taking advances under the Land Improvement Loans Act, 1883, or the Agriculturists Loans Act, 1884, or by their sureties, as security for the repayment of such advances.
+		+ Instruments executed by officers of the Government or their sureties to secure the due execution of an office, or the due accounting for money or other property received by virtue thereof.
+14. Settlement:
+	* An instrument of settlement shall be charged with duty as follows:
+		+ If the amount or value of the property settled does not exceed the amount or value of the property concerned, as set forth in such settlement, the duty shall be the same as a bottomry bond for such amount or value as set forth in such settlement.
+		+ Provided that, where an agreement to settle is stamped with the stamp required for an instrument of settlement and an instrument of settlement in pursuance of such agreement is subsequently executed, the duty on such instrument shall not exceed one rupee and thirty-eight naye paise.
+15. Share Warrants to Bearer:
+	* Share warrants to bearer issued under the Companies Act, 1956, shall be charged with duty of one and a half times the duty payable on a conveyance for a consideration equal to the nominal amount of the shares specified in the warrant.
+16. Surrender of Lease:
+	* The surrender of lease shall be charged with duty as follows:
+		+ If the duty with which the lease is chargeable does not exceed seven rupees and fifty paise, the duty on such surrender shall be the same.
+		+ In any other case, the duty shall be fourteen rupees and six naye paise.
+17. Transfer:
+	* The transfer of any interest secured by a bond or mortgage deed shall be charged with duty as follows:
+		+ If the duty on such bond or mortgage deed is chargeable and does not exceed seven rupees and fifty paise, the duty on such transfer shall be the same.
+		+ In any other case, the duty shall be fourteen rupees and six naye paise.
+18. Transfer or Lease by Way of Assignment and Not by Way of Lease:
+	* The transfer or lease by way of assignment and not by way of lease shall be charged with duty as follows:
+		+ If the consideration for the transfer is equal to the amount of the consideration for the lease, the duty on such transfer shall be the same as a conveyance for such consideration.
+19. Trust-A-Declaration of:
+	* A declaration of trust shall be charged with duty as follows:
+		+ If the amount or value of the property concerned is set forth in the instrument, the duty shall be the same as a bottomry bond for such amount or value, but not exceeding forty-two rupees and twenty naye paise.
+20. Warrant for Goods:
+	* A warrant for goods shall be charged with duty of seventy-five naye paise.
+Summary:
+
+The Indian Stamp (Orissa Amendment) Act, 1986 amends the Schedule 1-A of the principal Act regarding stamp duty on certain instruments. The amended Schedule 1-A contains a description of the instrument and the proper stamp-duty for each instrument. The instruments listed include administration bond, agreement or memorandum of agreement, agreement relating to deposit of title-deeds, pawn or pledge, articles of association of a company, articles of clerkship, award, bond, bottomry bond, customs bond, indemnity bond, and others. Exemptions are provided for certain instruments, such as apprenticeship executed by a Magistrate under the Apprentices Act, 1850 or by which a person is apprenticed by or at the charge of any public charity. The stamp-duty varies depending on the amount or value secured by the instrument. For example, for a bond where the amount or value secured does not exceed Rs. 10, the stamp-duty is thirty-five paise, while for a bond where it exceeds Rs. 100 and does not exceed Rs. 200, the stamp-duty is one rupee and twenty-five paise. The schedule also provides for a note stating that the articles in Schedule 1-A are numbered so as to correspond with similar articles in Schedule 1.
+Summary:
+
+The document outlines various legal instruments and their respective duties or fees as per the Indian Stamp Act. The Act categorizes instruments based on their purpose and value, and assigns a duty or fee for each category. Some of the key instruments mentioned in the document are:
+
+1. Release (No.55) - A document used to cancel or release a previously executed instrument.
+2. Revocation of Settlement (No. 58-B) - A document used to revoke a previously executed settlement.
+3. Surrender of Lease (No.61) - A document used to surrender a previously executed lease.
+4. Revocation of Trust (No. 64-B) - A document used to revoke a previously executed trust.
+5. Certificate of Sale (No.23) - A certificate granted to the purchaser of a property sold by public auction by a Civil or Revenue Court, Collector, or Revenue Officer.
+6. Charter Party - An agreement for the hire of a vessel or its principal parts.
+7. Composition Deed (No.22) - An agreement between a debtor and his creditors, where the debtor conveys his property for the benefit of his creditors and provides for the continuance of his business under supervision.
+8. Conveyance (No.23) - A document used to transfer ownership of property from one party to another. The duty or fee for a conveyance depends on the value of the consideration.
+9. Copy or Extract - A certified true copy or extract of a public document, not chargeable with duty.
+10. Counterpart or Duplicate - A counterpart or duplicate of an instrument, chargeable with duty and in respect of which the proper duty has been paid.
+11. Customs Bond - A bond used in customs transactions, with duties varying based on the amount.
+12. Declaration of Trust - A document declaring the creation of a trust.
+13. Deposit of Title-Deeds - An agreement relating to the deposit of title-deeds, pawn, or pledge.
+14. Dissolution of Partnership - A document used to dissolve a partnership.
+15. Divorce - An instrument of divorce, used to dissolve a marriage.
+16. Exchange of Property - A document used to exchange property between parties, with duties based on the value of the property.
+17. Further Charge - A document imposing a further charge on mortgaged property, with duties based on the value of the charge.
+18. Gift - A document used to transfer property as a gift, not being a settlement, will, or transfer.
+19. Hiring Agreement or Agreement for Service - An agreement for the hiring of a person or their services.
+20. Indemnity Bond - A bond used to indemnify or compensate for loss or damage.
+21. Inspectorship Deed - An agreement used in composition deeds, where a debtor conveys his property for the benefit of his creditors.
+22. Lease - An agreement to let or sub-let property, with duties based on the term of the lease and the rent reserved.
+23. Letter of Guarantee - An agreement used to guarantee or secure the performance of an obligation.
+24. Letter of Licence - An agreement between a debtor and his creditors, allowing the debtor to carry on business at his own discretion for a specified time.
+25. Memorandum of Association of a Company - A document outlining the purpose and structure of a company, with duties based on the authorized capital.
+
+The duties or fees for each instrument are provided in the document, with varying amounts based on the value or purpose of the instrument. The Act also includes several exemptions for specific instruments and situations. The Act aims to regulate and standardize the stamping of legal documents in India, ensuring their validity and legal recognition.
+The document provided is a table listing various legal instruments and their associated stamp duties under the Indian Stamp Act, 1899. The table includes the name of the legal instrument, a brief description of the instrument, and the stamp duty required for each instrument. The instruments are categorized into different sections, such as conveyances, mortgages, powers of attorney, protests, and settlements.
+
+One example of a legal instrument listed in the table is a conveyance deed. A conveyance deed is a legal document that transfers the ownership of property from one person to another. According to the table, the stamp duty for a conveyance deed is as follows:
+
+* If the consideration for the property does not exceed Rs. 1,000, the stamp duty is Rs. 23.
+* In any other case, the stamp duty is Rs. 45.
+
+The table also includes legal instruments related to Indian laws, such as the Companies Act, 1956, and the Land Improvement Loans Act, 1883. For instance, an exemption memorandum of any association not formed for profit and registered under section 25 of the Companies Act, 1956 requires a stamp duty of Rs. 22. Similarly, instruments executed by persons taking advances under the Land Improvement Loans Act, 1883 or the Agriculturists Loans Act, 1884, or by their sureties as security for the repayment of such advances, are exempted from stamp duties.
+
+In summary, the document is a table that lists various legal instruments and their associated stamp duties under the Indian Stamp Act, 1899. The table includes a wide range of legal instruments, including conveyances, mortgages, powers of attorney, protests, and settlements. The stamp duties for each instrument are clearly stated in the table, and the table also includes legal instruments related to Indian laws, such as the Companies Act, 1956, and the Land Improvement Loans Act, 1883.
+Summary:
+The document provides information about various stamp duties on certain instruments under the Indian Stamp (Orissa Amendment) Act, 1986. The schedule of stamp duties includes various instruments such as administration bond, adoption deed, affidavit, agreement or memorandum of agreement, agreement relating to deposit of title-deeds, pawn or pledge, appointment in execution of a power, appraisement or valuation, articles of association of a company, award, and authority to adopt.
+
+The stamp duty for an administration bond is the same as a bond for a specific amount, while the stamp duty for an adoption deed is two hundred rupees. The stamp duty for an affidavit is ten rupees, except in certain cases where it is exempted, such as when made as a condition of enrolment under the Army Act, 1950 or the Air Force Act, 1950, for the immediate purpose of being filed or used in any court or before the officer of any court, or for the sole purpose of enabling any person to receive any pension or charitable allowance.
+
+The stamp duty for an agreement or memorandum of agreement varies depending on the subject matter of the agreement. For instance, if it relates to the sale of a government security or share in an incorporated company or other body corporate, the stamp duty is three rupees or one and a half percent of the value of the security or share, whichever is higher. However, if the agreement relates to the sale of goods or merchandise exclusively, the stamp duty is not chargeable.
+
+The stamp duty for an agreement relating to deposit of title-deeds, pawn or pledge is determined by the amount of loan or debt secured by the deposit, pawn or pledge. The stamp duty ranges from 0.40 rupees for a loan or debt of up to 100 rupees to 41.25 rupees for a loan or debt of up to 10,000 rupees, and increases by 4.15 rupees for every additional 10,000 rupees or part thereof.
+
+The stamp duty for an appointment in execution of a power is the same as a conveyance for a specific amount, while the stamp duty for an appraisement or valuation is the same as a bottomry bond for the amount or value of the property appraised or valued. The stamp duty for articles of association of a company is five rupees, except in certain cases where it is exempted, such as when the association is not formed for profit and is registered under section 25 of the Companies Act, 1956.
+
+The stamp duty for an award is the same as a bottomry bond for the amount or value of the property to which the award relates, while the stamp duty for an authority to adopt is two hundred rupees.
+
+Overall, the document provides a comprehensive schedule of stamp duties on various instruments under the Indian Stamp (Orissa Amendment) Act, 1986, which are to be paid while executing or registering the instruments.
+Summary:
+The document outlines various legal terms and provisions related to Indian laws. Here are some key points:
+
+1. Court Fees Act, 1870: The document specifies the court fees for various legal instruments, such as bonds, conveyances, and leases. The fees vary depending on the amount or value secured.
+2. Bonds: The document covers different types of bonds, such as administration bonds, bottomry bonds, customs bonds, indemnity bonds, and security bonds. Each bond has a specific purpose and is subject to different fees.
+3. Cancellation: The document specifies the fees for cancelling an instrument, including any instrument by which a previous instrument is cancelled.
+4. Certificate of Sale: The document specifies the fees for a certificate of sale granted to the purchaser of any property sold by public auction by a Civil or Revenue Court or Collector or the Revenue Officer.
+5. Charter Party: The document defines a charter party as an agreement for the hire of a vessel or some specified principal part thereof for specified purposes.
+6. Composition Deed: The document defines a composition deed as an instrument executed by a debtor whereby he conveys his property for the benefit of his creditors or secures payment of a composition or dividend to his creditors.
+7. Conveyance: The document specifies the fees for a conveyance, which is an instrument transferring or assigning an interest in property.
+8. Counterpart or Duplicate: The document specifies the fees for a counterpart or duplicate of an instrument, which is an exact copy of the original instrument.
+9. Customs Bond: The document specifies the fees for a customs bond, which is a bond given to secure the payment of customs duties.
+10. Declaration of Trust: The document specifies the fees for a declaration of trust, which is an instrument declaring the trustee's intention to hold property for the benefit of another person.
+11. Dissolution of Partnership: The document specifies the fees for dissolving a partnership.
+12. Divorce: The document specifies the fees for an instrument of divorce, which is an instrument effecting the dissolution of marriage.
+13. Dower: The document specifies the fees for an instrument of dower, which is an instrument settling property on a wife or husband for their lifetime.
+14. Duplicate: See Counterpart.
+15. Exchange of Property: The document specifies the fees for an instrument of exchange of property, which is an instrument exchanging one property for another.
+16. Extract: See Copy.
+17. Further Charge: The document specifies the fees for an instrument of further charge, which is an instrument imposing a further charge on mortgaged property.
+18. Gift: The document specifies the fees for an instrument of gift, which is an instrument transferring property as a gift.
+19. Hiring Agreement or Agreement for Service: The document specifies the fees for an agreement for hiring or service, which is an agreement between an employer and employee.
+20. Indemnity Bond: The document specifies the fees for an indemnity bond, which is a bond given to secure another person against loss or damage.
+21. Inspectorship Deed: See Composition Deed.
+22. Lease: The document specifies the fees for a lease, which is an agreement to let property for a specified period.
+23. Release: The document specifies the fees for a release, which is an instrument releasing or discharging a debt or obligation.
+24. Revocation of Settlement: The document specifies the fees for revoking a settlement, which is an instrument altering or terminating a previous settlement.
+25. Surrender of Lease: The document specifies the fees for surrendering a lease, which is an instrument terminating a lease before its expiration.
+26. Trust: The document specifies the fees for a trust, which is an instrument declaring the trustee's intention to hold property for the benefit of another person.
+27. Will: The document specifies the fees for a will, which is an instrument declaring the testator's intention regarding the distribution of their property after their death.
+Summary:
+
+The document outlines the stamp duty rates for various legal instruments in India. The rates are determined based on the type of instrument, its purpose, and the value or consideration involved. Here are the key points:
+
+1. Lease Deeds: The stamp duty for lease deeds varies based on the term of the lease and the rent reserved. For leases up to one year or with an average annual rent of up to 100 rupees, the duty is 0.5% of the rent. For leases exceeding one year but not exceeding 100 years, the duty is 1% of twice the average annual rent. For leases exceeding 100 years or in perpetuity, the duty is 1.5% of three times the average annual rent. For leases without a definite term, the duty is 0.166% of the whole amount of rent for the first 50 years. If the lease is granted for a fine or premium, the duty is 1.5% of the amount or value of the fine or premium.
+2. Conveyance Deeds: The stamp duty for conveyance deeds is 4% of the market value of the property, subject to a minimum of 100 rupees.
+3. Memorandum of Association: The stamp duty for a memorandum of association is 50 rupees if accompanied by articles of association, and 500 rupees if not.
+4. Mortgage Deeds: The stamp duty for mortgage deeds is 0.25% of the amount secured, subject to a minimum of 3 rupees. If possession of the property is given, the duty is 3 rupees for every 1,000 rupees secured. If a collateral or auxiliary security is given, the duty is 3 rupees for every 1,000 rupees secured.
+5. Partnership Deeds: The stamp duty for partnership deeds is 20 rupees if the capital does not exceed 500 rupees, and 100 rupees in any other case.
+6. Power of Attorney: The stamp duty for a power of attorney is 50 rupees for procuring the registration of one or more documents in relation to a single transaction, 5 rupees for authorizing one person to act in a single transaction, 50 rupees for authorizing not more than five persons to act jointly and severally in more than one transaction, and 100 rupees for authorizing more than five but not more than ten persons to act in the same manner.
+7. Protest of Bill or Note: The stamp duty for a protest of bill or note is 10 rupees.
+8. Other Instruments: The stamp duty for other instruments, such as notes or memorandums sent by a broker or agent, letters of guarantee, and notarial acts, varies based on the value or consideration involved.
+
+It is important to note that the rates mentioned in this document are subject to change and may vary based on the state or union territory in which the instrument is executed. It is advisable to consult the relevant state or union territory authorities for the most up-to-date rates.
+Summary:
+
+The document summarizes various Indian laws related to stamps on legal instruments. The main focus is on the duty required to be paid on different types of instruments, which ranges from one rupee to forty-two rupees. Some of the instruments mentioned include conveyance, bottomry bond, release, respondentia bond, security bond or mortgage deed, revocation of any trust or settlement, exemption bond, settlement, trust declaration, warrant for goods, transfer, transfer or lease by way of assignment, and trust-a-declaration of trust. The duty required to be paid on these instruments depends on the amount or value of the property concerned, the amount or value of the consideration, or the market value of the property. Exemptions are provided for certain instruments, such as those executed by headmen nominated under the Bengal Irrigation Act, 1876, or those executed for the purpose of guaranteeing that the local income derived from private subscriptions to a charitable dispensary or hospital shall not be less than a specified sum per mensem. The document also includes amendments to the Schedule of the Indian Stamp Act, 1899, by the Orissa Act 6 of 1986 and the Tripura Amendment of the Schedule. These amendments relate to the duty required to be paid on certain instruments and the substitution of certain words with others, such as the substitution of 'market value' for 'amount' or 'value'.
+Summary:
+
+The document summarizes various types of legal instruments and their corresponding stamp duty rates in India. These instruments include agreements relating to deposit, pawn, or pledge, bonds, conveyances, mortgages, powers of attorney, and others. The stamp duty rates are determined based on the amount or value secured by these instruments. For example, for an agreement relating to pawn or pledge, the stamp duty is Rs. 5 for every Rs. 1000/- or part thereof if the loan or debt is repayable on demand or more than three months from the date of the instrument, and it does not exceed Rs. 500/-. The duty increases to Rs. 10 for every Rs. 1000/- or part thereof if the loan or debt exceeds Rs. 500/- but does not exceed Rs. 1000/-. Similar rates are provided for other legal instruments. The document also includes certain exemptions to stamp duty, such as for instruments executed by headmen nominated under rules framed in accordance with the Bengal Irrigation Act, 1876, for the purpose of quarantining that the local income derived from private subscriptions to a charitable dispensary, or hospital or any other object of public utility shall not be less than a specified sum per mensem, and for copies of any paper which a public officer is expressly required by law to make or furnish for record in any public office or for any public purpose. The document also includes amendments to the stamp duty rates, such as the substitution of item No. 23 of Schedule-I of the principal Act as inserted by the Union Territories Taxation Laws (Amendment) Act, 1971 (73 of 1971). The amendment substitutes the stamp duty rates for conveyances, where the amount or value of the consideration for such conveyance as set forth therein does not exceed Rs. 50 with a duty of two rupees, and where it exceeds Rs. 50 but does not exceed Rs. 100 with a duty of four rupees, and so on. The document also includes a schedule of enactments repealed.
+Summary:
+
+The document is a table summarizing amendments made to various sections of the Indian Stamp Act, 1899. The table shows the original text of the sections, the amending act and section, and the amended text. The amendments include changes to the definition of terms, alterations to the rates of stamp duty, and the addition or omission of certain provisions. The table also indicates the effective date of the amendments. The Indian Stamp Act, 1899, governs the imposition and payment of stamp duty on various instruments and transactions in India. Stamp duty is a form of tax that is levied on documents that are required for the completion of certain transactions, such as the transfer of property or the execution of contracts. The Act provides guidelines for the calculation and payment of stamp duty, as well as penalties for non-compliance. The amendments made to the Act over the years reflect changes in the economic and legal landscape of the country, as well as the government's efforts to simplify and modernize the tax system.
+Summary:
+
+The document outlines various amendments made to different Indian laws. It includes references to the Indian Stamp Act, 1899, the Negotiable Instruments Act, 1881, the Registration Act, 1908, the Companies Act, 1956, and the Administrator General's Act, 1963, among others. The amendments include changes to the definition of certain terms, such as "cheque" and "one anna or half an anna," and the addition of new sections and articles. Some amendments also repeal or omit certain provisions. For example, the word "cheque" was omitted by the Indian Stamp Act in 1927, and the term "Government" was substituted for "collecting Government" in the Negotiable Instruments Act in 1950. Additionally, the Administrator General's Act, 1963, was amended to include new provisions related to the administration of estates. Overall, the document provides a summary of various legal changes made to Indian laws over time.

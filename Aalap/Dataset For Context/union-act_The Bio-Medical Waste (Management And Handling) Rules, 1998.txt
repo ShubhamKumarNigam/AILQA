@@ -1,0 +1,206 @@
+[ Inserted by S.O. 1069(E), dated 17.9.2003 (w.e.f. 17.9.2003).]
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Returns and inspections .- (1) Every occupier of an institution generating bio-medical waste shall maintain records in Form II and submit periodical returns in Form III to the prescribed authority.
+
+(2)Every operator of a bio-medical waste facility shall maintain records in Form II and submit periodical returns in Form III to the prescribed authority.
+
+(3)The prescribed authority or any officer authorized by it in writing may inspect the records, documents, registers and the premises of any occupier or operator of a bio-medical waste facility at any time during working hours with a view to ensuring compliance with the provisions of the Act and these rules.
+
+(4)The occupier or operator of a bio-medical waste facility shall provide all necessary facilities to the prescribed authority or any officer authorized by it in writing for such inspection.
+
+(5)The prescribed authority shall maintain confidentiality of information obtained from the records, documents, registers and the premises of any occupier or operator of a bio-medical waste facility.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Penalties .-Whoever fails to comply with the provisions of these rules shall be punishable under section 15 of the Act.
+
+nan
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Offences by companies .-Where an offence under these rules has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:Provided that nothing contained in this sub-rule shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.
+
+(2)Notwithstanding anything contained in sub-rule (1), where an offence under these rules has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+Explanation .-For the purposes of this rule, "company" means any body corporate and includes a firm or other association of individuals.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Schedule I - Categories of Bio-Medical Waste
+
+1. Human anatomical waste, including tissues, organs and body parts.
+2. Animal waste, including tissues, organs, body parts and carcasses.
+3. Microbiological waste, including culture dishes, discards, stocks and waste materials from production of biologicals.
+4. Waste sharps, including hypodermic needles, syringes, scalpel blades, broken glass and other sharp items.
+5. Discarded medicines and cytotoxic drugs.
+6. Incineration ash.
+7. Contaminated waste, including swabs, bandages, gloves, masks and other materials contaminated with blood or other bodily fluids.
+8. Contaminated glassware and plasticware.
+9. Solid waste from laboratories.
+10. Liquid waste from laboratories.
+11. Chemical waste, including solvents, reagents and heavy metals.
+12. Genetically modified organisms and/or genetically modified micro-organisms and their waste.
+13. Radioactive waste.
+14. Pathological waste, including human tissues, organs, body fluids and waste materials from surgery and autopsy.
+15. Pressurized containers.
+16. Any other waste materials which may generate infection and pose hazard to health and the environment.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Schedule II - Segregation at Source
+
+1. Human anatomical waste, including tissues, organs and body parts, shall be segregated in yellow coloured bags or containers.
+2. Animal waste, including tissues, organs, body parts and carcasses, shall be segregated in green coloured bags or containers.
+3. Microbiological waste, including culture dishes, discards, stocks and waste materials from production of biologicals, shall be segregated in orange coloured bags or containers.
+4. Waste sharps, including hypodermic needles, syringes, scalpel blades, broken glass and other sharp items, shall be segregated in puncture-resistant containers.
+5. Discarded medicines and cytotoxic drugs shall be segregated in red coloured bags or containers.
+6. Incineration ash shall be segregated in black coloured bags or containers.
+7. Contaminated waste, including swabs, bandages, gloves, masks and other materials contaminated with blood or other bodily fluids, shall be segregated in white coloured bags or containers.
+8. Contaminated glassware and plasticware shall be segregated in separate containers.
+9. Solid waste from laboratories shall be segregated in separate containers.
+10. Liquid waste from laboratories shall be segregated in separate containers.
+11. Chemical waste, including solvents, reagents and heavy metals, shall be segregated in separate containers.
+12. Genetically modified organisms and/or genetically modified micro-organisms and their waste shall be segregated in separate containers.
+13. Radioactive waste shall be segregated in separate containers.
+14. Pathological waste, including human tissues, organs, body fluids and waste materials from surgery and autopsy, shall be segregated in separate containers.
+15. Pressurized containers shall be segregated in separate containers.
+16. Any other waste materials which may generate infection and pose hazard to health and the environment shall be segregated in separate containers.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Schedule III - Labelling of Bio-Medical Waste
+
+1. Human anatomical waste, including tissues, organs and body parts, shall be labelled as "Human Anatomical Waste".
+2. Animal waste, including tissues, organs, body parts and carcasses, shall be labelled as "Animal Waste".
+3. Microbiological waste, including culture dishes, discards, stocks and waste materials from production of biologicals, shall be labelled as "Microbiological Waste".
+4. Waste sharps, including hypodermic needles, syringes, scalpel blades, broken glass and other sharp items, shall be labelled as "Waste Sharps".
+5. Discarded medicines and cytotoxic drugs shall be labelled as "Discarded Medicines and Cytotoxic Drugs".
+6. Incineration ash shall be labelled as "Incineration Ash".
+7. Contaminated waste, including swabs, bandages, gloves, masks and other materials contaminated with blood or other bodily fluids, shall be labelled as "Contaminated Waste".
+8. Contaminated glassware and plasticware shall be labelled as "Contaminated Glassware and Plasticware".
+9. Solid waste from laboratories shall be labelled as "Solid Waste from Laboratories".
+10. Liquid waste from laboratories shall be labelled as "Liquid Waste from Laboratories".
+11. Chemical waste, including solvents, reagents and heavy metals, shall be labelled as "Chemical Waste".
+12. Genetically modified organisms and/or genetically modified micro-organisms and their waste shall be labelled as "Genetically Modified Organisms and/or Genetically Modified Micro-organisms and their Waste".
+13. Radioactive waste shall be labelled as "Radioactive Waste".
+14. Pathological waste, including human tissues, organs, body fluids and waste materials from surgery and autopsy, shall be labelled as "Pathological Waste".
+15. Pressurized containers shall be labelled as "Pressurized Containers".
+16. Any other waste materials which may generate infection and pose hazard to health and the environment shall be labelled as "Other Bio-Medical Waste".
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Schedule IV - Information to be carried on Vehicles Transporting Untreated Bio-Medical Waste
+
+1. Name of the hospital/nursing home/laboratory/clinic/blood bank generating the waste.
+2. Name and address of the person transporting the waste.
+3. Date and time of pick-up.
+4. Type and quantity of waste.
+5. Name and address of the facility where the waste is being transported.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Schedule V - Standards for Treatment and Disposal of Bio-Medical Waste
+
+1. Incineration shall be carried out in a properly designed and engineered incinerator. The incinerator shall be operated at a temperature of not less than 800°C for at least two seconds.
+2. Chemical disinfection shall be carried out using chemicals that are effective against the specific microorganisms present in the waste.
+3. Steam sterilization shall be carried out at a temperature of not less than 100°C for at least one hour.
+4. Microwave irradiation shall be carried out using equipment that is capable of generating microwaves at a frequency of 2450±50 MHz and a power of not less than 300 watts.
+5. Shredding shall be carried out using equipment that is capable of reducing the size of the waste to not more than 25 mm.
+6. Composting shall be carried out using equipment that is capable of maintaining a temperature of not less than 55°C for at least three days.
+7. Thermal inactivation shall be carried out using equipment that is capable of heating the waste to a temperature of not less than 70°C for at least one hour.
+8. Land disposal shall be carried out in a properly designed and engineered landfill. The landfill shall be operated in accordance with the standards prescribed by the Central Pollution Control Board.
+9. Deep burial shall be carried out in a properly designed and engineered deep burial site. The deep burial site shall be operated in accordance with the standards prescribed by the Central Pollution Control Board.
+10. Autoclaving shall be carried out using equipment that is capable of maintaining a temperature of not less than 121°C for at least one hour.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Schedule VI - Time Schedule for Setting up Bio-Medical Waste Treatment Facilities
+
+1. Hospitals and nursing homes with a bed strength of more than 500 shall set up bio-medical waste treatment facilities within one year from the date of commencement of these rules.
+2. Hospitals and nursing homes with a bed strength of 50 to 500 shall set up bio-medical waste treatment facilities within two years from the date of commencement of these rules.
+3. Hospitals and nursing homes with a bed strength of less than 50 shall set up bio-medical waste treatment facilities within three years from the date of commencement of these rules.
+4. Blood banks, pathological laboratories, and other health care establishments shall set up bio-medical waste treatment facilities within three years from the date of commencement of these rules.
+5. All other health care establishments shall set up bio-medical waste treatment facilities within five years from the date of commencement of these rules.
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Form I - Application for Grant of Authorisation
+
+[To be filled in duplicate in all respects]
+
+1. Name of the applicant : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+2. Address of the applicant : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+3. Telephone number : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+4. Fax number : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+5. Email address : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+6. Name of the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+7. Address of the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+8. Category of the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+9. Number of beds in the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+10. Whether the institution is already registered under any law : Yes / No
+
+If yes, specify the name of the law and the registration number : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+11. Whether the institution has any previous history of environmental pollution : Yes / No
+
+If yes, specify the details : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+12. Whether the institution has any previous history of violation of any environmental law : Yes / No
+
+If yes, specify the details : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+13. Details of the bio-medical waste generated by the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+14. Details of the bio-medical waste treatment facilities already set up by the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+15. Details of the proposed bio-medical waste treatment facilities : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+16. Name and address of the authorised person responsible for the handling of bio-medical waste : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+17. Whether the authorised person is a trained person : Yes / No
+
+If yes, specify the details of the training received : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+18. Declaration : I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. I undertake to comply with all the provisions of the Bio-Medical Waste (Management and Handling) Rules, 1998 and any guidelines issued by the Central Government.
+
+Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Place : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Signature of the applicant
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Form II - Record of Bio-Medical Waste Generated
+
+[To be maintained by the occupier of the institution]
+
+1. Name of the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+2. Address of the institution : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+3. Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+4. Category of the waste : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+5. Quantity of the waste : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+6. Mode of treatment : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+7. Name and signature of the person responsible for the handling of the waste : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+The Bio-Medical Waste (Management And Handling) Rules, 1998 
+
+ Form III - Return of Bio-Medical Waste Generated
+
+[To be submitted to the prescribed authority by the occupier of the institution]
+
+1. Name of the institution

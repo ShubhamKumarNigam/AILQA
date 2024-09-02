@@ -1,0 +1,13 @@
+Summary:
+
+The Sale of Goods Act, 1930 is an Act that applies to the whole of India, except the State of Jammu and Kashmir. It defines various terms related to the sale of goods, such as "buyer," "delivery," "goods," "seller," and "specific goods." The Act defines a contract of sale as a contract whereby the seller transfers or agrees to transfer the property in goods to the buyer for a price. The Act also outlines the different types of contracts of sale, such as an absolute or conditional contract, as well as a sale or an agreement to sell.
+
+The Act specifies how a contract of sale may be made, including through an offer to buy or sell goods for a price and the acceptance of such offer. The contract may provide for the immediate delivery of the goods or immediate payment of the price or both, or for the delivery or payment by instalments, or that the delivery or payment or both shall be postponed. A contract of sale may be made in writing or by word of mouth, or partly in writing and partly by word of mouth, or may be implied from the conduct of the parties.
+
+The Act also specifies the different types of goods that may be the subject of a contract of sale, such as existing goods, owned or possessed by the seller, or future goods. The Act outlines the implications when goods perish before the making of a contract or after an agreement to sell but before the risk passes to the buyer.
+
+The Act also specifies the ascertainment of price, the agreement to sell at valuation, and stipulations as to time. The Act also differentiates between a condition and a warranty in a contract of sale, and specifies when a condition may be treated as a warranty. The Act also specifies implied undertakings as to title, etc., sale by description, implied conditions as to quality or fitness, sale by sample, and goods must be ascertained.
+
+The Act also specifies when property passes when intended to pass, and the specific rules for ascertaining the intention of the parties as to the time at which the property in the goods is to pass to the buyer. The Act also specifies the rules for the sale of specific goods in a deliverable state, when the seller has to do something to the goods for the purpose of putting them into a deliverable state, and when the seller is bound to weigh, measure, test or do some other act or thing with reference to the goods for the purpose of ascertaining the price.
+
+The Act also specifies the rules for the sale of unascertained goods and appropriation, and the rules for goods sent on approval or "on sale or return" or other similar terms.
