@@ -31,6 +31,9 @@ The study evaluates multiple embedding and generative models using **lexical, se
 > **Main takeaway:** RAG can improve legal QA, but its effectiveness strongly depends on retrieving **relevant, concise, and legally appropriate context**.
 
 ---
+<h1 align="center">
+<img src="images/Overview Image.png" width="700" alt="Overview" />
+</h1>
 
 ## Why This Matters
 
