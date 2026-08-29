@@ -12,7 +12,7 @@ AILQA: Evaluating AI-Driven Legal Question Answering Systems for the Indian Lega
   <a href="https://arxiv.org/abs/2607.18825"><b>[📜 ArXiv]</b></a> •
   <a href="https://huggingface.co/L-NLProc/"><b>[🤗 HF Models]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/AILQA/tree/main"><b>[<img src="images/icons8-github-16.png" alt="Github" /> GitHub]</b></a> •
-  <a href="https://huggingface.co/datasets/L-NLProc/"><b>[📝 Dataset Access]</b></a> 
+  <a href="https://github.com/ShubhamKumarNigam/AILQA/tree/main"><b>[📝Dataset Access in the GitHub repository]</b></a> 
 </p>
     
 </p>
